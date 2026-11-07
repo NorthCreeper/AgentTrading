@@ -1,0 +1,7 @@
+# Current-source probability to actual net-dollar value
+
+The complete 36-account refresh comparison improved normal continuous holding but underperformed the same-mask seed in the five-day normal score, and stress remains negative. This is not adoption. It motivates calibrating executable net dollars from current first-snapshot probability rather than the old carried seed. All three variants are retained as paired controls; no historical winner is singled out for deployment.
+
+The fixed two-coefficient ridge implementation and original hyperparameters are reused. New same-source features change genuinely: terminal expected dollars computed from each authenticated probability variant, original amount quote, fee estimate and original pre-mask weights. Model normalization is source-only; zero execution targets are valid; unknown inventory is not zero. Actual fill amount, price, verified winner, source-clock repairs and weekday results cannot become entry features or selection masks. All real inputs, fits, original source/label proofs, complete forecast auditing and finite-capital evaluation must be newly registered and independently checked.
+
+Do not retrain or promote automatically from post-fill mean calibration or a positive eight-day total. The normal score is concentrated in one day and stress post-fill probabilities remain optimistic. No weekday/time exclusions, refreshed volatility claim, fixed dollar/time exit, maker fill assumption or live order. This folder is pure synthetic design only.

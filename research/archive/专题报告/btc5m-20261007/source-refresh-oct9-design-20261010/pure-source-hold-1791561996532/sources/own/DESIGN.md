@@ -1,0 +1,3 @@
+# Full ended-Oct9 source: pure entry
+
+Advance only declared ended-calendar cutoff to Oct10 00:00 HKT and new package/status names. Old captures/reports/models/audits remain immutable. Same31 tests, one-minute recorded-clock guard before any real snapshot, original UUID matching/frozen bytes/hash/causal features/unknowns/pre-mask weights/storage reserve. Independent capture, availability and full population audit needed before adopting new source support. All remaining score dates must be included; never rename old13-date study to latest full history or genuinely unseen evidence. No targets,model,cash,wallet/main writes.

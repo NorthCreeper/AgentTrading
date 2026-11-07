@@ -1,0 +1,3 @@
+# Complete18-date executable dollar-entry source
+
+Extract every original both-outcome complete $1 amount source quote and first due1s/2s actual raw frame/acknowledgement. Keep unchanged tick, depth, fee, source/receive clocks, true zero/partial/unknown and first unusable frame. Preserve all unavailable slots, original source weights and causal teachers with missing initial3 days. Losslessly reference duplicate reports within the same record. No future execution is moved back to source; any later-time decision requires its own extra actual delay. No new financial targets, model fitting, inventory, funded cash, adoption or real orders here.

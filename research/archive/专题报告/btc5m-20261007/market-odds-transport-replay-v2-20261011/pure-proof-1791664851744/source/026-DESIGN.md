@@ -1,0 +1,3 @@
+# Fixed-market-coordinate execution confirmation
+
+Same accepted complete15-date source/model and1USD/2c/100USD/10USD/first1s or2s actual raw execution. Same original signal direction/limit, with current Up prior transport only at the first delay. No first-opportunity cost multiplier or permanent thin filter in transport arms. Fitted slope and frozen BTC/TWAP/volatility coordinates; not a full fresh-feature forecast. All48 current point/transport accounts, unknown outcomes/payment observedAt, partial/zero/cancel ledgers and original64-family/date gates preserved. Previous24 current point summaries must reproduce exactly before acceptance. Entire-exit and genuinely future new-birthday checks still required. No main/wallet or adoption permission.

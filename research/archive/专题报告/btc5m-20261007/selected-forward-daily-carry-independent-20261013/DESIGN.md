@@ -1,0 +1,3 @@
+# Actual October 13 daily carry complete audit
+
+Reuse unchanged independently tested quote, whole-round source and integer cash arithmetic. Replace only the declared model eligibility from registration-bootstrap to actual midnight daily, verify actual day/cut and publication. Independently seed the audited night terminal cash and entire cost/proceeds/fee history. All captures, unavailable slots, decisions, execution receipts, first due book and payments are read, not sampled. No new account, fit, order or runtime mutation. Author results are not an acceptance until native terminal, all complete traces and independent arithmetic agree.

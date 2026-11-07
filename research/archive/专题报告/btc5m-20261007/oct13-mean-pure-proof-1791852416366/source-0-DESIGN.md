@@ -1,0 +1,3 @@
+# Observed TWAP conditional mean teacher
+
+Preserve original six coordinates, volatility floor, seven training dates, three validation dates, six scoring dates, original pre-mask round weights, strict targets and purge. Add only asinh(observed conditional future mean bp / original sigma sqrt(h)) to U; T and C unchanged. Fit fresh coefficients; no failed kernel variance narrowing or old coefficients with new features. Historical dates have been repeatedly examined, so these are retrospective diagnostics. Actual delayed after-cost finite-capital replay and subsequent future observation are required before strategy adoption.

@@ -1,0 +1,7 @@
+# Numerical compatibility before independent future simulation
+
+Only three previously accepted full source-only streams are read: original model rows, original source quote views, and prior five-coordinate net forecasts. Their combined physical size is below 256 MiB and decoded size below 1 GiB. Full gzip members, CRC, bytes, rows, identities, source code and hashes are checked, never sample-only.
+
+Freeze all programs and the 9-test forward adapter before reading. At every original row compare the numerical-only weight projection with the original weighted teacher input and all original net views. Independently implemented accepted arithmetic verifies teacher and net numerical results and parent choice ordering. No fitting, targets, delayed fills, cash, live polling or main writes occurs. This is an internal independently implemented arithmetic crosscheck, not a separate full audit of this new stage.
+
+The final teacher was not the teacher used for earlier training-source prefixes. Recorded teacher probability equality is checked on validation and score views only; numerical weight invariance of the frozen teacher is checked on all retained original raw rows. Neither supplies proof of the new live cohort's source selection or processing latency. A future session must be registered before each market and processing delay begins at actual computed/persisted intent time. Source authentication and future finances remain separate pending stages.

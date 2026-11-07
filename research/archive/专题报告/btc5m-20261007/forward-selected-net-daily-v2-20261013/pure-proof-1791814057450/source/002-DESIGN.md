@@ -1,0 +1,3 @@
+# Actual next midnight daily candidate
+
+Wait on actual clock, never backdate fit birth. Latest four ended source days chosen from all original source-only packets before opening target files. Join all 3903 accepted historical sources plus all 65 accepted complete future source weights. Preserve six invalid future rounds outside usable weight domain and never replace them with zeros. Freeze ridge 20, 60s purge and 300 rounds/100 targets/30 positive/30 negative support checks. Same five-coordinate base model unchanged; this daily calibrator remains a candidate until independent complete audit and unknown-future cash evidence. No automatic adoption.

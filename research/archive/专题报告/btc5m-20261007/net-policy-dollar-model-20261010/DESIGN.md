@@ -1,0 +1,11 @@
+# Fixed-policy net values with a dollar training loss
+
+Frozen successor hypothesis to the failed per-share objective, not a deployment. The original normal validation per-share errors improved slightly but dollar errors worsened; all four score dates and stress are retained. No selection of dates, thresholds, ridge or policy based on those outcomes.
+
+Same six coordinates, two separately fixed policies, original 105328 slots, all source clocks/unknowns, original 7 train / 3 validation / all 4 score dates. Quotes are known at the new decision before the second actual execution; actual fills, exit/winner, label-knownness and later record counts never determine weights or features. Normal source round weights, floors, means/RMS and support remain unchanged.
+
+Minimize sum(w * (q * (B0 + x beta) - realized_net_USD)^2) + 20 * sum(beta^2). Equivalently use per-share residual response and loss weight w*q^2, where q is the known current source quote, never the later executed quantity. This transformation is determined before target masks; unknown/cancelled/residual labels stay unknown and no renormalization follows masking. The learned intercept control minimizes exactly the same dollar objective and uses the same ridge. Per-share and dollar validation must still beat both controls; daily/leave-one-day-out and all stress/score reports remain mandatory. No retrospective best-policy target.
+
+The hypothesis is that the previous training objective underweighted dollar variance of cheap contracts under the existing $1 order budget. This does not prove an actionable advantage, an exchange execution bug or genuine live fill parity. A forecast still needs the additional original 1/2 second execution, actual fees/depth/partials, $100 and $10 finite account occupancy, verified payment knowledge, original 64-family and entire-exit checks, independent full audit and new-birthday unseen paper confirmation before adoption.
+
+No wallets/signatures/live orders, main runtime changes, increased limits, artificial fixed dollar/time exits, or candidate cash accounts here. All prior failures and sealed code preserved. Pure design must pass before an explicit root registration permits actual fits; independent reconstruction must pass separately.

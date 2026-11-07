@@ -1,0 +1,15 @@
+# Selected first-opportunity net correction: frozen pure design
+
+This is a research candidate, not permission to fit, replay money, or deploy. All 16 source dates have already been researched; historical chronology is not unknown future evidence.
+
+The authenticated five-coordinate model predicted +$31.51 on the known acknowledged selected score cohort, versus -$9.18 actual net. Same-outcome quote-to-actual execution improved net, so this candidate addresses policy-selected forecasting calibration rather than assuming adverse delay. It neither adds a fixed dollar exit nor changes holding/settlement rules.
+
+For October 2 only, fit the unchanged base head on September 26, September 30 and October 1 with the original strictly earlier known targets and 60-second purge. Earlier-prefix support diagnostics found 332 known source rounds; the actual fit is still pending. For October 3-5 use the accepted base head trained through October 2. On each source day, select the first positive original-source opportunity per round before reading acknowledgement, cash constraints or winners. Preserve the selected original source-view half-round weight; do not redistribute missing grid mass or use actual quantity as a weight. Source membership and normalization are committed before target masks.
+
+The two-parameter ridge-20 head estimates actual net as base predicted net plus an intercept and standardized base predicted net correction. The strict research net target already includes actual original fees and genuine zero acknowledgements. Unknown/cancelled routes never receive zero targets. Financial-only results never train. Keep the original entry margin, amount, delay, fees and finite cash controls unchanged.
+
+Fit an early calibrator on October 2-4, checking October 5 before finalization; the predefined final calibrator uses October 2-5 for score October 6-11. No date/window/price/threshold search. A genuine source policy domain has one pre-target selected side per round, distinct from the parent all-grid estimand; all original source weights and excluded mass are reported. If the minimum 300 known rounds / 30 both signs fails, keep the failure rather than lowering requirements.
+
+Corrected predictions on any potential new selected opportunity require coverage checks: this calibrator is trained on parent-positive first opportunities, not all source views. A rejection consumes that parent opportunity in this candidate; it may not keep scanning to find an uncalibrated later source. Full cash replay must use this rule and preserve controls. Runtime use cannot apply the calibrator to all grid states without a newly defined and validated source domain.
+
+Next authorization sequence: pure proof -> authenticated OOF base fit and policy-source commitment -> strictly earlier target join and both corrections -> independent mathematics and every forecast -> fixed candidate plus five controls in 36 finite cash accounts -> every-money-event audit -> genuinely unknown future paper observation only if after-cost evidence qualifies. A zero-trade candidate does not qualify as a profitable improvement.

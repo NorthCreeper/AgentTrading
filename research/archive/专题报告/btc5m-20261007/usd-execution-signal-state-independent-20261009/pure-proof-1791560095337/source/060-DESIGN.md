@@ -1,0 +1,5 @@
+# Full independent execution-state audit
+
+Independently load original model rows and time-ordered teachers from earlier accepted mathematical audit parents, bind the fully audited unfiltered all-grid previews, read all96976 new state rows and all3344 original ranges. Own raw decoder, source highwater, witness/disposition and seed/execution join; own reference conversion, exact clock/window/horizon/identity/fee checks, books, state mathematics and source support. No new author projection, request, source, timeline or qualification function is imported.
+
+Parent previously joined targets may be parsed but never used in source selection. Cancelled/zero/partial/unavailable rows remain. Earlier independently audited preview reports may be reused as bound observations; this stage neither executes new orders nor creates cash inventory. No current USD/sigma or probabilities invented. Physical256MiB/decoded1GiB/reserve4GiB unchanged. Complete native and trace/code/prefix checks before/after. Audit mechanics are not profit certification.

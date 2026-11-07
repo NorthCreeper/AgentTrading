@@ -1,0 +1,3 @@
+# Complete18-date execution source, registered metadata read repair
+
+The full5314-round metadata is17246972bytes. The earlier registration hit the generic16MiB artifact-reader ceiling before execution extraction. Version2 uses a specifically bounded32MiB reader only for authenticated metadata in registration and actual execution extraction. Keep the generic reader default, all original snapshots/pins, capital, order depth/fees/ticks/clocks, eligibility, source weights, first-due and zero/partial/unknown semantics and all output/decode/disk limits. No actual financial or trading parameter changed. Preserve original sealed package and partial failed registration. Add one explicit17MiB-size/pin-tampering/32MiB-overrun test to the existing24.

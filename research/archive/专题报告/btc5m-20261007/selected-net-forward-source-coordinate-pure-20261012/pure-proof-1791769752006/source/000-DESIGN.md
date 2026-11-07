@@ -1,0 +1,7 @@
+# Pure future source coordinate construction
+
+Uses accepted source-market identity, Up prior, exact60s opening/current TWAP, elapsed60s sigma and original source regimes and One-Tap amount quote. Coinbase USD uses the latest original preceding observed context and its matching same-market raw source frame, never an older healthy substitute. Signal-time round weights remain unknown. Each actual observer receipt is separately retained and must be earlier than computation; declared source/receipt clocks must still precede the original frame.
+
+This pure version cannot authenticate a witness against files and does not certify any whole historical prefix highwater. Its compatibility `availabilityKnownAtUpperBound` is the original feature receipt maximum and must never be reported as the old full-prefix audit certificate. A live authentication stage must bind actual observer receipts, identities, absolute captured ranges and the population's source-clock contracts before a financial cohort is authorized. No main modifications, fitting, cash, network or actual orders.
+
+Six synthetic tests cover exact reference support, physical receipts, latest bad context without fallback, source-frame identity, duplicate/source-clock conflicts and missing Down quote. Next register and independently check all captured source coordinates and missing-opportunity reasons. Post-capture calculations are diagnostic and cannot be backdated as realtime entry signals.

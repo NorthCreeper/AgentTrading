@@ -1,0 +1,7 @@
+# F financial replay, pre-money implementation
+
+The accepted small predictive improvement is not an adopted strategy. Preserve the held seven-arm/42-account protocol and pure account without edits. This derived historical reader/evaluator is declared before any cash result. It reuses accepted forecasts, authenticates original rows and every delayed raw quote, observes original payout times, and keeps finite100USD funding and10USD occupancy. No outcome-knownness filter is used for entry.
+
+All source metadata, clocks, immutable native identities and gzip members are verified. Trace storage contains only economic state-changing events, all original source dispositions, and complete payment evidence; full final checkpoints are written once. No growing history checkpoint on each frame. The unchanged256MiB physical/1GiB decoded/4GiB reserve limits apply. Original bytes remain in place.
+
+The two F arms must each pass validation and score under normal/stress execution, beat all same-mode B0/T/C controls, have resolved positive account returns with30 closures/3 effective dates, pass all leave-one-date absolute/increment tests, concentration0.5 and fixed64-family date-bootstrap checks. Failures, zero trades and every control are reported; no fallback or tuning from money. Full independent funded replay, comparison with current automatic market exits and new-birthday forward confirmation remain necessary before adoption.

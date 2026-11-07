@@ -1,0 +1,5 @@
+# Exact constant coordinate before actual targets
+
+The first new independent synthetic audit failed (native exit 1, chunk e5d5e2, pure-proof-1791459988748, 18/19 tests). The all-constant log-horizon coordinate revealed that floating weighted means in some bootstrap draws can create a tiny nonzero variance, although its mathematical variance is exactly zero. The author's old six-source package is unchanged and its narrow prior proof is retained.
+
+Before reading any actual target or fitting this new candidate, the V3-derived numerical module explicitly detects identical values in positive-weight retained samples, then uses that exact constant mean and the already declared unit-scale convention. The independent audit derives constants using a separate set cardinality calculation. Objective, offset, ridge20, gradient1e-8, clipping, 128 fixed date resamples, weights and all validation/economic gates remain unchanged. No near-zero threshold or tuning was introduced. All failures and the original code remain archived. This is a numerical correction, not an assertion of profitable performance.

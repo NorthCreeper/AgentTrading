@@ -1,0 +1,5 @@
+# Independent full original grid source audit
+
+No imports from new author preview/grid/source/run or qualification functions. Use previously accepted independent dollar execution and prior-date teacher mathematics, common original byte readers and source guards. Independently rebuild canonical ranges, all clocks/witnesses/dispositions, source rows and teacher probabilities, every4 first-delay preview including zero/cancel/partial, original weights and all unavailable rows. Compare complete ordered gzip records and full tree fields; independent financial-style calculations cover every numerical quote/report field. Source only, no new fit/targets/cash or main writes.
+
+Require native author exit0, held author67-code closure/preview24-code closure and prior parents before/after.96976 rows/31797 qualified/3344 ranges preserved. Qualification counts unique rounds by original dates and teacher support, never outcome knownness. Repeated anchors not independent rounds. Real history audit needs separate root registration after5 pure tests; no profit inference from this source.

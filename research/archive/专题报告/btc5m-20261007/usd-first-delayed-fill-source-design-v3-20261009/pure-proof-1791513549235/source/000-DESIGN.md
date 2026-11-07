@@ -1,0 +1,11 @@
+# First actual delayed fill is a different probability task
+
+The previous chronological calibration verified first SIGNALS, never actual delayed fills. It failed. Window-only and joint window/residual models are also archived failures. This next item does not retune those failures. It first attaches original first1s/2s raw FAK/cancellation records to all335/294/681 already verified first signals. Targets may already exist as immutable annotations, but they NEVER select or weight source membership.
+
+The projector is PURE and accepts caller-authenticated original inputs. It proves mechanical first-delay, partial/zero/cancel and pre-target actual-share exposure. Isolated account shapes are not funded historical accounts or profits. Actual first-signal/source/model/native/gzip/raw-range authentication and independent source audit have NOT run in this package. Stress uses the SAME normal first-signal projection rather than pretending it is a re-selected stress strategy.
+
+Only a separately registered full source can qualify subsequent normal-trained chosen-logit calibration. Positive actual shares are declared pre-outcome exposure weights. The old100signals/30wins/30losses/4OOF dates, trained-only normalization and monotonicity/support remain. Both filled-weight CE/Brier and cross-day validation must improve before any finite-cash study. Original64-family economic thresholds, whole market-information exits and genuinely new future birthday remain unchanged. No live trading, wallet, main-account changes, or stable-profit claim.
+
+V1 pure6/7 failure is preserved with native/source copies. Its synthetic stale fixture changed source time but kept current receipt; original freshness semantics allow fresh receipts. V2 ONLY corrects that fixture to make BOTH source and receipt old. Original execution/projector/model/threshold semantics are unchanged.
+
+V2 also failed6/7 and is preserved. Direct inspection found the stale synthetic fixture MUTATED an object already accepted/cached at the SAME now, so the existing immutable-object observation cache reused its result. The prior V2 receipt-only explanation was incomplete and is superseded. V3 ONLY clones the synthetic fixture before changing both clocks; original parsed historical frames are never mutated. Projector/execution strategy code remains byte-identical.

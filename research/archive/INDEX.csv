@@ -1,0 +1,1122 @@
+档案相对路径,公开方式,调整,公开字节,公开 SHA-256
+专题报告/btc5m-20261007/account-native-pure-1791457677079/2-DESIGN.md,原文,,1387,8ac6d9a37e71d02ef3c8da4661a79e67e6caaccaa2f2a30fc523d501fd35826a
+专题报告/btc5m-20261007/account-native-pure-1791457714458/2-DESIGN.md,原文,,1387,8ac6d9a37e71d02ef3c8da4661a79e67e6caaccaa2f2a30fc523d501fd35826a
+专题报告/btc5m-20261007/actual-payoff-cost-funded-independent-20261014/DESIGN.md,原文,,458,2955279528678ebe0063fe3d82a6dd9a9f37d2a12d8cc58218f45b7a96a43604
+专题报告/btc5m-20261007/anchored-dollar-residual-pure-20261013/DESIGN.md,原文,,1570,1d5b1036908937c8b5747aa29bd6b3b215132315bf305bf3d8a65a81cfc59a96
+专题报告/btc5m-20261007/anchored-dollar-residual-pure-proof-1791875335083/source-14-DESIGN.md,原文,,1570,1d5b1036908937c8b5747aa29bd6b3b215132315bf305bf3d8a65a81cfc59a96
+专题报告/btc5m-20261007/anchored-dollar-study-v2-pure-proof-1791876321128/source-66-DESIGN.md,原文,,1570,1d5b1036908937c8b5747aa29bd6b3b215132315bf305bf3d8a65a81cfc59a96
+专题报告/btc5m-20261007/causal-seed-dollar-calibration-pure-20261011/DESIGN.md,原文,,1256,0452da84d8cda7a3ed9c1524abada9fa16ac8db372f122abd6452c8c6df80cde
+专题报告/btc5m-20261007/causal-seed-dollar-calibration-pure-20261011/pure-proof-1791711803990/source/003-DESIGN.md,原文,,1256,0452da84d8cda7a3ed9c1524abada9fa16ac8db372f122abd6452c8c6df80cde
+专题报告/btc5m-20261007/conditional-first-exit-twap-model-20261008/DESIGN.md,原文,,2832,1ed2a47f23f8d8b5fb0963719d3d5b1273cd002f5b952db0152d4e7a97c22bda
+专题报告/btc5m-20261007/conditional-first-exit-twap-model-20261008/pure-proof-1791463866961/source/000-DESIGN.md,原文,,2832,1ed2a47f23f8d8b5fb0963719d3d5b1273cd002f5b952db0152d4e7a97c22bda
+专题报告/btc5m-20261007/conditional-first-exit-twap-model-20261008/pure-proof-1791463949508/source/000-DESIGN.md,原文,,2832,1ed2a47f23f8d8b5fb0963719d3d5b1273cd002f5b952db0152d4e7a97c22bda
+专题报告/btc5m-20261007/conditional-first-exit-twap-source-20261008/DESIGN.md,原文,,3446,4459a3ca83e972560cc2d6483a3319e46617d8048add675a102942cde48b188a
+专题报告/btc5m-20261007/conditional-first-exit-twap-source-20261008/pure-proof-1791462636843/source/011-DESIGN.md,原文,,3446,4459a3ca83e972560cc2d6483a3319e46617d8048add675a102942cde48b188a
+专题报告/btc5m-20261007/conditional-margin-units-financial-registration-1791740827832/source-069-DESIGN.md,原文,,1122,26f4ebbbe21681937e35eaf4027a28cb14ad67e0ba95660ca657b1bc26118ec7
+专题报告/btc5m-20261007/conditional-margin-units-financial-registration-1791740834287/source-069-DESIGN.md,原文,,1122,26f4ebbbe21681937e35eaf4027a28cb14ad67e0ba95660ca657b1bc26118ec7
+专题报告/btc5m-20261007/conditional-margin-units-pure-20261011/DESIGN.md,原文,,967,d8e8e99693c4877320a0503ec492eb565fc539da7abb05847c3164fb410a8d02
+专题报告/btc5m-20261007/conditional-margin-units-pure-readiness-1791732714773/source-003-DESIGN.md,原文,,967,d8e8e99693c4877320a0503ec492eb565fc539da7abb05847c3164fb410a8d02
+专题报告/btc5m-20261007/conditional-mean-teacher-pure-20261013/DESIGN.md,原文,,629,0d13a2a40053017eb408bb3b4bbb8ad9682912a6a7803aa9da96f0a416529418
+专题报告/btc5m-20261007/conditional-terminal-exit-account-pure-20261008/DESIGN.md,原文,,1387,8ac6d9a37e71d02ef3c8da4661a79e67e6caaccaa2f2a30fc523d501fd35826a
+专题报告/btc5m-20261007/conditional-terminal-exit-model-pure-20261008/DESIGN.md,原文,,5913,729f922f2a52df057337faf5364dfd1e0681701062e86af5e6c130012d3cd623
+专题报告/btc5m-20261007/conditional-terminal-exit-model-v3-20261008/DESIGN.md,原文,,5920,33e00fc446a64eedd51fd958db0869939140c52efb59aa37df36ca157fa92c80
+专题报告/btc5m-20261007/conditional-terminal-exit-model-v3-20261008/TARGET-CONTRACT.md,原文,,1808,0348a914fe1ba5cd581de076f0a092d1d0e86f3e4f3748d363cac8ec41745e2d
+专题报告/btc5m-20261007/conditional-terminal-exit-model-v3-20261008/V3-NUMERIC-CORRECTION.md,原文,,1103,7d2ccd2da66bf87631d5c78202d9539dc1c10130fcf566fde9f3ef0e45f8f6c8
+专题报告/btc5m-20261007/conditional-terminal-exit-model-v3-20261008/pure-proof-1791460466825/source/000-DESIGN.md,原文,,5920,33e00fc446a64eedd51fd958db0869939140c52efb59aa37df36ca157fa92c80
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/pure-proof-1791437833340/sources/0061-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/pure-proof-1791437874466/sources/0061-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/synthetic-00cc7935-55c7-4572-b7ab-e737bd29e1f5-registration/sources/0061-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/synthetic-0a0d996d-fdac-4d1f-986f-98a1a315c99c-registration/sources/0061-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/synthetic-0e885d4a-c506-48f4-b5fd-5183142524be-registration/sources/0061-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/synthetic-1817d8a4-d41c-486d-8571-b1b2bed55133-registration/sources/0061-DESIGN.md,原文,,5092,c403a4bef578f6e5f71a1b53c33499fe35aeb0fea1ea78f1e8e4529fb6038079
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/synthetic-238938f6-cff7-4a59-a440-dad675552031-registration/sources/0061-DESIGN.md,原文,,5092,c403a4bef578f6e5f71a1b53c33499fe35aeb0fea1ea78f1e8e4529fb6038079
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/synthetic-2839fd46-a7fb-4440-8c87-6de42c72fcd2-registration/sources/0061-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/synthetic-37f48073-8515-4058-9373-36be79013ee8-registration/sources/0061-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/synthetic-3d82e2fb-78d3-44d4-ab2f-27c5c97a8242-registration/sources/0061-DESIGN.md,原文,,5092,c403a4bef578f6e5f71a1b53c33499fe35aeb0fea1ea78f1e8e4529fb6038079
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/synthetic-4852469a-43ff-4e1a-aa2e-0b5a34479e1d-registration/sources/0061-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/synthetic-4922d581-48f4-4748-ba97-21035249db4a-registration/sources/0061-DESIGN.md,原文,,5092,c403a4bef578f6e5f71a1b53c33499fe35aeb0fea1ea78f1e8e4529fb6038079
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/synthetic-512df64c-5239-4e28-baff-d9365bbbd2eb-registration/sources/0061-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/synthetic-586007c0-f041-4bf5-b536-3be3829a4f7d-registration/sources/0061-DESIGN.md,原文,,5092,c403a4bef578f6e5f71a1b53c33499fe35aeb0fea1ea78f1e8e4529fb6038079
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/synthetic-58b61b0c-4830-49d0-b678-c286650afd50-registration/sources/0061-DESIGN.md,原文,,5092,c403a4bef578f6e5f71a1b53c33499fe35aeb0fea1ea78f1e8e4529fb6038079
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/synthetic-627ae702-1a8d-4f5f-94c1-b872159af8a5-registration/sources/0061-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/synthetic-6a104766-2eb7-4818-95cf-9605e430f0ee-registration/sources/0061-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/synthetic-6e885d5e-7f7e-42bc-9216-823e9fc1f0eb-registration/sources/0061-DESIGN.md,原文,,5092,c403a4bef578f6e5f71a1b53c33499fe35aeb0fea1ea78f1e8e4529fb6038079
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/synthetic-6f421888-a478-4441-b378-32e9a9e3b085-registration/sources/0061-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/synthetic-8a6dae55-972d-4038-a25f-5758580e088f-registration/sources/0061-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/synthetic-9a33f848-b981-439a-8bfa-773cb15b6c5a-registration/sources/0061-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/synthetic-9ae8788a-a33a-4604-9897-1dc227022559-registration/sources/0061-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/synthetic-a78209cf-3a48-4ed9-93a1-7cd27390076f-registration/sources/0061-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/synthetic-afc7d3bc-836c-4b1a-9542-4e7a64ab6ad3-registration/sources/0061-DESIGN.md,原文,,5092,c403a4bef578f6e5f71a1b53c33499fe35aeb0fea1ea78f1e8e4529fb6038079
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/synthetic-b67e1ac7-a3e0-4ca9-8cc6-3edf261240b2-registration/sources/0061-DESIGN.md,原文,,5092,c403a4bef578f6e5f71a1b53c33499fe35aeb0fea1ea78f1e8e4529fb6038079
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/synthetic-bdebec03-12af-4ac1-bace-4de77b025bba-registration/sources/0061-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/synthetic-bf5a730b-1ed3-4a6d-97b0-723a7b0a898e-registration/sources/0061-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/synthetic-bf9fd4ad-e85f-4f52-899d-88b4f9b5ff89-registration/sources/0061-DESIGN.md,原文,,5092,c403a4bef578f6e5f71a1b53c33499fe35aeb0fea1ea78f1e8e4529fb6038079
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/synthetic-d939a932-0bb0-4333-91e3-bed07b527f80-registration/sources/0061-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/synthetic-dec83b6d-46ee-448d-a39d-0898e53ee0e8-registration/sources/0061-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/synthetic-df5af612-3f59-4108-8bf9-d34e13700c64-registration/sources/0061-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/synthetic-f20d76d6-0175-4e0a-a81d-9650cd9cd7c3-registration/sources/0061-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-20261008/synthetic-f80210ac-34fa-44b6-9052-b5f2884c83ad-registration/sources/0061-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/pure-proof-1791457900387/sources/0061-CAUSAL-CONTRACT.md,原文,,4190,6cc7ddba42d38184692f4b3412b8a4501a6100296f3bb0b0ce5843914fb03300
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/pure-proof-1791457900387/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/pure-proof-1791457903133/sources/0061-CAUSAL-CONTRACT.md,原文,,4190,6cc7ddba42d38184692f4b3412b8a4501a6100296f3bb0b0ce5843914fb03300
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/pure-proof-1791457903133/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/pure-proof-1791458069683/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/pure-proof-1791458069683/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-03edf9b4-2889-4fa4-b04c-26f264ee0c68-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-03edf9b4-2889-4fa4-b04c-26f264ee0c68-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-0ae0352a-7eda-4744-ba6d-e69a385ce2c6-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4190,6cc7ddba42d38184692f4b3412b8a4501a6100296f3bb0b0ce5843914fb03300
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-0ae0352a-7eda-4744-ba6d-e69a385ce2c6-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-0d322373-211d-4c27-a69c-9a03f9bbbee8-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,3651,c603d8f18b9d56afdd54e096d3d2cacfd52fffe8c441d80033abc423c624d733
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-0d322373-211d-4c27-a69c-9a03f9bbbee8-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-116d7c6e-f6ea-4c13-b935-e897fefd2ef7-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4190,6cc7ddba42d38184692f4b3412b8a4501a6100296f3bb0b0ce5843914fb03300
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-116d7c6e-f6ea-4c13-b935-e897fefd2ef7-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-1b8a7506-abe3-4948-b1dc-5a1da5e3ac61-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4190,6cc7ddba42d38184692f4b3412b8a4501a6100296f3bb0b0ce5843914fb03300
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-1b8a7506-abe3-4948-b1dc-5a1da5e3ac61-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-1d0d2bc0-c0e4-48e1-9fe1-e60f8eee0647-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4190,6cc7ddba42d38184692f4b3412b8a4501a6100296f3bb0b0ce5843914fb03300
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-1d0d2bc0-c0e4-48e1-9fe1-e60f8eee0647-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-1d4b5509-7615-4e6f-8200-8d38d7b3d743-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4190,6cc7ddba42d38184692f4b3412b8a4501a6100296f3bb0b0ce5843914fb03300
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-1d4b5509-7615-4e6f-8200-8d38d7b3d743-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-2eb8590a-37e0-4cd3-a902-73265e66b211-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4190,6cc7ddba42d38184692f4b3412b8a4501a6100296f3bb0b0ce5843914fb03300
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-2eb8590a-37e0-4cd3-a902-73265e66b211-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-371ea6f9-5d4a-4913-9cec-baaf7e34c228-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-371ea6f9-5d4a-4913-9cec-baaf7e34c228-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-3cb309c4-84c5-4c4f-8768-e48575e37544-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-3cb309c4-84c5-4c4f-8768-e48575e37544-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-43acfe2d-bc34-4ebc-9ebe-4561eac17837-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4190,6cc7ddba42d38184692f4b3412b8a4501a6100296f3bb0b0ce5843914fb03300
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-43acfe2d-bc34-4ebc-9ebe-4561eac17837-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-487484f3-4424-4c20-aa13-b4a4c6219061-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-487484f3-4424-4c20-aa13-b4a4c6219061-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-488815ca-1780-45f3-ac44-0b8fc06d5995-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,3651,c603d8f18b9d56afdd54e096d3d2cacfd52fffe8c441d80033abc423c624d733
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-488815ca-1780-45f3-ac44-0b8fc06d5995-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-4a344469-a8eb-4518-acf5-0d427217f50e-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4190,6cc7ddba42d38184692f4b3412b8a4501a6100296f3bb0b0ce5843914fb03300
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-4a344469-a8eb-4518-acf5-0d427217f50e-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-4dfa2b17-e5eb-4de8-af58-d629d7f6c862-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,3651,c603d8f18b9d56afdd54e096d3d2cacfd52fffe8c441d80033abc423c624d733
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-4dfa2b17-e5eb-4de8-af58-d629d7f6c862-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-53c3b8fc-d2ca-491d-bae7-4d8e6cc5775e-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4190,6cc7ddba42d38184692f4b3412b8a4501a6100296f3bb0b0ce5843914fb03300
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-53c3b8fc-d2ca-491d-bae7-4d8e6cc5775e-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-5961abf0-b75d-4226-a546-52b739b8eb9d-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,3651,c603d8f18b9d56afdd54e096d3d2cacfd52fffe8c441d80033abc423c624d733
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-5961abf0-b75d-4226-a546-52b739b8eb9d-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-60734729-5583-4b7e-a975-49289e2cf59c-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4190,6cc7ddba42d38184692f4b3412b8a4501a6100296f3bb0b0ce5843914fb03300
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-60734729-5583-4b7e-a975-49289e2cf59c-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-6ab0c085-2aa9-4fcc-b9b1-5321988badca-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-6ab0c085-2aa9-4fcc-b9b1-5321988badca-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-70ada3f4-4212-4fe1-bd93-e890c9503e0a-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-70ada3f4-4212-4fe1-bd93-e890c9503e0a-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-710b6f71-ba56-44be-9993-01f9a037522c-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,3651,c603d8f18b9d56afdd54e096d3d2cacfd52fffe8c441d80033abc423c624d733
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-710b6f71-ba56-44be-9993-01f9a037522c-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-714171d3-8df3-4751-9485-2dbb52fb941a-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4190,6cc7ddba42d38184692f4b3412b8a4501a6100296f3bb0b0ce5843914fb03300
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-714171d3-8df3-4751-9485-2dbb52fb941a-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-7619e35c-89de-4926-ac94-9ed6d16c4d7f-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,3651,c603d8f18b9d56afdd54e096d3d2cacfd52fffe8c441d80033abc423c624d733
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-7619e35c-89de-4926-ac94-9ed6d16c4d7f-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-7c787722-1d28-4e2e-a756-5ca5c794df7e-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,3651,c603d8f18b9d56afdd54e096d3d2cacfd52fffe8c441d80033abc423c624d733
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-7c787722-1d28-4e2e-a756-5ca5c794df7e-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-7d5666de-0425-4f22-bf90-c9123b503792-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4190,6cc7ddba42d38184692f4b3412b8a4501a6100296f3bb0b0ce5843914fb03300
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-7d5666de-0425-4f22-bf90-c9123b503792-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-84bf81cd-b28c-4574-a5fa-1588b8467259-registration/sources/0060-CAUSAL-CONTRACT.md,原文,,3651,c603d8f18b9d56afdd54e096d3d2cacfd52fffe8c441d80033abc423c624d733
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-84bf81cd-b28c-4574-a5fa-1588b8467259-registration/sources/0064-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-89367546-8b42-49ab-91cd-656217c0093b-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4190,6cc7ddba42d38184692f4b3412b8a4501a6100296f3bb0b0ce5843914fb03300
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-89367546-8b42-49ab-91cd-656217c0093b-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-8cf31c5c-a98f-4c51-99cb-90e7fb340c72-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4190,6cc7ddba42d38184692f4b3412b8a4501a6100296f3bb0b0ce5843914fb03300
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-8cf31c5c-a98f-4c51-99cb-90e7fb340c72-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-8d4d25ac-0532-460e-b92d-2d01b6a12ebb-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,3651,c603d8f18b9d56afdd54e096d3d2cacfd52fffe8c441d80033abc423c624d733
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-8d4d25ac-0532-460e-b92d-2d01b6a12ebb-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-a4374a42-c681-4975-b339-0e71036a3e63-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,3651,c603d8f18b9d56afdd54e096d3d2cacfd52fffe8c441d80033abc423c624d733
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-a4374a42-c681-4975-b339-0e71036a3e63-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-a58c4796-9513-41aa-bdc8-b7ebfb297266-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4190,6cc7ddba42d38184692f4b3412b8a4501a6100296f3bb0b0ce5843914fb03300
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-a58c4796-9513-41aa-bdc8-b7ebfb297266-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-a9044663-7beb-4020-a18a-0f4e346f9dfa-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,3651,c603d8f18b9d56afdd54e096d3d2cacfd52fffe8c441d80033abc423c624d733
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-a9044663-7beb-4020-a18a-0f4e346f9dfa-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-ac2c9c84-a124-4318-a8ca-61cf66b472a0-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4190,6cc7ddba42d38184692f4b3412b8a4501a6100296f3bb0b0ce5843914fb03300
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-ac2c9c84-a124-4318-a8ca-61cf66b472a0-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-ad3a7a03-0340-4ebe-ab71-5483d2ea9146-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,3651,c603d8f18b9d56afdd54e096d3d2cacfd52fffe8c441d80033abc423c624d733
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-ad3a7a03-0340-4ebe-ab71-5483d2ea9146-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-b13acc4a-01c9-41ab-9c4b-0b6f38cc34de-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4190,6cc7ddba42d38184692f4b3412b8a4501a6100296f3bb0b0ce5843914fb03300
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-b13acc4a-01c9-41ab-9c4b-0b6f38cc34de-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-b1efc2a8-659d-4ffc-a0aa-692cbc3d961c-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,3651,c603d8f18b9d56afdd54e096d3d2cacfd52fffe8c441d80033abc423c624d733
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-b1efc2a8-659d-4ffc-a0aa-692cbc3d961c-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-b78bb394-29a9-4bf1-a81c-ac8a4544dc58-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,3651,c603d8f18b9d56afdd54e096d3d2cacfd52fffe8c441d80033abc423c624d733
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-b78bb394-29a9-4bf1-a81c-ac8a4544dc58-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-c7780638-afdb-4a0c-a906-0ba736cb87ea-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4190,6cc7ddba42d38184692f4b3412b8a4501a6100296f3bb0b0ce5843914fb03300
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-c7780638-afdb-4a0c-a906-0ba736cb87ea-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-c925e12c-845d-41e1-9271-c0b23748727d-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,3651,c603d8f18b9d56afdd54e096d3d2cacfd52fffe8c441d80033abc423c624d733
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-c925e12c-845d-41e1-9271-c0b23748727d-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-cdba1f02-8e9a-4423-9fd8-c958c90d5060-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4190,6cc7ddba42d38184692f4b3412b8a4501a6100296f3bb0b0ce5843914fb03300
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-cdba1f02-8e9a-4423-9fd8-c958c90d5060-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-ea71e73a-6f3d-4848-a49b-ced08ce9d9a5-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4190,6cc7ddba42d38184692f4b3412b8a4501a6100296f3bb0b0ce5843914fb03300
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-ea71e73a-6f3d-4848-a49b-ced08ce9d9a5-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-ef66cb44-2f97-4fc2-9b6e-923597aa4dd0-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4190,6cc7ddba42d38184692f4b3412b8a4501a6100296f3bb0b0ce5843914fb03300
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-ef66cb44-2f97-4fc2-9b6e-923597aa4dd0-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-f075008e-9ea6-49c2-8e51-4b827f7f8462-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-f075008e-9ea6-49c2-8e51-4b827f7f8462-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-fccd13e8-2e0b-4945-ae8f-cdfc99b5ec48-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,3651,c603d8f18b9d56afdd54e096d3d2cacfd52fffe8c441d80033abc423c624d733
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v2-20261008/synthetic-fccd13e8-2e0b-4945-ae8f-cdfc99b5ec48-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/pure-proof-1791459622623/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/pure-proof-1791459622623/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/pure-proof-1791459622623/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/pure-proof-1791459661651/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/pure-proof-1791459661651/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/pure-proof-1791459661651/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-08c7389d-5bf2-486d-bcb8-f6d8f7d83ba8-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-08c7389d-5bf2-486d-bcb8-f6d8f7d83ba8-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-08c7389d-5bf2-486d-bcb8-f6d8f7d83ba8-registration/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-1f223ff3-c561-475a-8fba-7579c15f0628-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-1f223ff3-c561-475a-8fba-7579c15f0628-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-1f223ff3-c561-475a-8fba-7579c15f0628-registration/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-3dedda44-69e2-405f-b685-4c9f9132a708-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-3dedda44-69e2-405f-b685-4c9f9132a708-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-3dedda44-69e2-405f-b685-4c9f9132a708-registration/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-4136c983-cbff-4381-8f3d-ddfa45ace816-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-4136c983-cbff-4381-8f3d-ddfa45ace816-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-4136c983-cbff-4381-8f3d-ddfa45ace816-registration/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-42ff6b87-fae6-46c7-937b-aa59bd42281d-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-42ff6b87-fae6-46c7-937b-aa59bd42281d-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-42ff6b87-fae6-46c7-937b-aa59bd42281d-registration/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-4326b05f-7697-4952-a1c5-4b0157bedaa7-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-4326b05f-7697-4952-a1c5-4b0157bedaa7-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-4326b05f-7697-4952-a1c5-4b0157bedaa7-registration/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-51a175bd-92e1-4b17-ab09-fc7a18de4981-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-51a175bd-92e1-4b17-ab09-fc7a18de4981-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-51a175bd-92e1-4b17-ab09-fc7a18de4981-registration/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-56d378eb-d7eb-493c-abca-483138603f55-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-56d378eb-d7eb-493c-abca-483138603f55-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-56d378eb-d7eb-493c-abca-483138603f55-registration/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-587ed464-75a1-4fc7-af45-6bbdfa230a1c-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-587ed464-75a1-4fc7-af45-6bbdfa230a1c-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-587ed464-75a1-4fc7-af45-6bbdfa230a1c-registration/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-662100e1-e9da-4ef5-8420-555eb8b81c9b-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-662100e1-e9da-4ef5-8420-555eb8b81c9b-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-662100e1-e9da-4ef5-8420-555eb8b81c9b-registration/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-69d83edd-d1f7-452f-971b-1e00acd820c1-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-69d83edd-d1f7-452f-971b-1e00acd820c1-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-69d83edd-d1f7-452f-971b-1e00acd820c1-registration/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-6d39d396-8b78-47e4-a217-8f2866e2557b-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-6d39d396-8b78-47e4-a217-8f2866e2557b-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-6d39d396-8b78-47e4-a217-8f2866e2557b-registration/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-6dec4f10-091f-4014-b064-e164ea099b7a-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-6dec4f10-091f-4014-b064-e164ea099b7a-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-6dec4f10-091f-4014-b064-e164ea099b7a-registration/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-85eca85f-b873-4c07-b7d3-b3ddfc02cfbb-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-85eca85f-b873-4c07-b7d3-b3ddfc02cfbb-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-85eca85f-b873-4c07-b7d3-b3ddfc02cfbb-registration/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-8d141a79-bde1-4d26-a3fc-6e9391e11613-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-8d141a79-bde1-4d26-a3fc-6e9391e11613-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-8d141a79-bde1-4d26-a3fc-6e9391e11613-registration/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-9ccc18b6-7965-4fbd-9ff2-b219ef804bb8-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-9ccc18b6-7965-4fbd-9ff2-b219ef804bb8-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-9ccc18b6-7965-4fbd-9ff2-b219ef804bb8-registration/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-ab49bc58-74e9-4b83-a1c9-08c6292bb52d-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-ab49bc58-74e9-4b83-a1c9-08c6292bb52d-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-ab49bc58-74e9-4b83-a1c9-08c6292bb52d-registration/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-ae7558e8-2fe8-4658-96fd-9ed0b103a2b6-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-ae7558e8-2fe8-4658-96fd-9ed0b103a2b6-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-ae7558e8-2fe8-4658-96fd-9ed0b103a2b6-registration/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-b596c021-de68-4daf-83fa-d3883de81025-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-b596c021-de68-4daf-83fa-d3883de81025-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-b596c021-de68-4daf-83fa-d3883de81025-registration/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-bc5547bb-5d20-416e-a674-4249b8b2db09-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-bc5547bb-5d20-416e-a674-4249b8b2db09-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-bc5547bb-5d20-416e-a674-4249b8b2db09-registration/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-c0aa9135-fa75-4c0f-9f87-6d39e29957a7-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-c0aa9135-fa75-4c0f-9f87-6d39e29957a7-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-c0aa9135-fa75-4c0f-9f87-6d39e29957a7-registration/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-clock-47ebc23e-bdd7-4bf0-a98d-4d5563b63f18-registered/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-clock-47ebc23e-bdd7-4bf0-a98d-4d5563b63f18-registered/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-clock-47ebc23e-bdd7-4bf0-a98d-4d5563b63f18-registered/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-clock-d1d46dcb-625f-4321-9051-fa30171a6ccd-registered/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-clock-d1d46dcb-625f-4321-9051-fa30171a6ccd-registered/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-clock-d1d46dcb-625f-4321-9051-fa30171a6ccd-registered/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-d03671c7-d2b0-4a90-a9bb-d192a821388a-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-d03671c7-d2b0-4a90-a9bb-d192a821388a-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-d03671c7-d2b0-4a90-a9bb-d192a821388a-registration/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-d31a8c94-fc48-4f92-a2e1-c28bfdaa049a-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-d31a8c94-fc48-4f92-a2e1-c28bfdaa049a-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-d31a8c94-fc48-4f92-a2e1-c28bfdaa049a-registration/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-d84ce524-4682-496a-8635-f9f8f6481b6a-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-d84ce524-4682-496a-8635-f9f8f6481b6a-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-d84ce524-4682-496a-8635-f9f8f6481b6a-registration/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-d9472be1-3a27-4213-891b-31c09e80db5a-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-d9472be1-3a27-4213-891b-31c09e80db5a-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-d9472be1-3a27-4213-891b-31c09e80db5a-registration/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-dc8cdce3-d7c6-4c8b-8cfb-6e7e1b58c99d-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-dc8cdce3-d7c6-4c8b-8cfb-6e7e1b58c99d-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-dc8cdce3-d7c6-4c8b-8cfb-6e7e1b58c99d-registration/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-ea4ae0dc-89f0-4ee2-921a-94da55201bd5-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-ea4ae0dc-89f0-4ee2-921a-94da55201bd5-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-ea4ae0dc-89f0-4ee2-921a-94da55201bd5-registration/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-ebbe3ae4-a3bd-4038-8c3b-06791b48a9bd-registration/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-ebbe3ae4-a3bd-4038-8c3b-06791b48a9bd-registration/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/conditional-terminal-exit-source-v3-20261008/synthetic-ebbe3ae4-a3bd-4038-8c3b-06791b48a9bd-registration/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/conditional-winner-net-funded-independent-20261014/DESIGN.md,原文,,847,75f7a37cb82c6b2d6e61b41cf074701bf5be02f89a430f7cb86f75ce324fe699
+专题报告/btc5m-20261007/conditional-winner-net-study-20261014/DESIGN.md,原文,,787,018d44fd8b123f0ce56c363e57002835c43f9ac35fcb16e1fa1f76280a1392f9
+专题报告/btc5m-20261007/continuation-amount-exit-20261013/DESIGN.md,原文,,1266,5a20bdc953db941f8f8581017864813d42ae732746aa49a4c14b997ccbdf2a1d
+专题报告/btc5m-20261007/continuation-amount-exit-20261013/FUNDED-DESIGN.md,原文,,1604,476d04cb998ce0cdbd6afd80da859597da3681f23edaff3b09f0bc13909fffb4
+专题报告/btc5m-20261007/continuation-amount-exit-first-pure-failure-1791870152375/DESIGN.md,原文,,1266,5a20bdc953db941f8f8581017864813d42ae732746aa49a4c14b997ccbdf2a1d
+专题报告/btc5m-20261007/continuation-amount-exit-pure-proof-1791870152453/source-19-DESIGN.md,原文,,1266,5a20bdc953db941f8f8581017864813d42ae732746aa49a4c14b997ccbdf2a1d
+专题报告/btc5m-20261007/continuation-bellman-design-20261013/DESIGN.md,原文,,1624,fd00780eb499b1fae882effdd1b57b9b6a76306d9a4e3d115fd6e02b1e54e9d3
+专题报告/btc5m-20261007/continuation-bellman-pure-proof-1791860940789/source-12-DESIGN.md,原文,,1624,fd00780eb499b1fae882effdd1b57b9b6a76306d9a4e3d115fd6e02b1e54e9d3
+专题报告/btc5m-20261007/continuation-fit-design-20261013/DESIGN.md,原文,,1267,ee0ed8d07f511b63bdbce10d8a8f15b8ae3c6c7ef703d541572c5d714c5d4521
+专题报告/btc5m-20261007/continuation-fit-pure-proof-1791861183830/source-12-DESIGN.md,原文,,1267,ee0ed8d07f511b63bdbce10d8a8f15b8ae3c6c7ef703d541572c5d714c5d4521
+专题报告/btc5m-20261007/continuation-value-funded-pure-proof-1791870865468/source-53-FUNDED-DESIGN.md,原文,,1604,476d04cb998ce0cdbd6afd80da859597da3681f23edaff3b09f0bc13909fffb4
+专题报告/btc5m-20261007/continuation-value-source-pure-20261013/DESIGN.md,原文,,2246,e9aac8182c4ee48a46259e2f6317c79b5ea956ce1a73621ce67f6f7109eb9ef0
+专题报告/btc5m-20261007/continuation-value-source-pure-proof-1791858146790/source-0-DESIGN.md,原文,,2246,e9aac8182c4ee48a46259e2f6317c79b5ea956ce1a73621ce67f6f7109eb9ef0
+专题报告/btc5m-20261007/current-source-dollar-calibration-pure-20261011/DESIGN.md,原文,,1518,d8174769756c443ae907378ff89f56c22e452c5dea3254e9399c9c526a7812bb
+专题报告/btc5m-20261007/current-source-dollar-calibration-pure-readiness-1791728396723/source-005-DESIGN.md,原文,,1518,d8174769756c443ae907378ff89f56c22e452c5dea3254e9399c9c526a7812bb
+专题报告/btc5m-20261007/current-source-dollar-study-registration-1791729325700/source-070-DESIGN.md,原文,,1518,d8174769756c443ae907378ff89f56c22e452c5dea3254e9399c9c526a7812bb
+专题报告/btc5m-20261007/current-source-dollar-study-v2-registration-1791729548714/source-072-DESIGN.md,原文,,1518,d8174769756c443ae907378ff89f56c22e452c5dea3254e9399c9c526a7812bb
+专题报告/btc5m-20261007/daily-payoff-cost-funded-independent-20261014/DESIGN.md,原文,,521,f6eca508eec3cdc8b69dbee0f210bc08a53eaa424e46388ad6ead8a470ca32a9
+专题报告/btc5m-20261007/daily-selected-opportunity-net-pure-20261012/DESIGN.md,原文,,1791,8638235c7d934bf5ba280543ed07f6868f166549195c36837465d73aa63ea698
+专题报告/btc5m-20261007/daily-selected-opportunity-net-pure-20261012/pure-proof-1791766307886/source/000-DESIGN.md,原文,,1791,8638235c7d934bf5ba280543ed07f6868f166549195c36837465d73aa63ea698
+专题报告/btc5m-20261007/daily-selected-opportunity-net-pure-v2-20261012/DESIGN.md,原文,,1791,8638235c7d934bf5ba280543ed07f6868f166549195c36837465d73aa63ea698
+专题报告/btc5m-20261007/daily-selected-opportunity-net-pure-v2-20261012/pure-proof-1791766343882/source/000-DESIGN.md,原文,,1791,8638235c7d934bf5ba280543ed07f6868f166549195c36837465d73aa63ea698
+专题报告/btc5m-20261007/economic-objective-review-20261008.md,原文,,2962,7ada761ed5239844cb0a3d85d46bfa468553b17742fea77ce1641b2d9d4991af
+专题报告/btc5m-20261007/entry-economic-review-20261008/REVIEW.md,公开整理,范围外资料注明归档位置 / 运行标识脱敏,11802,404fe22b28a9b3391dd03379e814061119e98a3be9f348ce5361dd25507200d5
+专题报告/btc5m-20261007/entry-economic-review-20261008/STORAGE-METADATA-REVIEW.md,公开整理,范围外资料注明归档位置,6508,f9c43abaa6b4c33732cc057d6f3e937c0f342bb9ffcad87368dda7ffcf33fe1f
+专题报告/btc5m-20261007/entry-economic-review-20261008/second-inactive-c6a/PREPARATION.md,公开整理,机器路径整理 / 运行标识脱敏,1769,e18627f15b534c07bde909679eb2140eb3788ea69f3b35bfec112fe599c8cb2f
+专题报告/btc5m-20261007/entry-economic-review-20261008/second-inactive-c6a/WRAPPER-REVIEW.md,原文,,2355,98e1adc67c06180c2f6f3c0c4db905bad7417224a95a565335fe11049c1246c1
+专题报告/btc5m-20261007/entry-economic-review-20261008/third-inactive-c6a/PREPARATION.md,公开整理,机器路径整理 / 运行标识脱敏,1941,3d82f93874e401696bc34ac09317f126b085ea8c54ccff2897d73edf5eafdc63
+专题报告/btc5m-20261007/executed-conditional-calibration-pure-20261011/DESIGN.md,原文,,1499,398a48934ff9c5b4711cfad3d8b5084ec157dd3bb05c696025f46412e0f5c3a7
+专题报告/btc5m-20261007/executed-conditional-calibration-pure-readiness-1791730626350/source-003-DESIGN.md,原文,,1499,398a48934ff9c5b4711cfad3d8b5084ec157dd3bb05c696025f46412e0f5c3a7
+专题报告/btc5m-20261007/executed-conditional-financial-pure-20261011/DESIGN.md,原文,,1122,26f4ebbbe21681937e35eaf4027a28cb14ad67e0ba95660ca657b1bc26118ec7
+专题报告/btc5m-20261007/executed-conditional-financial-registration-1791731815526/source-065-DESIGN.md,原文,,1122,26f4ebbbe21681937e35eaf4027a28cb14ad67e0ba95660ca657b1bc26118ec7
+专题报告/btc5m-20261007/executed-conditional-financial-registration-1791731997816/source-065-DESIGN.md,原文,,1122,26f4ebbbe21681937e35eaf4027a28cb14ad67e0ba95660ca657b1bc26118ec7
+专题报告/btc5m-20261007/executed-conditional-reader-pure-20261011/DESIGN.md,原文,,1245,6bf6a6b02b52c1e0d356c99853d1846f2851ba885e01d0e5cdcbd4bc084c6b93
+专题报告/btc5m-20261007/executed-conditional-reader-pure-readiness-1791730881247/source-004-DESIGN.md,原文,,1245,6bf6a6b02b52c1e0d356c99853d1846f2851ba885e01d0e5cdcbd4bc084c6b93
+专题报告/btc5m-20261007/execution-price-residual-pure-20261012/DESIGN.md,原文,,2411,d231c01f94331378eee3efa69c9afc73a72e4f92608b545c6c7db7ea0edd8875
+专题报告/btc5m-20261007/execution-price-residual-pure-20261012/unsealed-cost-anchor-draft-1791742069477/DESIGN.md,原文,,1990,41ce0aeb77fa376e402799d9e0ebb01827672624f8b101f94ca4551c67a50618
+专题报告/btc5m-20261007/execution-price-residual-pure-readiness-1791742114162/source-003-DESIGN.md,原文,,2411,d231c01f94331378eee3efa69c9afc73a72e4f92608b545c6c7db7ea0edd8875
+专题报告/btc5m-20261007/execution-probability-refresh-financial-pure-20261011/DESIGN.md,原文,,2670,bf3fa52c90a6ecf15c0b20108596cfedcf30b8ce225b46d9524b8065774e88e8
+专题报告/btc5m-20261007/execution-probability-refresh-financial-registration-1791727564764/source-065-DESIGN.md,原文,,2670,bf3fa52c90a6ecf15c0b20108596cfedcf30b8ce225b46d9524b8065774e88e8
+专题报告/btc5m-20261007/external-usd-economic-20261009/DESIGN.md,原文,,1060,93dd106a313fa17e1022d6ba4b78ad9659c032c2e54eef8adb2932f72acce24a
+专题报告/btc5m-20261007/external-usd-economic-20261009/pure-proof-1791486706986/source/019-DESIGN.md,原文,,1060,93dd106a313fa17e1022d6ba4b78ad9659c032c2e54eef8adb2932f72acce24a
+专题报告/btc5m-20261007/external-usd-economic-independent-20261009/DESIGN.md,原文,,788,59dc0ab6e796d2ec08fe4060e6b00c74c1fefbbe3f6590d821d4f96c203ceb83
+专题报告/btc5m-20261007/external-usd-economic-independent-20261009/pure-proof-1791487097211/source/047-DESIGN.md,原文,,788,59dc0ab6e796d2ec08fe4060e6b00c74c1fefbbe3f6590d821d4f96c203ceb83
+专题报告/btc5m-20261007/external-usd-model-study/source-hold-1791353197034/DESIGN.md,公开整理,机器路径整理,7112,bef7d2ca8363e8dba9f54b683d3569a8ae814981ec7a4723e08c0ea292c6291e
+专题报告/btc5m-20261007/external-usd-study-independent-20261009/DESIGN.md,原文,,791,8a1207600437c515ed3b5b93e92c5cc12741324f977fdec214e5d1636f75cc72
+专题报告/btc5m-20261007/external-usd-study-independent-20261009/pure-proof-1791486251837/source/046-DESIGN.md,原文,,791,8a1207600437c515ed3b5b93e92c5cc12741324f977fdec214e5d1636f75cc72
+专题报告/btc5m-20261007/external-usd-study-independent-oct10-20261011/DESIGN.md,原文,,790,6d2b898c45f2cdaca15b44748cd47a795614aedbc3c0528c9e8f5357495ef4c5
+专题报告/btc5m-20261007/external-usd-study-independent-oct10-20261011/pure-proof-1791663295685/source/043-DESIGN.md,原文,,790,6d2b898c45f2cdaca15b44748cd47a795614aedbc3c0528c9e8f5357495ef4c5
+专题报告/btc5m-20261007/external-usd-study-independent-oct11-20261012/DESIGN.md,原文,,790,a6eaf085b1a04056226730bfb04828f10a517c25559a3215f71eaa819764e493
+专题报告/btc5m-20261007/external-usd-study-independent-oct11-20261012/pure-proof-1791742981499/source/043-DESIGN.md,原文,,790,a6eaf085b1a04056226730bfb04828f10a517c25559a3215f71eaa819764e493
+专题报告/btc5m-20261007/external-usd-study-independent-oct12-20261013/DESIGN.md,原文,,514,8b55c27dad9a88277f3b4b30b9bf79cde109f60c7b0e894fdd13d5c2cbfd5466
+专题报告/btc5m-20261007/external-usd-study-independent-oct12-20261013/pure-proof-1791874019611/source/043-DESIGN.md,原文,,514,8b55c27dad9a88277f3b4b30b9bf79cde109f60c7b0e894fdd13d5c2cbfd5466
+专题报告/btc5m-20261007/external-usd-study-independent-oct13-20261014/DESIGN.md,原文,,488,42835cfc70d6e5ef927f8af3127895caeedd028ab5203ad5c0076c590c3c8890
+专题报告/btc5m-20261007/external-usd-study-independent-oct13-20261014/pure-proof-1791916166669/source/043-DESIGN.md,原文,,488,42835cfc70d6e5ef927f8af3127895caeedd028ab5203ad5c0076c590c3c8890
+专题报告/btc5m-20261007/external-usd-study-independent-oct9-20261010/DESIGN.md,原文,,489,d0467052f5b21eaca437bdbe304c3d788a2d1b81b693c60b6bc688fbdfefdade
+专题报告/btc5m-20261007/external-usd-study-independent-oct9-20261010/pure-proof-1791564049888/source/050-DESIGN.md,原文,,489,d0467052f5b21eaca437bdbe304c3d788a2d1b81b693c60b6bc688fbdfefdade
+专题报告/btc5m-20261007/external-usd-study-refresh-20261009/DESIGN.md,原文,,857,d9a05cca7f34e02687b0f142d0ed9c29289cac85106b47977b6d39881986e1b5
+专题报告/btc5m-20261007/external-usd-study-refresh-20261009/pure-proof-1791485320278/source/000-DESIGN.md,原文,,857,d9a05cca7f34e02687b0f142d0ed9c29289cac85106b47977b6d39881986e1b5
+专题报告/btc5m-20261007/external-usd-study-refresh-oct10-20261011/DESIGN.md,原文,,523,723c01fcd5d4ac57422957f26ce883aa4bcfff832ee242df22f2ef170dfb7112
+专题报告/btc5m-20261007/external-usd-study-refresh-oct10-20261011/pure-proof-1791662897023/source/000-DESIGN.md,原文,,523,723c01fcd5d4ac57422957f26ce883aa4bcfff832ee242df22f2ef170dfb7112
+专题报告/btc5m-20261007/external-usd-study-refresh-oct11-20261012/DESIGN.md,原文,,523,723c01fcd5d4ac57422957f26ce883aa4bcfff832ee242df22f2ef170dfb7112
+专题报告/btc5m-20261007/external-usd-study-refresh-oct11-20261012/pure-proof-1791742540607/source/000-DESIGN.md,原文,,523,723c01fcd5d4ac57422957f26ce883aa4bcfff832ee242df22f2ef170dfb7112
+专题报告/btc5m-20261007/external-usd-study-refresh-oct12-20261013/DESIGN.md,原文,,543,e927f1669d37d8e75769096ff8d9f8c6f164b850a7d3d685e5d00ba3df84897e
+专题报告/btc5m-20261007/external-usd-study-refresh-oct12-20261013/pure-proof-1791873665672/source/000-DESIGN.md,原文,,543,e927f1669d37d8e75769096ff8d9f8c6f164b850a7d3d685e5d00ba3df84897e
+专题报告/btc5m-20261007/external-usd-study-refresh-oct13-20261014/DESIGN.md,原文,,575,0534e924c87e705ca660d2804bde4648c88277514cc8cb8bf0a48b307843b571
+专题报告/btc5m-20261007/external-usd-study-refresh-oct13-20261014/pure-proof-1791915756845/source/000-DESIGN.md,原文,,575,0534e924c87e705ca660d2804bde4648c88277514cc8cb8bf0a48b307843b571
+专题报告/btc5m-20261007/external-usd-study-refresh-oct9-20261010/DESIGN.md,原文,,806,a971d029eb338292d0f6d99ef593e0ce1fd01d717639602c2c76fd8331a138d4
+专题报告/btc5m-20261007/external-usd-study-refresh-oct9-20261010/pure-proof-1791563442821/source/000-DESIGN.md,原文,,806,a971d029eb338292d0f6d99ef593e0ce1fd01d717639602c2c76fd8331a138d4
+专题报告/btc5m-20261007/external-usd-study-refresh-oct9-v2-20261010/DESIGN.md,原文,,1181,98629a16848b533657a82443cf0de7d0a28c12b92567178d71e287e79a64b0a1
+专题报告/btc5m-20261007/external-usd-study-refresh-oct9-v2-20261010/pure-proof-1791563601396/source/000-DESIGN.md,原文,,1181,98629a16848b533657a82443cf0de7d0a28c12b92567178d71e287e79a64b0a1
+专题报告/btc5m-20261007/external-usd-study-refresh-v2-20261009/DESIGN.md,原文,,1483,1da37000e1ea19837cff37ed335c6c77a0836bc256efe7035eeca99d1ff6afb8
+专题报告/btc5m-20261007/external-usd-study-refresh-v2-20261009/pure-proof-1791485499053/source/000-DESIGN.md,原文,,1483,1da37000e1ea19837cff37ed335c6c77a0836bc256efe7035eeca99d1ff6afb8
+专题报告/btc5m-20261007/first-exit-v2-register-actual-1791458171274/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/first-exit-v2-register-actual-1791458171274/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/first-exit-v3-register-actual-1791459737881/sources/0061-CAUSAL-CONTRACT.md,原文,,4624,b86c795bee913cd1967d7a7f5fc45f587e093b83582151b6d27ad7d1dbba4560
+专题报告/btc5m-20261007/first-exit-v3-register-actual-1791459737881/sources/0065-DESIGN.md,原文,,6913,1aeed64675b93c8c5ed8c788e32516366b3d414a7f9dd0f74f45979905ec3b51
+专题报告/btc5m-20261007/first-exit-v3-register-actual-1791459737881/sources/0082-V3-SCOPED-HOLDING-CLOCK.md,原文,,2455,cee4eb355a820f65c16bd6b2a1a26f5167d0ead088c2e533e4c1020baa4f3172
+专题报告/btc5m-20261007/forward-selected-net-calibration-pure-20261012/DESIGN.md,原文,,1690,6ec3a20e96c58bb0495ab5e0549b60841be0e7ed4edabb689cd2cb1a3842a708
+专题报告/btc5m-20261007/forward-selected-net-calibration-pure-20261012/pure-proof-1791771188669/source/000-DESIGN.md,原文,,1690,6ec3a20e96c58bb0495ab5e0549b60841be0e7ed4edabb689cd2cb1a3842a708
+专题报告/btc5m-20261007/forward-selected-net-daily-20261013/DESIGN.md,原文,,655,aa26a4599589cfa079a346271f479b701e22ecc65e486b5be052e6c8e54f7c27
+专题报告/btc5m-20261007/forward-selected-net-daily-20261013/pure-proof-1791813892004/source/002-DESIGN.md,原文,,655,aa26a4599589cfa079a346271f479b701e22ecc65e486b5be052e6c8e54f7c27
+专题报告/btc5m-20261007/forward-selected-net-daily-20261013/pure-proof-1791813931519/source/002-DESIGN.md,原文,,655,aa26a4599589cfa079a346271f479b701e22ecc65e486b5be052e6c8e54f7c27
+专题报告/btc5m-20261007/forward-selected-net-daily-v2-20261013/DESIGN.md,原文,,655,aa26a4599589cfa079a346271f479b701e22ecc65e486b5be052e6c8e54f7c27
+专题报告/btc5m-20261007/forward-selected-net-daily-v2-20261013/pure-proof-1791814057450/source/002-DESIGN.md,原文,,655,aa26a4599589cfa079a346271f479b701e22ecc65e486b5be052e6c8e54f7c27
+专题报告/btc5m-20261007/forward-source-independent-20261012/DESIGN.md,原文,,1423,8a2da8a28dc54181ecb9e93fa4bc1f0bd1a18185595868e355e59760da43238d
+专题报告/btc5m-20261007/forward-source-independent-20261012/pure-proof-1791770643124/source/011-DESIGN.md,原文,,1423,8a2da8a28dc54181ecb9e93fa4bc1f0bd1a18185595868e355e59760da43238d
+专题报告/btc5m-20261007/forward-training-bridge-pure-proof-1791813018511/source-4-DESIGN.md,原文,,760,86aa4393f5e587c04cd18c47d2b695afceafb03567ae0f2cb15035f3a0c3d44b
+专题报告/btc5m-20261007/fresh-usd-context-independent-20261010/DESIGN.md,原文,,695,f37889f3ac66189129b05d976fa42c2418ef3634b1dba099ba408ecc36ce34cf
+专题报告/btc5m-20261007/fresh-usd-context-independent-20261010/pure-proof-1791638827320/source/081-DESIGN.md,原文,,695,f37889f3ac66189129b05d976fa42c2418ef3634b1dba099ba408ecc36ce34cf
+专题报告/btc5m-20261007/fresh-usd-context-independent-relocated-20261011/DESIGN.md,原文,,695,f37889f3ac66189129b05d976fa42c2418ef3634b1dba099ba408ecc36ce34cf
+专题报告/btc5m-20261007/fresh-usd-context-independent-relocated-20261011/pure-proof-1791659826377/source/014-DESIGN.md,原文,,695,f37889f3ac66189129b05d976fa42c2418ef3634b1dba099ba408ecc36ce34cf
+专题报告/btc5m-20261007/fresh-usd-context-independent-relocated-v3-20261011/DESIGN.md,原文,,695,f37889f3ac66189129b05d976fa42c2418ef3634b1dba099ba408ecc36ce34cf
+专题报告/btc5m-20261007/fresh-usd-context-independent-relocated-v3-20261011/pure-proof-1791659898810/source/014-DESIGN.md,原文,,695,f37889f3ac66189129b05d976fa42c2418ef3634b1dba099ba408ecc36ce34cf
+专题报告/btc5m-20261007/fresh-usd-context-pure-20261010/DESIGN.md,原文,,1415,76adb4bdd9639afb41001aab6d57e63c89ab4b8316caf4200de2907fc0caae3d
+专题报告/btc5m-20261007/fresh-usd-context-pure-20261010/pure-proof-1791638324062/source/003-DESIGN.md,原文,,1415,76adb4bdd9639afb41001aab6d57e63c89ab4b8316caf4200de2907fc0caae3d
+专题报告/btc5m-20261007/fresh-usd-context-pure-v2-20261010/DESIGN.md,原文,,1690,bcd5a3f20c299191641526e666ea04e7360f143338a596f443001765717adcf3
+专题报告/btc5m-20261007/fresh-usd-context-pure-v2-20261010/pure-proof-1791638597226/source/003-DESIGN.md,原文,,1690,bcd5a3f20c299191641526e666ea04e7360f143338a596f443001765717adcf3
+专题报告/btc5m-20261007/fresh-usd-context-source-20261010/DESIGN.md,原文,,742,9109881cc230b31af8d1479b33d9e7f394b1024812965aa5b0220b84dec74cf4
+专题报告/btc5m-20261007/fresh-usd-context-source-20261010/pure-proof-1791638451255/source/000-DESIGN.md,原文,,742,9109881cc230b31af8d1479b33d9e7f394b1024812965aa5b0220b84dec74cf4
+专题报告/btc5m-20261007/fresh-usd-context-source-v2-20261010/DESIGN.md,原文,,742,9109881cc230b31af8d1479b33d9e7f394b1024812965aa5b0220b84dec74cf4
+专题报告/btc5m-20261007/fresh-usd-context-source-v2-20261010/pure-proof-1791638617599/source/000-DESIGN.md,原文,,742,9109881cc230b31af8d1479b33d9e7f394b1024812965aa5b0220b84dec74cf4
+专题报告/btc5m-20261007/fresh-usd-net-paired-independent-20261011/DESIGN.md,原文,,729,da4e7606e15e194135a0cfe0f8829c1ed0693231344bfbd18caece25dab71d37
+专题报告/btc5m-20261007/fresh-usd-net-paired-independent-20261011/pure-proof-1791661508137/source/014-DESIGN.md,原文,,729,da4e7606e15e194135a0cfe0f8829c1ed0693231344bfbd18caece25dab71d37
+专题报告/btc5m-20261007/fresh-usd-net-paired-model-20261011/DESIGN.md,原文,,981,7943de763e621acfad79b170fcdda144d019a0882029b823016c682513d0f08a
+专题报告/btc5m-20261007/fresh-usd-net-paired-model-20261011/pure-proof-1791660500815/source/000-DESIGN.md,原文,,981,7943de763e621acfad79b170fcdda144d019a0882029b823016c682513d0f08a
+专题报告/btc5m-20261007/fresh-usd-net-paired-model-v2-20261011/DESIGN.md,原文,,981,7943de763e621acfad79b170fcdda144d019a0882029b823016c682513d0f08a
+专题报告/btc5m-20261007/fresh-usd-net-paired-model-v2-20261011/pure-proof-1791660846938/source/000-DESIGN.md,原文,,981,7943de763e621acfad79b170fcdda144d019a0882029b823016c682513d0f08a
+专题报告/btc5m-20261007/fresh-usd-net-paired-model-v3-20261011/DESIGN.md,原文,,1254,ba2384a815436c66245a3bf02784ce3a646cf0b16cf12cde019e8412ba985bab
+专题报告/btc5m-20261007/fresh-usd-net-paired-model-v3-20261011/pure-proof-1791661229027/source/000-DESIGN.md,原文,,1254,ba2384a815436c66245a3bf02784ce3a646cf0b16cf12cde019e8412ba985bab
+专题报告/btc5m-20261007/fresh-usd-net-paired-model-v4-20261011/DESIGN.md,原文,,1471,570ff64fafc5cc1d4e737c0389387766a467ce6f4a6348ce894dd87be8715327
+专题报告/btc5m-20261007/fresh-usd-net-paired-model-v4-20261011/pure-proof-1791661423928/source/002-DESIGN.md,原文,,1471,570ff64fafc5cc1d4e737c0389387766a467ce6f4a6348ce894dd87be8715327
+专题报告/btc5m-20261007/fresh-usd-net-paired-pure-20261011/DESIGN.md,原文,,1292,ca6a03296045a9bf0d86b567a06c8a181023eb2f8a08ceb53ccff672fb4226fb
+专题报告/btc5m-20261007/fresh-usd-net-paired-pure-20261011/pure-proof-1791660275837/source/000-DESIGN.md,原文,,1292,ca6a03296045a9bf0d86b567a06c8a181023eb2f8a08ceb53ccff672fb4226fb
+专题报告/btc5m-20261007/fresh-usd-net-paired-pure-v2-20261011/DESIGN.md,原文,,1585,76c882d48782d17468fac2dbc4add80563e1c700204a0806912050f160e38f54
+专题报告/btc5m-20261007/fresh-usd-net-paired-pure-v2-20261011/pure-proof-1791660815154/source/000-DESIGN.md,原文,,1585,76c882d48782d17468fac2dbc4add80563e1c700204a0806912050f160e38f54
+专题报告/btc5m-20261007/fresh-usd-net-paired-pure-v3-20261011/DESIGN.md,原文,,1733,db8bd6ca914030ad71ffc3ce8c699251a7d0fde2bab9b5bb59e1c439f9f50502
+专题报告/btc5m-20261007/fresh-usd-net-paired-pure-v3-20261011/pure-proof-1791661002263/source/000-DESIGN.md,原文,,1733,db8bd6ca914030ad71ffc3ce8c699251a7d0fde2bab9b5bb59e1c439f9f50502
+专题报告/btc5m-20261007/historical-observed-conditioning-source-pure-proof-1791826718816/source-12-DESIGN.md,原文,,882,6c5094d2c9650913be3ceea59c9716c494c513aca89a3da4dee294a98c21cec5
+专题报告/btc5m-20261007/historical-observed-conditioning-source-pure-proof-1791826718816/source-14-DESIGN.md,原文,,1578,9bbb625fa17c90f8822c91c5f03df83b25f1d01f45e0e1b751ea3e2042b37edc
+专题报告/btc5m-20261007/historical-overlap-source-20261012/DESIGN.md,原文,,1353,0d3b4058185167042a7c739cc4053cb341eb2d8fffa162ee68c8d2e94429b27e
+专题报告/btc5m-20261007/historical-overlap-source-pure-proof-1791817507785/source-18-DESIGN.md,原文,,1353,0d3b4058185167042a7c739cc4053cb341eb2d8fffa162ee68c8d2e94429b27e
+专题报告/btc5m-20261007/historical-overlap-source-pure-proof-1791817937668/source-18-DESIGN.md,原文,,1671,76d097a8def45034b898884bdf0fe68f34a8e9f443df008fbf8043a5c242d5cd
+专题报告/btc5m-20261007/historical-overlap-source-v2-20261012/DESIGN.md,原文,,1671,76d097a8def45034b898884bdf0fe68f34a8e9f443df008fbf8043a5c242d5cd
+专题报告/btc5m-20261007/independent-static-model-output-audit-20261007/DESIGN.md,原文,,3553,d5cabf02dc44947e887fe2103a9c3b988ca89eed225f6fb224c6cd714b1b986a
+专题报告/btc5m-20261007/independent-static-model-output-audit-20261007/pure-source-hold-1791377992531/source/own/DESIGN.md,原文,,3553,d5cabf02dc44947e887fe2103a9c3b988ca89eed225f6fb224c6cd714b1b986a
+专题报告/btc5m-20261007/independent-static-model-output-audit-v2-20261007/DESIGN.md,原文,,4366,6d52c265fa8cd30c4f0aac39883d8cb9d3cab2543cb39016ae311e05b2bc3c25
+专题报告/btc5m-20261007/independent-static-model-output-audit-v2-20261007/pure-source-hold-1791378734728/source/own/DESIGN.md,原文,,4366,6d52c265fa8cd30c4f0aac39883d8cb9d3cab2543cb39016ae311e05b2bc3c25
+专题报告/btc5m-20261007/independent-v3-audit-1791353895892/FINAL-REVIEW.md,原文,,5224,8cb82a0ce8bbaaefec0a0e5930e9514b82c0a24cc819966e4f930adc1290f23a
+专题报告/btc5m-20261007/kernel-feature-candidate-20261012/DESIGN.md,原文,,1608,5924e7d78c0c961c525a8bb3ec8e23776fe2aa6eb745a4d8b24f0c1c8878640c
+专题报告/btc5m-20261007/kernel-feature-pure-proof-1791819402842/source-0-DESIGN.md,原文,,1608,5924e7d78c0c961c525a8bb3ec8e23776fe2aa6eb745a4d8b24f0c1c8878640c
+专题报告/btc5m-20261007/kernel-teacher-pure-20261012/DESIGN.md,原文,,2251,4564742f2716466e0c2cf0d0b862d52e532918240e860e5473253cfd7d1c5725
+专题报告/btc5m-20261007/kernel-teacher-pure-proof-1791820257233/source-0-DESIGN.md,原文,,2251,4564742f2716466e0c2cf0d0b862d52e532918240e860e5473253cfd7d1c5725
+专题报告/btc5m-20261007/kernel-teacher-pure-proof-1791820356151/source-0-DESIGN.md,原文,,2251,4564742f2716466e0c2cf0d0b862d52e532918240e860e5473253cfd7d1c5725
+专题报告/btc5m-20261007/kernel-teacher-pure-v2-20261012/DESIGN.md,原文,,2251,4564742f2716466e0c2cf0d0b862d52e532918240e860e5473253cfd7d1c5725
+专题报告/btc5m-20261007/late-research-goal-state-documentation-1791980258943/before-BTC-策略研究进度-20261010.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,43329,b273f2ac35b76750b5869fbc03ae5d6b117e44f4e060b30585e34e751c437263
+专题报告/btc5m-20261007/late-research-goal-state-documentation-1791980258943/before-BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,135032,6b81fb072120d1fe97e17580d496c64d90d3f80b82bf07163a58c5dcd802eda0
+专题报告/btc5m-20261007/late-research-goal-state-documentation-1791980258943/before-BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,72651,4a55b82ca4c3d22ce90f17f0c7adb24dd91949c204f80bf601d6dae4e728b1e3
+专题报告/btc5m-20261007/latest-execution-innovation-design-20261010/DESIGN.md,原文,,1215,3d4e1026583ecca09585533607937d8dc40f45e39a2866ded72521f11e07d507
+专题报告/btc5m-20261007/latest-execution-innovation-design-20261010/pure-proof-1791595151122/source/000-DESIGN.md,原文,,1215,3d4e1026583ecca09585533607937d8dc40f45e39a2866ded72521f11e07d507
+专题报告/btc5m-20261007/latest-execution-innovation-independent-20261010/DESIGN.md,原文,,1044,63d4d0bda3e6af1f1a133920b09ef6dbd94b17a946aa802a45f58a66e80774c6
+专题报告/btc5m-20261007/latest-execution-innovation-independent-20261010/pure-proof-1791595479229/source/068-DESIGN.md,原文,,1044,63d4d0bda3e6af1f1a133920b09ef6dbd94b17a946aa802a45f58a66e80774c6
+专题报告/btc5m-20261007/latest-execution-source-20261010/DESIGN.md,原文,,1105,6b3445b668df34c3a8334e492c0ad150af4240ce6c43e7c3888fd743e6b653ad
+专题报告/btc5m-20261007/latest-execution-source-20261010/pure-proof-1791594537018/source/000-DESIGN.md,原文,,1105,6b3445b668df34c3a8334e492c0ad150af4240ce6c43e7c3888fd743e6b653ad
+专题报告/btc5m-20261007/latest-execution-source-independent-20261010/DESIGN.md,原文,,893,d6d92cca0018903de0783cfc8546c8da22659e19b7e9c144ea94cac4c40a3d26
+专题报告/btc5m-20261007/latest-execution-source-independent-20261010/pure-proof-1791594859416/source/064-DESIGN.md,原文,,893,d6d92cca0018903de0783cfc8546c8da22659e19b7e9c144ea94cac4c40a3d26
+专题报告/btc5m-20261007/latest-execution-source-v2-20261010/DESIGN.md,原文,,1105,6b3445b668df34c3a8334e492c0ad150af4240ce6c43e7c3888fd743e6b653ad
+专题报告/btc5m-20261007/latest-execution-source-v2-20261010/pure-proof-1791594592544/source/000-DESIGN.md,原文,,1105,6b3445b668df34c3a8334e492c0ad150af4240ce6c43e7c3888fd743e6b653ad
+专题报告/btc5m-20261007/latest-execution-teacher-independent-20261010/DESIGN.md,原文,,583,700ac266ef3bccc57f45cb30d6ec5416f8d0748ea7a27d525771758d4fc005e7
+专题报告/btc5m-20261007/latest-execution-teacher-independent-20261010/pure-proof-1791565522693/source/052-DESIGN.md,原文,,583,700ac266ef3bccc57f45cb30d6ec5416f8d0748ea7a27d525771758d4fc005e7
+专题报告/btc5m-20261007/latest-execution-teacher-study-20261010/DESIGN.md,原文,,966,8aa90a9de03cc5166c0ef00dd7ee8552cc04e94333f0621eb051f076d4741b75
+专题报告/btc5m-20261007/latest-execution-teacher-study-20261010/pure-proof-1791564889353/source/000-DESIGN.md,原文,,966,8aa90a9de03cc5166c0ef00dd7ee8552cc04e94333f0621eb051f076d4741b75
+专题报告/btc5m-20261007/latest15-execution-probability-refresh-20261011/DESIGN.md,原文,,2542,68853d0f3d3a4d63baa5dd1d48f7e529cbef8382c27184eee682b4c1f0e0dee1
+专题报告/btc5m-20261007/latest15-execution-probability-refresh-registration-1791725911590/source-062-DESIGN.md,原文,,2542,68853d0f3d3a4d63baa5dd1d48f7e529cbef8382c27184eee682b4c1f0e0dee1
+专题报告/btc5m-20261007/latest15-execution-probability-refresh-v2-20261011/DESIGN.md,原文,,3197,3d9a867b1d7fe56929d6b466ebf34af2d62b24f5b0b4d393d3b25d543d799549
+专题报告/btc5m-20261007/latest15-execution-probability-refresh-v2-registration-1791726537336/source-064-DESIGN.md,原文,,3197,3d9a867b1d7fe56929d6b466ebf34af2d62b24f5b0b4d393d3b25d543d799549
+专题报告/btc5m-20261007/latest15-execution-probability-refresh-v2-registration-1791726645608/source-064-DESIGN.md,原文,,3197,3d9a867b1d7fe56929d6b466ebf34af2d62b24f5b0b4d393d3b25d543d799549
+专题报告/btc5m-20261007/latest15-fixed-policy-dollar-model-20261011/DESIGN.md,原文,,2253,eff5b06969ceef096d1ec1f52e3f4b11a9c90ebef0a77b6e1dba7f55280201b4
+专题报告/btc5m-20261007/latest15-fixed-policy-dollar-model-20261011/pure-proof-1791710915632/source/000-DESIGN.md,原文,,2253,eff5b06969ceef096d1ec1f52e3f4b11a9c90ebef0a77b6e1dba7f55280201b4
+专题报告/btc5m-20261007/latest15-fixed-policy-value-model-20261011/DESIGN.md,原文,,2044,725a2e6be2f094f67f01bd707a3b2407c5da8e614070ec5f7aba2320a2848b88
+专题报告/btc5m-20261007/latest15-fixed-policy-value-model-20261011/pure-proof-1791710236950/source/000-DESIGN.md,原文,,2044,725a2e6be2f094f67f01bd707a3b2407c5da8e614070ec5f7aba2320a2848b88
+专题报告/btc5m-20261007/latest17-causal-teacher-independent-20261013/DESIGN.md,原文,,455,ec85607c54ab65d7fcd4485c7c68dfc574067a38f2e3f3061e7c11563d1449be
+专题报告/btc5m-20261007/latest17-causal-teacher-independent-20261013/pure-proof-1791874481858/source/026-DESIGN.md,原文,,455,ec85607c54ab65d7fcd4485c7c68dfc574067a38f2e3f3061e7c11563d1449be
+专题报告/btc5m-20261007/latest17-causal-teacher-study-20261013/DESIGN.md,原文,,506,6e70fbe751b012731af3d97ec4087c6d1477341cc7e9cd37e9632860134e1e7a
+专题报告/btc5m-20261007/latest17-causal-teacher-study-20261013/pure-proof-1791874263302/source/000-DESIGN.md,原文,,506,6e70fbe751b012731af3d97ec4087c6d1477341cc7e9cd37e9632860134e1e7a
+专题报告/btc5m-20261007/latest17-causal-teacher-study-20261013/pure-proof-1791874317772/source/000-DESIGN.md,原文,,506,6e70fbe751b012731af3d97ec4087c6d1477341cc7e9cd37e9632860134e1e7a
+专题报告/btc5m-20261007/latest17-execution-independent-20261013/DESIGN.md,原文,,487,0b5ec891eb98884033d39ed9acd03eb546f5d128ddc258d8066fd4222b8603e9
+专题报告/btc5m-20261007/latest17-execution-independent-20261013/pure-proof-1791875253979/source/055-DESIGN.md,原文,,487,0b5ec891eb98884033d39ed9acd03eb546f5d128ddc258d8066fd4222b8603e9
+专题报告/btc5m-20261007/latest17-execution-source-20261013/DESIGN.md,原文,,539,954b902363f8a1a4e944e9f77f3d7f684cec4c0e177eafdebee8416171461471
+专题报告/btc5m-20261007/latest17-execution-source-20261013/pure-proof-1791874803865/source/031-DESIGN.md,原文,,539,954b902363f8a1a4e944e9f77f3d7f684cec4c0e177eafdebee8416171461471
+专题报告/btc5m-20261007/latest18-causal-teacher-independent-20261014/DESIGN.md,原文,,465,9e88d473736855cfe9f9ab331438bbc17dce93ac700472c9eaead77cac3a4c09
+专题报告/btc5m-20261007/latest18-causal-teacher-independent-20261014/pure-proof-1791916797798/source/026-DESIGN.md,原文,,465,9e88d473736855cfe9f9ab331438bbc17dce93ac700472c9eaead77cac3a4c09
+专题报告/btc5m-20261007/latest18-causal-teacher-study-20261014/DESIGN.md,原文,,534,e8096f248b22f9b9da6b3c2563eb4ae674a3ed7fd8c1ac050b4a64b9f2d6e39e
+专题报告/btc5m-20261007/latest18-causal-teacher-study-20261014/pure-proof-1791916419320/source/000-DESIGN.md,原文,,534,e8096f248b22f9b9da6b3c2563eb4ae674a3ed7fd8c1ac050b4a64b9f2d6e39e
+专题报告/btc5m-20261007/latest18-causal-teacher-study-20261014/pure-proof-1791916476131/source/000-DESIGN.md,原文,,534,e8096f248b22f9b9da6b3c2563eb4ae674a3ed7fd8c1ac050b4a64b9f2d6e39e
+专题报告/btc5m-20261007/latest18-execution-independent-20261014/DESIGN.md,原文,,395,a2b55df3291fcced98080e2d57c5ab86d34f03a56b0c1c7fe17660117e6886d5
+专题报告/btc5m-20261007/latest18-execution-independent-20261014/pure-proof-1791918314661/source/056-DESIGN.md,原文,,395,a2b55df3291fcced98080e2d57c5ab86d34f03a56b0c1c7fe17660117e6886d5
+专题报告/btc5m-20261007/latest18-execution-source-20261014/DESIGN.md,原文,,647,50be9f8f3065ef18f86d7d959fe1b514564156234d607eda7e67d882cd4d4d9f
+专题报告/btc5m-20261007/latest18-execution-source-20261014/pure-proof-1791917131281/source/031-DESIGN.md,原文,,647,50be9f8f3065ef18f86d7d959fe1b514564156234d607eda7e67d882cd4d4d9f
+专题报告/btc5m-20261007/latest18-execution-source-v2-20261014/DESIGN.md,原文,,749,809815817adb277d5a479e9aa4e6f5b150b7d902fde458db482fc90574b01ba0
+专题报告/btc5m-20261007/latest18-execution-source-v2-20261014/pure-proof-1791917499179/source/041-DESIGN.md,原文,,749,809815817adb277d5a479e9aa4e6f5b150b7d902fde458db482fc90574b01ba0
+专题报告/btc5m-20261007/market-joint-confirmation-20261011/DESIGN.md,原文,,582,5e3aaa335f87780f7e3c372d77e89ba5028ceba86897a62e88be110200919644
+专题报告/btc5m-20261007/market-joint-confirmation-20261011/pure-proof-1791666071583/source/026-DESIGN.md,原文,,582,5e3aaa335f87780f7e3c372d77e89ba5028ceba86897a62e88be110200919644
+专题报告/btc5m-20261007/market-joint-independent-20261011/DESIGN.md,原文,,365,57ef57484831d9266d42c196e7ff68b5807d9a88a410fb69e46fabb2f608b1c8
+专题报告/btc5m-20261007/market-joint-independent-20261011/pure-proof-1791666171560/source/040-DESIGN.md,原文,,365,57ef57484831d9266d42c196e7ff68b5807d9a88a410fb69e46fabb2f608b1c8
+专题报告/btc5m-20261007/market-odds-transport-design-20261011/DESIGN.md,原文,,1508,12b0cf289f01ed63881cd5b242f89dd7b6ffcc4583091edb02bc43314cf4159c
+专题报告/btc5m-20261007/market-odds-transport-design-20261011/pure-proof-1791664520450/source/024-DESIGN.md,原文,,1508,12b0cf289f01ed63881cd5b242f89dd7b6ffcc4583091edb02bc43314cf4159c
+专题报告/btc5m-20261007/market-odds-transport-independent-20261011/DESIGN.md,原文,,648,a0b2713f162a8b12e432e4df9854a9c914d6bd2c6912419151d49ec3e9c00bad
+专题报告/btc5m-20261007/market-odds-transport-independent-20261011/pure-proof-1791664999569/source/040-DESIGN.md,原文,,648,a0b2713f162a8b12e432e4df9854a9c914d6bd2c6912419151d49ec3e9c00bad
+专题报告/btc5m-20261007/market-odds-transport-independent-v2-20261011/DESIGN.md,原文,,648,a0b2713f162a8b12e432e4df9854a9c914d6bd2c6912419151d49ec3e9c00bad
+专题报告/btc5m-20261007/market-odds-transport-independent-v2-20261011/pure-proof-1791665110594/source/040-DESIGN.md,原文,,648,a0b2713f162a8b12e432e4df9854a9c914d6bd2c6912419151d49ec3e9c00bad
+专题报告/btc5m-20261007/market-odds-transport-replay-20261011/DESIGN.md,原文,,754,b774268f9b0105b529eac93578d30bfb7a4d831262a30f8b7f9f3f9512c41a1b
+专题报告/btc5m-20261007/market-odds-transport-replay-20261011/pure-proof-1791664810975/source/026-DESIGN.md,原文,,754,b774268f9b0105b529eac93578d30bfb7a4d831262a30f8b7f9f3f9512c41a1b
+专题报告/btc5m-20261007/market-odds-transport-replay-v2-20261011/DESIGN.md,原文,,754,b774268f9b0105b529eac93578d30bfb7a4d831262a30f8b7f9f3f9512c41a1b
+专题报告/btc5m-20261007/market-odds-transport-replay-v2-20261011/pure-proof-1791664851744/source/026-DESIGN.md,原文,,754,b774268f9b0105b529eac93578d30bfb7a4d831262a30f8b7f9f3f9512c41a1b
+专题报告/btc5m-20261007/net-fixed-policy-label-independent-20261010/DESIGN.md,原文,,738,fca4fba6d22d5acb7d8e6e40a0185b42d58dfdc75bb590931d8c4c10f0d598b7
+专题报告/btc5m-20261007/net-fixed-policy-label-independent-20261010/pure-proof-1791598364226/source/074-DESIGN.md,原文,,738,fca4fba6d22d5acb7d8e6e40a0185b42d58dfdc75bb590931d8c4c10f0d598b7
+专题报告/btc5m-20261007/net-fixed-policy-label-source-20261010/DESIGN.md,原文,,1969,645d06418e7f75968a7222de6892997c5b4bd162e843b03ebba3b29547341f43
+专题报告/btc5m-20261007/net-fixed-policy-label-source-20261010/pure-proof-1791597994310/source/000-DESIGN.md,原文,,1969,645d06418e7f75968a7222de6892997c5b4bd162e843b03ebba3b29547341f43
+专题报告/btc5m-20261007/net-fixed-policy-path-pure-20261010/DESIGN.md,原文,,2265,5d74556b839ad6545246b8755b2bad45cec1a4f3ab734b58e62f7704f4dbc81c
+专题报告/btc5m-20261007/net-fixed-policy-path-pure-20261010/pure-proof-1791597646563/source/000-DESIGN.md,原文,,2265,5d74556b839ad6545246b8755b2bad45cec1a4f3ab734b58e62f7704f4dbc81c
+专题报告/btc5m-20261007/net-policy-dollar-independent-20261010/DESIGN.md,原文,,886,455851304ec7aca5b6abec619a17bb0afa7aa666a458d5602438efdab5fffcca
+专题报告/btc5m-20261007/net-policy-dollar-independent-20261010/pure-proof-1791601125238/source/073-DESIGN.md,原文,,886,455851304ec7aca5b6abec619a17bb0afa7aa666a458d5602438efdab5fffcca
+专题报告/btc5m-20261007/net-policy-dollar-model-20261010/DESIGN.md,原文,,2253,eff5b06969ceef096d1ec1f52e3f4b11a9c90ebef0a77b6e1dba7f55280201b4
+专题报告/btc5m-20261007/net-policy-dollar-model-20261010/pure-proof-1791600994130/source/000-DESIGN.md,原文,,2253,eff5b06969ceef096d1ec1f52e3f4b11a9c90ebef0a77b6e1dba7f55280201b4
+专题报告/btc5m-20261007/net-policy-value-independent-20261010/DESIGN.md,原文,,696,de35c7503739c27904047cd4caac61ffd80212678933e790a25a2a155918d96a
+专题报告/btc5m-20261007/net-policy-value-independent-20261010/pure-proof-1791600297492/source/073-DESIGN.md,原文,,696,de35c7503739c27904047cd4caac61ffd80212678933e790a25a2a155918d96a
+专题报告/btc5m-20261007/net-policy-value-model-20261010/DESIGN.md,原文,,2044,725a2e6be2f094f67f01bd707a3b2407c5da8e614070ec5f7aba2320a2848b88
+专题报告/btc5m-20261007/net-policy-value-model-20261010/pure-proof-1791599690097/source/000-DESIGN.md,原文,,2044,725a2e6be2f094f67f01bd707a3b2407c5da8e614070ec5f7aba2320a2848b88
+专题报告/btc5m-20261007/net-value-second-delay-independent-20261010/DESIGN.md,原文,,834,0e131370b7fb50215ab362d5e805ce80b37a4a608c4660a1a1279d71ce1bf229
+专题报告/btc5m-20261007/net-value-second-delay-independent-20261010/pure-proof-1791596684223/source/070-DESIGN.md,原文,,834,0e131370b7fb50215ab362d5e805ce80b37a4a608c4660a1a1279d71ce1bf229
+专题报告/btc5m-20261007/net-value-second-delay-pure-20261010/DESIGN.md,原文,,1295,21a9cde5eabefd94b13cf638bd3454968d641e2f29b1f2b0ef747c087255c876
+专题报告/btc5m-20261007/net-value-second-delay-pure-20261010/pure-proof-1791595910699/source/000-DESIGN.md,原文,,1295,21a9cde5eabefd94b13cf638bd3454968d641e2f29b1f2b0ef747c087255c876
+专题报告/btc5m-20261007/net-value-second-delay-source-20261010/DESIGN.md,原文,,945,04460e2fa817e9506afd99974c6ffdad076fe9678a77ed997024535a12324285
+专题报告/btc5m-20261007/net-value-second-delay-source-20261010/pure-proof-1791596302888/source/000-DESIGN.md,原文,,945,04460e2fa817e9506afd99974c6ffdad076fe9678a77ed997024535a12324285
+专题报告/btc5m-20261007/observed-flow-economic-design-20261009/DESIGN.md,原文,,1370,2eedbce3a0b9fce394e762aa91b562f3d991f415c83269e23b39c38a9f5e0614
+专题报告/btc5m-20261007/observed-flow-economic-design-20261009/pure-proof-1791480660619/source/020-DESIGN.md,原文,,1370,2eedbce3a0b9fce394e762aa91b562f3d991f415c83269e23b39c38a9f5e0614
+专题报告/btc5m-20261007/observed-flow-economic-ledger-audit-20261009/DESIGN.md,原文,,1116,368ea2ca9e0b12f875e5738eba0a60bee1546ee848ae5a0c447b922e1a6f00c6
+专题报告/btc5m-20261007/observed-flow-economic-ledger-audit-20261009/pure-proof-1791483001316/source/027-DESIGN.md,原文,,1116,368ea2ca9e0b12f875e5738eba0a60bee1546ee848ae5a0c447b922e1a6f00c6
+专题报告/btc5m-20261007/observed-flow-economic-policy-audit-20261009/DESIGN.md,原文,,1200,f8a513d1b7c35654cbba45c8e53c7c251f966dfe807148bdc8df078112206718
+专题报告/btc5m-20261007/observed-flow-economic-policy-audit-20261009/pure-proof-1791484526253/source/043-DESIGN.md,原文,,1200,f8a513d1b7c35654cbba45c8e53c7c251f966dfe807148bdc8df078112206718
+专题报告/btc5m-20261007/observed-flow-economic-replay-20261009/DESIGN.md,原文,,1434,c8dd13051edbecda6e33621649f2f8990f3be610020486c7d68003674f16c018
+专题报告/btc5m-20261007/observed-flow-economic-replay-20261009/first-pure-failure-1791482106385/DESIGN.md,原文,,1434,c8dd13051edbecda6e33621649f2f8990f3be610020486c7d68003674f16c018
+专题报告/btc5m-20261007/observed-flow-economic-replay-20261009/pure-proof-1791482147618/source/000-DESIGN.md,原文,,1434,c8dd13051edbecda6e33621649f2f8990f3be610020486c7d68003674f16c018
+专题报告/btc5m-20261007/observed-flow-independent-v2-20261008/CORRECTION.md,原文,,805,120cfdc02f4367bc72e0ae5191975604544753ab2c9265a35ec230f7f2cff4f4
+专题报告/btc5m-20261007/observed-flow-model-pure-20261008/DESIGN.md,原文,,4109,ab90440e110d6b1e6cfc65bbc5b1ca4cf4dc6261f73120aeb5f437b8a163e086
+专题报告/btc5m-20261007/observed-flow-model-pure-20261008/pure-proof-1791467626351/source/013-DESIGN.md,原文,,4109,ab90440e110d6b1e6cfc65bbc5b1ca4cf4dc6261f73120aeb5f437b8a163e086
+专题报告/btc5m-20261007/observed-flow-refresh-binding-draft-20261008/DESIGN.md,原文,,1824,68a6382538872f226b57de3d72fff90251608fa2f98f0abdfda2afe59c9e19cb
+专题报告/btc5m-20261007/observed-flow-refresh-binding-draft-20261008/pure-source-hold-1791420082337/sources/D/observed-flow-refresh-binding-draft-20261008/DESIGN.md,原文,,1824,68a6382538872f226b57de3d72fff90251608fa2f98f0abdfda2afe59c9e19cb
+专题报告/btc5m-20261007/observed-flow-study-design-20261008/DESIGN.md,原文,,1589,52635c9fec6116a1856a36bbf4b3b871f85212bfbe88771c5bbff7910d464706
+专题报告/btc5m-20261007/observed-flow-study-design-20261008/pure-proof-1791477821631/source/000-DESIGN.md,原文,,1589,52635c9fec6116a1856a36bbf4b3b871f85212bfbe88771c5bbff7910d464706
+专题报告/btc5m-20261007/observed-flow-study-design-20261008/pure-proof-1791478991586/source/000-DESIGN.md,原文,,1589,52635c9fec6116a1856a36bbf4b3b871f85212bfbe88771c5bbff7910d464706
+专题报告/btc5m-20261007/observed-taker-flow-design-20261007/DESIGN.md,原文,,6544,452d0f0992db3762d0edf72436d92297b584b70c0c0c35dc776fe40dd26dded9
+专题报告/btc5m-20261007/observed-taker-flow-design-20261007/pure-source-hold-1791419071075/sources/own/DESIGN.md,原文,,6544,452d0f0992db3762d0edf72436d92297b584b70c0c0c35dc776fe40dd26dded9
+专题报告/btc5m-20261007/observed-taker-flow-refresh-source-20261008/DESIGN.md,原文,,1622,c11e330ce3b883962c0e3f23b545eda82549f3f05647b232ee013391c0c54ffb
+专题报告/btc5m-20261007/observed-taker-flow-refresh-source-20261008/PURE-CORRECTION.md,原文,,546,af8f3128834bc1c0f06afaf5b04071c520cfa25b6f05af7ab93b31084f47a730
+专题报告/btc5m-20261007/observed-taker-flow-refresh-source-20261008/pure-source-hold-1791464889558/sources/D/observed-taker-flow-refresh-source-20261008/DESIGN.md,原文,,1622,c11e330ce3b883962c0e3f23b545eda82549f3f05647b232ee013391c0c54ffb
+专题报告/btc5m-20261007/observed-taker-flow-refresh-source-20261008/pure-source-hold-1791464930710/sources/D/observed-taker-flow-refresh-source-20261008/DESIGN.md,原文,,1622,c11e330ce3b883962c0e3f23b545eda82549f3f05647b232ee013391c0c54ffb
+专题报告/btc5m-20261007/observed-taker-flow-refresh-source-oct8-20261009/DESIGN.md,原文,,453,136d7a44ee6a2963d7fe167df5960c6efcfd8f8ef34540bbf3da8eac56394ba4
+专题报告/btc5m-20261007/observed-taker-flow-refresh-source-oct8-20261009/pure-source-hold-1791477568728/sources/D/observed-taker-flow-refresh-source-oct8-20261009/DESIGN.md,原文,,453,136d7a44ee6a2963d7fe167df5960c6efcfd8f8ef34540bbf3da8eac56394ba4
+专题报告/btc5m-20261007/observed-twap-conditioning-pure-20261013/DESIGN.md,原文,,1578,9bbb625fa17c90f8822c91c5f03df83b25f1d01f45e0e1b751ea3e2042b37edc
+专题报告/btc5m-20261007/observed-twap-conditioning-pure-proof-1791825598329/source-2-DESIGN.md,原文,,1578,9bbb625fa17c90f8822c91c5f03df83b25f1d01f45e0e1b751ea3e2042b37edc
+专题报告/btc5m-20261007/observed-twap-conditioning-pure-proof-1791825615618/source-2-DESIGN.md,原文,,1578,9bbb625fa17c90f8822c91c5f03df83b25f1d01f45e0e1b751ea3e2042b37edc
+专题报告/btc5m-20261007/observed-twap-history-source-pure-20261013/DESIGN.md,原文,,882,6c5094d2c9650913be3ceea59c9716c494c513aca89a3da4dee294a98c21cec5
+专题报告/btc5m-20261007/oct13-compact-pure-proof-1791852416619/source-24-DESIGN.md,原文,,561,a6b70b8f2e8387bc1aabe304bbcee4b75844fc9208a95f83c5a5b68415fde25b
+专题报告/btc5m-20261007/oct13-compact-pure-proof-1791852475509/source-24-DESIGN.md,原文,,561,a6b70b8f2e8387bc1aabe304bbcee4b75844fc9208a95f83c5a5b68415fde25b
+专题报告/btc5m-20261007/oct13-mean-pure-proof-1791852416366/source-0-DESIGN.md,原文,,629,0d13a2a40053017eb408bb3b4bbb8ad9682912a6a7803aa9da96f0a416529418
+专题报告/btc5m-20261007/oct13-tail-pure-proof-1791853819639/source-0-DESIGN.md,原文,,2184,33ff4d3690f8f9ff7e4f5f87fb5f6e85a3f64cd815714436f1a327ff8f5fa9a7
+专题报告/btc5m-20261007/oct13-tail-pure-proof-1791854064024/source-0-DESIGN.md,原文,,2184,33ff4d3690f8f9ff7e4f5f87fb5f6e85a3f64cd815714436f1a327ff8f5fa9a7
+专题报告/btc5m-20261007/official-fee-formula-review-1791743612694/review.md,公开整理,范围外资料注明归档位置,738,755f6a55fd76ca06acc7fa32172f75d77b24f184f8e888e22f0c1708b6c0d6fa
+专题报告/btc5m-20261007/oracle-overlap-pure-20261012/DESIGN.md,原文,,1912,33d9ae3adb074268cb4470e74fd57bbffedeaaf5052ca2880b73fd20ba16e65c
+专题报告/btc5m-20261007/oracle-overlap-pure-proof-1791815847994/source-0-DESIGN.md,原文,,1912,33d9ae3adb074268cb4470e74fd57bbffedeaaf5052ca2880b73fd20ba16e65c
+专题报告/btc5m-20261007/original-usd-source-calendar-failure-1791485444778/source-0-DESIGN.md,原文,,857,d9a05cca7f34e02687b0f142d0ed9c29289cac85106b47977b6d39881986e1b5
+专题报告/btc5m-20261007/queue-depth-independent-20261010/DESIGN.md,原文,,737,f5a608177bbc7877ba8ad0a48f70c9a8ec0e3c566956eaad4fa6e2ff924ed7e5
+专题报告/btc5m-20261007/queue-depth-independent-20261010/pure-proof-1791602089747/source/076-DESIGN.md,原文,,737,f5a608177bbc7877ba8ad0a48f70c9a8ec0e3c566956eaad4fa6e2ff924ed7e5
+专题报告/btc5m-20261007/queue-depth-source-20261010/DESIGN.md,原文,,1505,00efc978e4395ea6f51aba5e05bb27732466104808fcd33d3b410f4248e56cdb
+专题报告/btc5m-20261007/queue-depth-source-20261010/pure-proof-1791601834285/source/000-DESIGN.md,原文,,1505,00efc978e4395ea6f51aba5e05bb27732466104808fcd33d3b410f4248e56cdb
+专题报告/btc5m-20261007/queue-depth-source-pure-20261010/DESIGN.md,原文,,2469,d9d1a52dd25f8e7c4762e0f6c618d6531cd12ba1ff6606ff0408f39ef6c143a8
+专题报告/btc5m-20261007/queue-depth-source-pure-20261010/pure-proof-1791601818671/source/000-DESIGN.md,原文,,2469,d9d1a52dd25f8e7c4762e0f6c618d6531cd12ba1ff6606ff0408f39ef6c143a8
+专题报告/btc5m-20261007/queue-net-value-independent-20261010/DESIGN.md,原文,,839,a693e039111db1b9978ae2c3c18673fe2ec971de4e7d7d0ce2f2560a516eb4ff
+专题报告/btc5m-20261007/queue-net-value-independent-20261010/pure-proof-1791603088438/source/080-DESIGN.md,原文,,839,a693e039111db1b9978ae2c3c18673fe2ec971de4e7d7d0ce2f2560a516eb4ff
+专题报告/btc5m-20261007/queue-net-value-independent-v2-20261010/DESIGN.md,原文,,1116,2796c6ac487328d3f86aa94f29f5590579e94878a8283d4ddee11b36602b01ff
+专题报告/btc5m-20261007/queue-net-value-independent-v2-20261010/pure-proof-1791637778145/source/080-DESIGN.md,原文,,1116,2796c6ac487328d3f86aa94f29f5590579e94878a8283d4ddee11b36602b01ff
+专题报告/btc5m-20261007/queue-net-value-model-20261010/DESIGN.md,原文,,1397,600b5af6c5df4fb487be7e92e457229746d4406f7d31dcf663d087e16210426c
+专题报告/btc5m-20261007/queue-net-value-model-20261010/pure-proof-1791602786654/source/000-DESIGN.md,原文,,1397,600b5af6c5df4fb487be7e92e457229746d4406f7d31dcf663d087e16210426c
+专题报告/btc5m-20261007/queue-net-value-pure-20261010/DESIGN.md,原文,,1361,4b3e7833a515c9238f9d3724b6364d062aac8a8c86a091d36472cd6a6431fdfb
+专题报告/btc5m-20261007/queue-net-value-pure-20261010/pure-proof-1791602596034/source/000-DESIGN.md,原文,,1361,4b3e7833a515c9238f9d3724b6364d062aac8a8c86a091d36472cd6a6431fdfb
+专题报告/btc5m-20261007/root-anchored-model-factorial-v140-documentation-1791880667601/before-BTC-策略研究进度-20261010.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,31769,ec6f3d6317e477d731ede12e0c173d4525afdb76e89f72fc6a2fcffc250b6606
+专题报告/btc5m-20261007/root-anchored-model-factorial-v140-documentation-1791880667601/before-BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,123472,ffff7132041b3ab6bab828c234ea55f973ea1e988999e9e800995a4717b94680
+专题报告/btc5m-20261007/root-anchored-model-factorial-v140-documentation-1791880667601/before-BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,61091,e191c8c0037e1342995671302e05ac2c60583575ef50ab2096c74e7941b6bdc1
+专题报告/btc5m-20261007/root-continuation-value-source-documentation-1791861347673/BTC-策略研究进度-20261010.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,29731,42099b0b5caef2a5fe3c3b182af8cd67285ae7eb583e05940a8ca83f190a1ba6
+专题报告/btc5m-20261007/root-continuation-value-source-documentation-1791861347673/BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,121434,e017b95059c9b4fa3684ba1e069ea51b3bcfd8d0628a58220e51547556cc9dd1
+专题报告/btc5m-20261007/root-continuation-value-source-documentation-1791861347673/BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,59053,8adbeac51354ed1afb0248d96a17803fc3589ed486ec4096162e83fce7cec3e0
+专题报告/btc5m-20261007/root-daily-first-price-v148-documentation-1791966666473/before-BTC-策略研究进度-20261010.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,39916,8e1874157bed4fc9054fd13a338ee35b391b5a18e44ae07d19b5acedec542fc5
+专题报告/btc5m-20261007/root-daily-first-price-v148-documentation-1791966666473/before-BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,131619,95b6c0e45e49cb84378a11dddcd5206b55ace49ef8b93c0bdf98ea7828560fbb
+专题报告/btc5m-20261007/root-daily-first-price-v148-documentation-1791966666473/before-BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,69238,ff0ec81286a0dbafe39de8c86251cf0509ca2f2ebc48a91b3047b588e03c17ea
+专题报告/btc5m-20261007/root-direction-timing-v142-documentation-1791894328104/before-BTC-策略研究进度-20261010.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,34185,4cd6fe3769ad8490bc1890d8b70279d938ead7880f8fa845023173437e553a96
+专题报告/btc5m-20261007/root-direction-timing-v142-documentation-1791894328104/before-BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,125888,01cd32b5dc7cc31cd0c7b2816460069b84f871bcff5d43fe736fd8c336267eb9
+专题报告/btc5m-20261007/root-direction-timing-v142-documentation-1791894328104/before-BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,63507,9a9664134fab03415ba998d0614a7d94dd03cb177f024cf0a584c0f8b79fba29
+专题报告/btc5m-20261007/root-ended-oct13-benchmark-progress-1791916040551/before-BTC-策略研究进度-20261010.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,38406,ff1687b836302e8957f975a8b0f301f90a808d13453d36e87292debf5ef1dcaf
+专题报告/btc5m-20261007/root-ended-oct13-benchmark-progress-1791916040551/before-BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,130109,215a1d9590431f04f34cf275ee12870a6461b8d087d0053469d424769ef37d23
+专题报告/btc5m-20261007/root-ended-oct13-benchmark-progress-1791916040551/before-BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,67728,8539152dd9e57c75c44a31f189b1b3dd7d0aa3d68853dfe24501e64663398a80
+专题报告/btc5m-20261007/root-first-context-v144-documentation-1791899244558/before-BTC-策略研究进度-20261010.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,36078,22acd9a4b89d69a3870a58012ebc9768af578aeae26597cace2c3ae009a6c09b
+专题报告/btc5m-20261007/root-first-context-v144-documentation-1791899244558/before-BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,127781,9bca048bff597501645aa695d75db49a12e60aecdc1af57202f55a58c99a47bd
+专题报告/btc5m-20261007/root-first-context-v144-documentation-1791899244558/before-BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,65400,78de87d129f5dcf21324ca937d1cc7043396bb790371b8bd8035e2076e1343d8
+专题报告/btc5m-20261007/root-first-opportunity-v143-documentation-1791897348811/before-BTC-策略研究进度-20261010.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,35306,079e5e3c19f1738402a1a424d6df0236ea75a96c59eb866b49ce27c3af3ab2d2
+专题报告/btc5m-20261007/root-first-opportunity-v143-documentation-1791897348811/before-BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,127009,f2e842cfa08db16a81825a82a27d23251b396ca1f5bf7b2ed45ee3c6c2e9975e
+专题报告/btc5m-20261007/root-first-opportunity-v143-documentation-1791897348811/before-BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,64628,b677cf0a1d0cc6407b1a9e7db006bd52e452282ec0b47ccca7a15bb36ac6f48a
+专题报告/btc5m-20261007/root-late-information-v151-documentation-1791979840111/before-BTC-策略研究进度-20261010.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,42506,41dfe1a35b5383b7d6504ec35f41b2ee82ed15e19b7d31b00402de3ea3dfac69
+专题报告/btc5m-20261007/root-late-information-v151-documentation-1791979840111/before-BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,134209,59f385216cd87feb2b98b54b88e1ab3d13a77687db81c41efb8a9ac41fab5bf6
+专题报告/btc5m-20261007/root-late-information-v151-documentation-1791979840111/before-BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,71828,948b5fb5ed71ce9d2ad29f796e22a81814522d26f83b640b934e8e5ca2b8bc9e
+专题报告/btc5m-20261007/root-microstructure-v141-documentation-1791893351580/before-BTC-策略研究进度-20261010.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,33062,b43942e25dff9603beb7ca416f4f87660daf9c314af8dcc208628779088f2ea9
+专题报告/btc5m-20261007/root-microstructure-v141-documentation-1791893351580/before-BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,124765,702f9022271f76c05efd3f5363bb96e8c0f2f2425b340e87ed2fd4648901e0db
+专题报告/btc5m-20261007/root-microstructure-v141-documentation-1791893351580/before-BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,62384,8e5750eebc0ab0a03eb25f652cc4769ca1ff5df4c4db143bf3fd9b038de02426
+专题报告/btc5m-20261007/root-net-mean-v147-documentation-1791923392840/before-BTC-策略研究进度-20261010.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,38937,9c83be95b6e479998062c60dbc4f242f031e56328bdd1a5a3ddc3c48834e87de
+专题报告/btc5m-20261007/root-net-mean-v147-documentation-1791923392840/before-BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,130640,5b88c2ea1fa4d7d9a6bb5eb51af3934a36b365a258239f41f0fc7ab75e70bf76
+专题报告/btc5m-20261007/root-net-mean-v147-documentation-1791923392840/before-BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,68259,5e68570fcc59cc6d5b2dab169c3bccf0423936659c9e5b7563d74493ccc013f8
+专题报告/btc5m-20261007/root-net-return-ratio-v150-documentation-1791978236016/before-BTC-策略研究进度-20261010.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,41690,6a9f6f4eba86b2aa786a65191838c002cbbb28cd10cab2dc400bd4dfd68f3a35
+专题报告/btc5m-20261007/root-net-return-ratio-v150-documentation-1791978236016/before-BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,133393,6965e5899faec241dd10eaab344e28054a69d44354571dad38baf90a1b46a217
+专题报告/btc5m-20261007/root-net-return-ratio-v150-documentation-1791978236016/before-BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,71012,3f0dfbf50472d5a37b5a8c835cd6555b5eb86d03f0eb43584cd3beb0e3aaf222
+专题报告/btc5m-20261007/root-quote-velocity-v146-documentation-1791915756119/before-BTC-策略研究进度-20261010.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,37563,abd201486c02d6c45664bbccaa1413c5ee6ace0d0568133a63b5a71401b1548b
+专题报告/btc5m-20261007/root-quote-velocity-v146-documentation-1791915756119/before-BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,129266,0ba4e7adfac11fd3aeee94b8a6e9d6bdd6c5ae7b42871f38888efe7baf661126
+专题报告/btc5m-20261007/root-quote-velocity-v146-documentation-1791915756119/before-BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,66885,5c54ca083c469f502493aff2563438b08110e6f5d74a3b15512ee21ea8a8a45d
+专题报告/btc5m-20261007/root-source-price-protection-v145-documentation-1791902776467/before-BTC-策略研究进度-20261010.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,36890,c1550cd890b129b9bcb912344a6a16f0e424d54d946811eeca7622767770af25
+专题报告/btc5m-20261007/root-source-price-protection-v145-documentation-1791902776467/before-BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,128593,422261f3cd6ff44ddadc63ee9a9278bf1f492942294df5319cfa848a5125d2e2
+专题报告/btc5m-20261007/root-source-price-protection-v145-documentation-1791902776467/before-BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,66212,6a223f6650807c419fa7a9222e8cd4b71feb8078a2645b4ce625bd09659e52fc
+专题报告/btc5m-20261007/root-source-recovery-v152-documentation-1791997716685/before-BTC-策略研究进度-20261010.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,43958,fb2c520861fd0df66e5fd4726f5f42fb774bec081875b3d3b6691eb43ea3f31c
+专题报告/btc5m-20261007/root-source-recovery-v152-documentation-1791997716685/before-BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,135661,eed929794dbc8bd7a06ad8bc29e3839a838d3ebd0467392fcd969cd6a4ab11d6
+专题报告/btc5m-20261007/root-source-recovery-v152-documentation-1791997716685/before-BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,73280,6573ae3f82980e1bc5cef352eca6858672a789b013f2b2fe718c19db0c736c06
+专题报告/btc5m-20261007/root-spot-dynamics-v149-documentation-1791972092222/before-BTC-策略研究进度-20261010.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,40772,9dae042573940738ba73d63f7ae5d1d23c1dce85d7e8108556828c2cc6f112ea
+专题报告/btc5m-20261007/root-spot-dynamics-v149-documentation-1791972092222/before-BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,132475,7d37919af52486aa4f33b301d621c72454286e5c85c80f4a4ce91149a09b09b1
+专题报告/btc5m-20261007/root-spot-dynamics-v149-documentation-1791972092222/before-BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,70094,d8bf45287ee53426c09d6731bb446a05442bdda06ca6ec476973be148f7ff6df
+专题报告/btc5m-20261007/root-value-policy-cash-and-ended-oct12-documentation-1791871947999/BTC-策略研究进度-20261010.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,30659,3488a2c4dc3614b52189d04808625b70029f7656032601b4f1199e3b0388c829
+专题报告/btc5m-20261007/root-value-policy-cash-and-ended-oct12-documentation-1791871947999/BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,122362,4b1bb2dd26fe842df8033efa1ee9475f0502f96148ccc43dafd3286a350bff2e
+专题报告/btc5m-20261007/root-value-policy-cash-and-ended-oct12-documentation-1791871947999/BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,59981,7726fe687792bfb2da9b8f95011ad70011307699d2dc5e4d98fda8702074a2eb
+专题报告/btc5m-20261007/seed-quote-residual-financial-20261012/DESIGN.md,原文,,1376,7e16c306f01e9b54ff1643bcb5ec006436e983e555d7230b3881ad42c6d5bd83
+专题报告/btc5m-20261007/seed-quote-residual-financial-20261012/pure-proof-1791746113343/source/000-DESIGN.md,原文,,1376,7e16c306f01e9b54ff1643bcb5ec006436e983e555d7230b3881ad42c6d5bd83
+专题报告/btc5m-20261007/seed-quote-residual-pilot-20261012/DESIGN.md,原文,,1437,37044f4baf52e7c52753b347235e518e6e26715a106d99c09ed62b8e328e0caf
+专题报告/btc5m-20261007/seed-quote-residual-pilot-20261012/pure-proof-1791745273192/source/007-DESIGN.md,原文,,1437,37044f4baf52e7c52753b347235e518e6e26715a106d99c09ed62b8e328e0caf
+专题报告/btc5m-20261007/seed-quote-time-dollar-pure-20261012/DESIGN.md,原文,,1797,7bc9b470b693b6b7efd90c4ed13f6cd879cf2a1eb6813aba4789a4dad12fac87
+专题报告/btc5m-20261007/seed-quote-time-dollar-pure-20261012/pure-proof-1791749487559/source/000-DESIGN.md,原文,,1797,7bc9b470b693b6b7efd90c4ed13f6cd879cf2a1eb6813aba4789a4dad12fac87
+专题报告/btc5m-20261007/seed-realized-dollar-pure-20261012/DESIGN.md,原文,,2019,38d36401533304a09549973bfe0afef1d3d7edc82ce69d77ab7bb2feb5e53186
+专题报告/btc5m-20261007/seed-realized-dollar-pure-20261012/pure-proof-1791747557381/source/000-DESIGN.md,原文,,2019,38d36401533304a09549973bfe0afef1d3d7edc82ce69d77ab7bb2feb5e53186
+专题报告/btc5m-20261007/selected-forward-daily-carry-independent-20261013/DESIGN.md,原文,,643,5ce65b3acc8fade2334c29c9d4428d9d61590197308d8f872026a7a1f2887d9e
+专题报告/btc5m-20261007/selected-forward-financial-pure-20261012/DESIGN.md,原文,,671,4c68ad24c24ed71d3c4b1ed6ca916e308e3d9865e8795c3be1eeedab3113f411
+专题报告/btc5m-20261007/selected-forward-financial-pure-20261012/pure-proof-1791772280978/source/000-DESIGN.md,原文,,671,4c68ad24c24ed71d3c4b1ed6ca916e308e3d9865e8795c3be1eeedab3113f411
+专题报告/btc5m-20261007/selected-forward-financial-pure-20261012/pure-proof-1791772280978/source/024-DESIGN.md,原文,,268,916e64468b21bba0ee5d86027ffe16ae4b2262ef90f77f722a137fccb62f8aeb
+专题报告/btc5m-20261007/selected-forward-financial-pure-v2-20261012/DESIGN.md,原文,,671,4c68ad24c24ed71d3c4b1ed6ca916e308e3d9865e8795c3be1eeedab3113f411
+专题报告/btc5m-20261007/selected-forward-financial-pure-v2-20261012/pure-proof-1791772421399/source/000-DESIGN.md,原文,,671,4c68ad24c24ed71d3c4b1ed6ca916e308e3d9865e8795c3be1eeedab3113f411
+专题报告/btc5m-20261007/selected-forward-financial-pure-v2-20261012/pure-proof-1791772421399/source/039-DESIGN.md,原文,,268,916e64468b21bba0ee5d86027ffe16ae4b2262ef90f77f722a137fccb62f8aeb
+专题报告/btc5m-20261007/selected-forward-financial-pure-v2-20261012/pure-proof-1791772520875/source/000-DESIGN.md,原文,,671,4c68ad24c24ed71d3c4b1ed6ca916e308e3d9865e8795c3be1eeedab3113f411
+专题报告/btc5m-20261007/selected-forward-financial-pure-v2-20261012/pure-proof-1791772520875/source/039-DESIGN.md,原文,,268,916e64468b21bba0ee5d86027ffe16ae4b2262ef90f77f722a137fccb62f8aeb
+专题报告/btc5m-20261007/selected-forward-live-carry-v2-20261012/DESIGN.md,原文,,479,41ae403bea4cdb9ec740654c0652f09276141b73a548e2f287ef09d7ac53fa54
+专题报告/btc5m-20261007/selected-forward-live-carry-v2-20261012/pure-proof-1791812576788/source/021-DESIGN.md,原文,,479,41ae403bea4cdb9ec740654c0652f09276141b73a548e2f287ef09d7ac53fa54
+专题报告/btc5m-20261007/selected-forward-live-carry-v2-20261012/pure-proof-1791812576788/source/054-DESIGN.md,原文,,268,916e64468b21bba0ee5d86027ffe16ae4b2262ef90f77f722a137fccb62f8aeb
+专题报告/btc5m-20261007/selected-forward-live-carry-v2-20261012/pure-proof-1791812576788/source/055-DESIGN.md,原文,,671,4c68ad24c24ed71d3c4b1ed6ca916e308e3d9865e8795c3be1eeedab3113f411
+专题报告/btc5m-20261007/selected-forward-live-carry-v3-20261013/DESIGN.md,原文,,561,a6b70b8f2e8387bc1aabe304bbcee4b75844fc9208a95f83c5a5b68415fde25b
+专题报告/btc5m-20261007/selected-forward-live-paper-20261012/DESIGN.md,原文,,935,5f0271360bd81a4d54e002c874cb919273ef0006bd20a7966465314fbde090c0
+专题报告/btc5m-20261007/selected-forward-live-paper-20261012/pure-proof-1791772875141/source/000-DESIGN.md,原文,,935,5f0271360bd81a4d54e002c874cb919273ef0006bd20a7966465314fbde090c0
+专题报告/btc5m-20261007/selected-forward-live-paper-20261012/pure-proof-1791772875141/source/052-DESIGN.md,原文,,268,916e64468b21bba0ee5d86027ffe16ae4b2262ef90f77f722a137fccb62f8aeb
+专题报告/btc5m-20261007/selected-forward-live-paper-20261012/pure-proof-1791772875141/source/053-DESIGN.md,原文,,671,4c68ad24c24ed71d3c4b1ed6ca916e308e3d9865e8795c3be1eeedab3113f411
+专题报告/btc5m-20261007/selected-forward-night-carry-independent-20261012/DESIGN.md,原文,,499,a86eddf52101ca6ee81a000a7077982d9c1977df91c852b01a6d92640af85cee
+专题报告/btc5m-20261007/selected-forward-training-bridge-pure-20261012/DESIGN.md,原文,,760,86aa4393f5e587c04cd18c47d2b695afceafb03567ae0f2cb15035f3a0c3d44b
+专题报告/btc5m-20261007/selected-net-forward-adapter-pure-20261012/DESIGN.md,原文,,2825,e51c4d066faa5e89f8ca66e11dab61f3e53b4affd5a00d3e305a07eeb5728a15
+专题报告/btc5m-20261007/selected-net-forward-adapter-pure-20261012/pure-proof-1791768544238/source/015-DESIGN.md,原文,,2825,e51c4d066faa5e89f8ca66e11dab61f3e53b4affd5a00d3e305a07eeb5728a15
+专题报告/btc5m-20261007/selected-net-forward-adapter-pure-v2-20261012/DESIGN.md,原文,,3204,f3ca90dd2511e66836c877b0e2f0b7a145e4cb57daf9fad4b9c00b6100d59ab2
+专题报告/btc5m-20261007/selected-net-forward-adapter-pure-v2-20261012/pure-proof-1791769753294/source/015-DESIGN.md,原文,,3204,f3ca90dd2511e66836c877b0e2f0b7a145e4cb57daf9fad4b9c00b6100d59ab2
+专题报告/btc5m-20261007/selected-net-forward-adapter-pure-v3-20261012/DESIGN.md,原文,,268,916e64468b21bba0ee5d86027ffe16ae4b2262ef90f77f722a137fccb62f8aeb
+专题报告/btc5m-20261007/selected-net-forward-adapter-pure-v4-20261012/DESIGN.md,原文,,268,916e64468b21bba0ee5d86027ffe16ae4b2262ef90f77f722a137fccb62f8aeb
+专题报告/btc5m-20261007/selected-net-forward-journal-pure-20261012/DESIGN.md,原文,,1305,91d5e638799e972bda853d03cf6deeb8f41831aa5d3a82dfee8c55c74545908d
+专题报告/btc5m-20261007/selected-net-forward-journal-pure-20261012/pure-proof-1791769124842/source/000-DESIGN.md,原文,,1305,91d5e638799e972bda853d03cf6deeb8f41831aa5d3a82dfee8c55c74545908d
+专题报告/btc5m-20261007/selected-net-forward-numeric-parity-20261012/DESIGN.md,原文,,1464,fa308754ae00f9161d8c8af43ce805df0ea43697ea947109013135b7e6374ed7
+专题报告/btc5m-20261007/selected-net-forward-numeric-parity-registration-1791768749494/source-042-DESIGN.md,原文,,1464,fa308754ae00f9161d8c8af43ce805df0ea43697ea947109013135b7e6374ed7
+专题报告/btc5m-20261007/selected-net-forward-numeric-parity-v2-20261012/DESIGN.md,原文,,1831,d0835102b75226692a71a8c7f02da68064fc5a2573ee83689c9030be6fc1739e
+专题报告/btc5m-20261007/selected-net-forward-numeric-parity-v2-registration-1791768819740/source-042-DESIGN.md,原文,,1831,d0835102b75226692a71a8c7f02da68064fc5a2573ee83689c9030be6fc1739e
+专题报告/btc5m-20261007/selected-net-forward-source-coordinate-pure-20261012/DESIGN.md,原文,,1460,f5c387578688593ef7b6148074adc385ff76ae091026b585ca540b9490f07cf0
+专题报告/btc5m-20261007/selected-net-forward-source-coordinate-pure-20261012/pure-proof-1791769752006/source/000-DESIGN.md,原文,,1460,f5c387578688593ef7b6148074adc385ff76ae091026b585ca540b9490f07cf0
+专题报告/btc5m-20261007/selected-opportunity-net-pure-20261012/DESIGN.md,原文,,3120,52e369bd1ddd46f9d4a3fe59f94ec77fae3b00958f95f6051bb8e26c557c7590
+专题报告/btc5m-20261007/selected-opportunity-net-pure-20261012/pure-proof-1791765615217/source/000-DESIGN.md,原文,,3120,52e369bd1ddd46f9d4a3fe59f94ec77fae3b00958f95f6051bb8e26c557c7590
+专题报告/btc5m-20261007/source-refresh-oct10-design-20261011/DESIGN.md,原文,,560,5c54aa7312835bb84ffdfd73b438874d44db47612a4000b974e9b5cd9560a0d7
+专题报告/btc5m-20261007/source-refresh-oct10-design-20261011/pure-source-hold-1791661638230/sources/own/DESIGN.md,原文,,560,5c54aa7312835bb84ffdfd73b438874d44db47612a4000b974e9b5cd9560a0d7
+专题报告/btc5m-20261007/source-refresh-oct11-design-20261012/DESIGN.md,原文,,367,8ed5abcb9afcf8440308dcea38620e61d55f1b5124318086a67fd1df6e77803c
+专题报告/btc5m-20261007/source-refresh-oct11-design-20261012/pure-source-hold-1791741202967/sources/own/DESIGN.md,原文,,367,8ed5abcb9afcf8440308dcea38620e61d55f1b5124318086a67fd1df6e77803c
+专题报告/btc5m-20261007/source-refresh-oct11-design-v2-20261012/DESIGN.md,原文,,367,8ed5abcb9afcf8440308dcea38620e61d55f1b5124318086a67fd1df6e77803c
+专题报告/btc5m-20261007/source-refresh-oct11-design-v2-20261012/pure-source-hold-1791741232977/sources/own/DESIGN.md,原文,,367,8ed5abcb9afcf8440308dcea38620e61d55f1b5124318086a67fd1df6e77803c
+专题报告/btc5m-20261007/source-refresh-oct12-design-20261013/DESIGN.md,原文,,367,caefeafc27a72435fc8e41ccd44490b1736d074c185fd4462715c34dda566d38
+专题报告/btc5m-20261007/source-refresh-oct12-design-20261013/pure-source-hold-1791869294990/sources/own/DESIGN.md,原文,,367,caefeafc27a72435fc8e41ccd44490b1736d074c185fd4462715c34dda566d38
+专题报告/btc5m-20261007/source-refresh-oct13-design-20261014/DESIGN.md,原文,,367,27e237d082783841adaf24ae1da801f7355f1d05780ecb60a5249e9bde9656bc
+专题报告/btc5m-20261007/source-refresh-oct13-design-20261014/pure-source-hold-1791913734222/sources/own/DESIGN.md,原文,,367,27e237d082783841adaf24ae1da801f7355f1d05780ecb60a5249e9bde9656bc
+专题报告/btc5m-20261007/source-refresh-oct14-design-20261015/DESIGN.md,原文,,367,cc3c275ab861e07a9a70e2c81c9b387456a2b50e5cab589ec7ec394d5398b7f7
+专题报告/btc5m-20261007/source-refresh-oct14-design-20261015/pure-source-hold-1791996101358/sources/own/DESIGN.md,原文,,367,cc3c275ab861e07a9a70e2c81c9b387456a2b50e5cab589ec7ec394d5398b7f7
+专题报告/btc5m-20261007/source-refresh-oct7-design-20261008/DESIGN.md,原文,,3309,1d0aadeb77e37afe3b020ff0825571a873e2cb7b87fb9c16be00b8d3207888f5
+专题报告/btc5m-20261007/source-refresh-oct7-design-20261008/pure-source-hold-1791419861005/sources/own/DESIGN.md,原文,,3309,1d0aadeb77e37afe3b020ff0825571a873e2cb7b87fb9c16be00b8d3207888f5
+专题报告/btc5m-20261007/source-refresh-oct7-design-20261008/pure-source-hold-1791419882474/sources/own/DESIGN.md,原文,,3309,1d0aadeb77e37afe3b020ff0825571a873e2cb7b87fb9c16be00b8d3207888f5
+专题报告/btc5m-20261007/source-refresh-oct8-design-20261008/DESIGN.md,原文,,1388,1770bc3f581087adc388fd180e212c4c4525bed47d5cf00679a78c106dbcefa8
+专题报告/btc5m-20261007/source-refresh-oct8-design-20261008/pure-source-hold-1791468551403/sources/own/DESIGN.md,原文,,1388,1770bc3f581087adc388fd180e212c4c4525bed47d5cf00679a78c106dbcefa8
+专题报告/btc5m-20261007/source-refresh-oct9-design-20261010/DESIGN.md,原文,,628,6fdb24ca193b8c7e9787d5bd69823e99423f3daa453304a741c179d2f323e0b1
+专题报告/btc5m-20261007/source-refresh-oct9-design-20261010/pure-source-hold-1791561996532/sources/own/DESIGN.md,原文,,628,6fdb24ca193b8c7e9787d5bd69823e99423f3daa453304a741c179d2f323e0b1
+专题报告/btc5m-20261007/static-calibration-refresh-design/source-hold-1791355238006/source/research/static-calibration-refresh-design-20261007/DESIGN.md,原文,,7500,1fcac0402313ac289fe83f6ba62164c421323869c3c9de5a5cc12c2c31efeff1
+专题报告/btc5m-20261007/static-calibration-refresh-independent-review/code-proof-1791355350414/source/research/static-calibration-refresh-design-20261007/DESIGN.md,原文,,7500,1fcac0402313ac289fe83f6ba62164c421323869c3c9de5a5cc12c2c31efeff1
+专题报告/btc5m-20261007/static-calibration-refresh-independent-review/code-proof-1791355388305/source/research/static-calibration-refresh-design-20261007/DESIGN.md,原文,,7500,1fcac0402313ac289fe83f6ba62164c421323869c3c9de5a5cc12c2c31efeff1
+专题报告/btc5m-20261007/static-independent-output-audit-1791377992531/sources/11-DESIGN.md,原文,,3553,d5cabf02dc44947e887fe2103a9c3b988ca89eed225f6fb224c6cd714b1b986a
+专题报告/btc5m-20261007/static-independent-output-audit-v2-1791378769136/sources/11-DESIGN.md,原文,,4366,6d52c265fa8cd30c4f0aac39883d8cb9d3cab2543cb39016ae311e05b2bc3c25
+专题报告/btc5m-20261007/static-source-phase-code-proof-1791355417579/sources/static-root-source-phase-20261007/DESIGN.md,原文,,3835,8ab23822f583aedc79665478f6a9078562c9257fa045802fe02f1fe768c539f0
+专题报告/btc5m-20261007/static-source-phase-code-proof-1791355462782/sources/static-root-source-phase-20261007/DESIGN.md,原文,,3835,8ab23822f583aedc79665478f6a9078562c9257fa045802fe02f1fe768c539f0
+专题报告/btc5m-20261007/twap-terminal-tail-pure-20261013/DESIGN.md,原文,,2184,33ff4d3690f8f9ff7e4f5f87fb5f6e85a3f64cd815714436f1a327ff8f5fa9a7
+专题报告/btc5m-20261007/usd-all-grid-delayed-source-extract-20261009/DESIGN.md,原文,,1584,680b6d24f0e41adf83fa929500c6a0c7b897037a44e26e19c5476e9498738930
+专题报告/btc5m-20261007/usd-all-grid-delayed-source-extract-20261009/pure-proof-1791555626608/source/000-DESIGN.md,原文,,1584,680b6d24f0e41adf83fa929500c6a0c7b897037a44e26e19c5476e9498738930
+专题报告/btc5m-20261007/usd-all-grid-delayed-source-independent-20261009/DESIGN.md,原文,,1084,8c2319e0cd52609f4a39b7ca8619c6c7a2500c5ba9698bcabe785b4bb2d82472
+专题报告/btc5m-20261007/usd-all-grid-delayed-source-independent-20261009/pure-proof-1791556235994/source/060-DESIGN.md,原文,,1084,8c2319e0cd52609f4a39b7ca8619c6c7a2500c5ba9698bcabe785b4bb2d82472
+专题报告/btc5m-20261007/usd-all-grid-exposure-calibration-independent-20261009/DESIGN.md,原文,,770,54c645bec14eecb519229a90a661d8c47351f5a11dc8bbd0754d01658a118449
+专题报告/btc5m-20261007/usd-all-grid-exposure-calibration-independent-20261009/pure-proof-1791558240318/source/058-DESIGN.md,原文,,770,54c645bec14eecb519229a90a661d8c47351f5a11dc8bbd0754d01658a118449
+专题报告/btc5m-20261007/usd-all-grid-exposure-calibration-pure-20261009/DESIGN.md,原文,,1057,3d9c0988d1ea7669ffbf6baebcccbc264fe2e273d76d1afe4c44025b8b20fa1c
+专题报告/btc5m-20261007/usd-all-grid-exposure-calibration-pure-20261009/pure-proof-1791556780155/source/000-DESIGN.md,原文,,1057,3d9c0988d1ea7669ffbf6baebcccbc264fe2e273d76d1afe4c44025b8b20fa1c
+专题报告/btc5m-20261007/usd-all-grid-exposure-calibration-study-20261009/DESIGN.md,原文,,969,a2e997ab4942c0abe1592b9f3939de04e5613c99138660abf8ee2989deb4b653
+专题报告/btc5m-20261007/usd-all-grid-exposure-calibration-study-20261009/pure-proof-1791557178135/source/000-DESIGN.md,原文,,969,a2e997ab4942c0abe1592b9f3939de04e5613c99138660abf8ee2989deb4b653
+专题报告/btc5m-20261007/usd-all-grid-first-delay-preview-design-20261009/DESIGN.md,原文,,1435,01f7f238b664639a1d37e2e1e715c40a56d4d7371fc03c5b77089becd8cfd08d
+专题报告/btc5m-20261007/usd-all-grid-first-delay-preview-design-20261009/pure-proof-1791554018812/source/000-DESIGN.md,原文,,1435,01f7f238b664639a1d37e2e1e715c40a56d4d7371fc03c5b77089becd8cfd08d
+专题报告/btc5m-20261007/usd-all-grid-first-delay-preview-design-v2-20261009/DESIGN.md,原文,,1889,cfa44db72e7762ca17bd0835f7763aa057f13aafac65a2785c1b9a106cd64d27
+专题报告/btc5m-20261007/usd-all-grid-first-delay-preview-design-v2-20261009/pure-proof-1791554231912/source/000-DESIGN.md,原文,,1889,cfa44db72e7762ca17bd0835f7763aa057f13aafac65a2785c1b9a106cd64d27
+专题报告/btc5m-20261007/usd-cost-buffer-candidate-20261009/DESIGN.md,原文,,798,3d38b916a1a2d24b16547936017e4ecbf2a322bf2f7115e9d81c992886052c54
+专题报告/btc5m-20261007/usd-cost-buffer-candidate-20261009/pure-proof-1791505754439/source/020-DESIGN.md,原文,,798,3d38b916a1a2d24b16547936017e4ecbf2a322bf2f7115e9d81c992886052c54
+专题报告/btc5m-20261007/usd-cost-buffer-candidate-independent-20261009/DESIGN.md,原文,,788,59dc0ab6e796d2ec08fe4060e6b00c74c1fefbbe3f6590d821d4f96c203ceb83
+专题报告/btc5m-20261007/usd-cost-buffer-candidate-independent-20261009/pure-proof-1791505967575/source/048-DESIGN.md,原文,,788,59dc0ab6e796d2ec08fe4060e6b00c74c1fefbbe3f6590d821d4f96c203ceb83
+专题报告/btc5m-20261007/usd-execution-factorial-independent-20261009/DESIGN.md,原文,,788,59dc0ab6e796d2ec08fe4060e6b00c74c1fefbbe3f6590d821d4f96c203ceb83
+专题报告/btc5m-20261007/usd-execution-factorial-independent-20261009/pure-proof-1791488043820/source/048-DESIGN.md,原文,,788,59dc0ab6e796d2ec08fe4060e6b00c74c1fefbbe3f6590d821d4f96c203ceb83
+专题报告/btc5m-20261007/usd-execution-factorial-v2-20261009/DESIGN.md,原文,,1242,5f58693692d979426e12c8cf9eca53a5095c9ee2687248323ba22702f561c332
+专题报告/btc5m-20261007/usd-execution-factorial-v2-20261009/pure-proof-1791487832064/source/020-DESIGN.md,原文,,1242,5f58693692d979426e12c8cf9eca53a5095c9ee2687248323ba22702f561c332
+专题报告/btc5m-20261007/usd-execution-reference-innovation-pure-20261009/DESIGN.md,原文,,1247,9c48ba9928e91bbe9a5c58646f21858be5d615ed8b283d184bb629781d71dc03
+专题报告/btc5m-20261007/usd-execution-reference-innovation-pure-20261009/pure-proof-1791561481879/source/000-DESIGN.md,原文,,1247,9c48ba9928e91bbe9a5c58646f21858be5d615ed8b283d184bb629781d71dc03
+专题报告/btc5m-20261007/usd-execution-signal-state-extract-20261009/DESIGN.md,原文,,1511,1b424c483bd46f00902fd2331fa80a6735fd554d8db515698d6c6815a3051f7f
+专题报告/btc5m-20261007/usd-execution-signal-state-extract-20261009/pure-proof-1791559640887/source/000-DESIGN.md,原文,,1511,1b424c483bd46f00902fd2331fa80a6735fd554d8db515698d6c6815a3051f7f
+专题报告/btc5m-20261007/usd-execution-signal-state-extract-v2-20261009/DESIGN.md,原文,,1762,f398fd0b83115cc67aa44638ad4db3ad9fc314b4a5f47004fe61bf4a6fb0c9ee
+专题报告/btc5m-20261007/usd-execution-signal-state-extract-v2-20261009/pure-proof-1791559715903/source/000-DESIGN.md,原文,,1762,f398fd0b83115cc67aa44638ad4db3ad9fc314b4a5f47004fe61bf4a6fb0c9ee
+专题报告/btc5m-20261007/usd-execution-signal-state-extract-v3-20261009/DESIGN.md,原文,,2111,138f25dba5255600884774918e1d1fb190e981c5160520d51610a293dbdb9902
+专题报告/btc5m-20261007/usd-execution-signal-state-extract-v3-20261009/pure-proof-1791560669981/source/000-DESIGN.md,原文,,2111,138f25dba5255600884774918e1d1fb190e981c5160520d51610a293dbdb9902
+专题报告/btc5m-20261007/usd-execution-signal-state-independent-20261009/DESIGN.md,原文,,1043,6646277a1013fed571469145754558f8d1bae9cf9706a62132d4f1d0cc871d08
+专题报告/btc5m-20261007/usd-execution-signal-state-independent-20261009/pure-proof-1791560095337/source/060-DESIGN.md,原文,,1043,6646277a1013fed571469145754558f8d1bae9cf9706a62132d4f1d0cc871d08
+专题报告/btc5m-20261007/usd-execution-signal-state-independent-v2-20261009/DESIGN.md,原文,,1299,37a8fd64f29280b194ca315d9afff616053b0ddcf7f4e029ae46fc784c8d8e38
+专题报告/btc5m-20261007/usd-execution-signal-state-independent-v2-20261009/pure-proof-1791560832556/source/061-DESIGN.md,原文,,1299,37a8fd64f29280b194ca315d9afff616053b0ddcf7f4e029ae46fc784c8d8e38
+专题报告/btc5m-20261007/usd-execution-signal-state-pure-20261009/DESIGN.md,原文,,726,09a032a99a8aa045c7e061f132ad3a1a6eb1aa53f911d4683c5931ae7b3a7097
+专题报告/btc5m-20261007/usd-execution-signal-state-pure-20261009/pure-proof-1791558896055/source/000-DESIGN.md,原文,,726,09a032a99a8aa045c7e061f132ad3a1a6eb1aa53f911d4683c5931ae7b3a7097
+专题报告/btc5m-20261007/usd-execution-signal-state-pure-v2-20261009/DESIGN.md,原文,,1272,c21875ae2bdb5c10236119b9a9d92e92e59ecac7b598f57e390618e6a3b17f28
+专题报告/btc5m-20261007/usd-execution-signal-state-pure-v2-20261009/pure-proof-1791560547586/source/000-DESIGN.md,原文,,1272,c21875ae2bdb5c10236119b9a9d92e92e59ecac7b598f57e390618e6a3b17f28
+专题报告/btc5m-20261007/usd-first-delayed-fill-calibration-20261009/DESIGN.md,原文,,853,4b5f0e37ca30f4f4b4a13f4093799829afd03f5b038b05bf98185cf2f84bb19c
+专题报告/btc5m-20261007/usd-first-delayed-fill-calibration-20261009/pure-proof-1791515008613/source/000-DESIGN.md,原文,,853,4b5f0e37ca30f4f4b4a13f4093799829afd03f5b038b05bf98185cf2f84bb19c
+专题报告/btc5m-20261007/usd-first-delayed-fill-calibration-independent-20261009/DESIGN.md,原文,,889,f6b59fc6c0f5b352ecf5b674b1014eddd58542b746323d4fff68003507977a1e
+专题报告/btc5m-20261007/usd-first-delayed-fill-calibration-independent-20261009/pure-proof-1791515414963/source/054-DESIGN.md,原文,,889,f6b59fc6c0f5b352ecf5b674b1014eddd58542b746323d4fff68003507977a1e
+专题报告/btc5m-20261007/usd-first-delayed-fill-calibration-v2-20261009/DESIGN.md,原文,,1274,3d16645e3bb627222ae69f6ecbbbb5695147055a4d4600d566c560f8a9c4cfda
+专题报告/btc5m-20261007/usd-first-delayed-fill-calibration-v2-20261009/pure-proof-1791515046847/source/000-DESIGN.md,原文,,1274,3d16645e3bb627222ae69f6ecbbbb5695147055a4d4600d566c560f8a9c4cfda
+专题报告/btc5m-20261007/usd-first-delayed-fill-calibration-v3-20261009/DESIGN.md,原文,,1825,b6690fb1e8e5f4512454853e4a853af2e5462f3ddd8d04613676faa6337a213b
+专题报告/btc5m-20261007/usd-first-delayed-fill-calibration-v3-20261009/pure-proof-1791515286994/source/000-DESIGN.md,原文,,1825,b6690fb1e8e5f4512454853e4a853af2e5462f3ddd8d04613676faa6337a213b
+专题报告/btc5m-20261007/usd-first-delayed-fill-economic-20261009/DESIGN.md,原文,,988,3a1ac9bfd6d5ce29f3250585e4f7cf7c2509bb7bed70df813b329f007aa8bec9
+专题报告/btc5m-20261007/usd-first-delayed-fill-economic-20261009/pure-proof-1791516071883/source/039-DESIGN.md,原文,,988,3a1ac9bfd6d5ce29f3250585e4f7cf7c2509bb7bed70df813b329f007aa8bec9
+专题报告/btc5m-20261007/usd-first-delayed-fill-economic-independent-20261009/DESIGN.md,原文,,852,4b5d185ba2af7aaa1066aefb73bc64d942d21df440c0d065faa62638065d0741
+专题报告/btc5m-20261007/usd-first-delayed-fill-economic-independent-20261009/pure-proof-1791516603210/source/060-DESIGN.md,原文,,852,4b5d185ba2af7aaa1066aefb73bc64d942d21df440c0d065faa62638065d0741
+专题报告/btc5m-20261007/usd-first-delayed-fill-source-design-20261009/DESIGN.md,原文,,1547,1cad2315aa7ab2b278780b0b0b528d167808a3027176d52e86b510a1a3bce8a1
+专题报告/btc5m-20261007/usd-first-delayed-fill-source-design-20261009/pure-proof-1791513462149/source/000-DESIGN.md,原文,,1547,1cad2315aa7ab2b278780b0b0b528d167808a3027176d52e86b510a1a3bce8a1
+专题报告/btc5m-20261007/usd-first-delayed-fill-source-design-v2-20261009/DESIGN.md,原文,,1869,016ffbb8e82f6c1d649863ccc70e4437e2253b4f848ffeec1a0b167ddc5829ef
+专题报告/btc5m-20261007/usd-first-delayed-fill-source-design-v2-20261009/pure-proof-1791513491717/source/000-DESIGN.md,原文,,1869,016ffbb8e82f6c1d649863ccc70e4437e2253b4f848ffeec1a0b167ddc5829ef
+专题报告/btc5m-20261007/usd-first-delayed-fill-source-design-v3-20261009/DESIGN.md,原文,,2336,9e5c016d98a74c2429b49d6d30e77da35c4e5cdfcb008adbbe0210e4b6f1975a
+专题报告/btc5m-20261007/usd-first-delayed-fill-source-design-v3-20261009/pure-proof-1791513549235/source/000-DESIGN.md,原文,,2336,9e5c016d98a74c2429b49d6d30e77da35c4e5cdfcb008adbbe0210e4b6f1975a
+专题报告/btc5m-20261007/usd-first-delayed-fill-source-independent-20261009/DESIGN.md,原文,,849,b0d7850b5a4f65708320ca701d429aa248a4276b0b32feba16f7e80e0cba9ca6
+专题报告/btc5m-20261007/usd-first-delayed-fill-source-independent-20261009/pure-proof-1791514691529/source/056-DESIGN.md,原文,,849,b0d7850b5a4f65708320ca701d429aa248a4276b0b32feba16f7e80e0cba9ca6
+专题报告/btc5m-20261007/usd-first-opportunity-design-20261009/DESIGN.md,原文,,942,ab737f29259d98398b3e2ebb733ce564c3189bd38590b4684c42273bbbe69551
+专题报告/btc5m-20261007/usd-first-opportunity-design-20261009/pure-proof-1791506592779/source/021-DESIGN.md,原文,,942,ab737f29259d98398b3e2ebb733ce564c3189bd38590b4684c42273bbbe69551
+专题报告/btc5m-20261007/usd-first-opportunity-ended-oct10-20261011/DESIGN.md,原文,,904,934aa9c3437cfd1ca681588bc853f75853bd7f80ee48a57348d56ec4925614a9
+专题报告/btc5m-20261007/usd-first-opportunity-ended-oct10-20261011/pure-proof-1791663743332/source/021-DESIGN.md,原文,,904,934aa9c3437cfd1ca681588bc853f75853bd7f80ee48a57348d56ec4925614a9
+专题报告/btc5m-20261007/usd-first-opportunity-ended-oct10-independent-20261011/DESIGN.md,原文,,794,231e4f774e6078eee4146d56a5e7f5590ae2f503712540d2f25b1a2eb4a694d8
+专题报告/btc5m-20261007/usd-first-opportunity-ended-oct10-independent-20261011/pure-proof-1791663845932/source/037-DESIGN.md,原文,,794,231e4f774e6078eee4146d56a5e7f5590ae2f503712540d2f25b1a2eb4a694d8
+专题报告/btc5m-20261007/usd-first-opportunity-independent-20261009/DESIGN.md,原文,,788,59dc0ab6e796d2ec08fe4060e6b00c74c1fefbbe3f6590d821d4f96c203ceb83
+专题报告/btc5m-20261007/usd-first-opportunity-independent-20261009/pure-proof-1791506991243/source/048-DESIGN.md,原文,,788,59dc0ab6e796d2ec08fe4060e6b00c74c1fefbbe3f6590d821d4f96c203ceb83
+专题报告/btc5m-20261007/usd-first-signal-calibration-20261009/DESIGN.md,原文,,1160,a85859ff223fc79e405d74dabc3764f60d96bdc5c3edc7da13cc56158400dad6
+专题报告/btc5m-20261007/usd-first-signal-calibration-20261009/pure-proof-1791508948811/source/000-DESIGN.md,原文,,1160,a85859ff223fc79e405d74dabc3764f60d96bdc5c3edc7da13cc56158400dad6
+专题报告/btc5m-20261007/usd-first-signal-calibration-independent-20261009/DESIGN.md,原文,,632,39b0aad649909fa9630f79774a78427e11e49cdc3916913b56bcd8de74e7bae7
+专题报告/btc5m-20261007/usd-first-signal-calibration-independent-20261009/pure-proof-1791509414459/source/059-DESIGN.md,原文,,632,39b0aad649909fa9630f79774a78427e11e49cdc3916913b56bcd8de74e7bae7
+专题报告/btc5m-20261007/usd-first-signal-calibration-v2-20261009/DESIGN.md,原文,,1160,a85859ff223fc79e405d74dabc3764f60d96bdc5c3edc7da13cc56158400dad6
+专题报告/btc5m-20261007/usd-first-signal-calibration-v2-20261009/pure-proof-1791508980977/source/000-DESIGN.md,原文,,1160,a85859ff223fc79e405d74dabc3764f60d96bdc5c3edc7da13cc56158400dad6
+专题报告/btc5m-20261007/usd-first-signal-calibration-v3-20261009/DESIGN.md,原文,,1160,a85859ff223fc79e405d74dabc3764f60d96bdc5c3edc7da13cc56158400dad6
+专题报告/btc5m-20261007/usd-first-signal-calibration-v3-20261009/pure-proof-1791509104314/source/000-DESIGN.md,原文,,1160,a85859ff223fc79e405d74dabc3764f60d96bdc5c3edc7da13cc56158400dad6
+专题报告/btc5m-20261007/usd-first-signal-calibration-v4-20261009/DESIGN.md,原文,,1160,a85859ff223fc79e405d74dabc3764f60d96bdc5c3edc7da13cc56158400dad6
+专题报告/btc5m-20261007/usd-first-signal-calibration-v4-20261009/pure-proof-1791509275547/source/000-DESIGN.md,原文,,1160,a85859ff223fc79e405d74dabc3764f60d96bdc5c3edc7da13cc56158400dad6
+专题报告/btc5m-20261007/usd-window-path-economic-20261009/DESIGN.md,原文,,1338,7fa2ccfa3a4c55c51b5e36a78446865c20416f485b7daeb85d66fe31f4464220
+专题报告/btc5m-20261007/usd-window-path-economic-20261009/pure-proof-1791512054326/source/022-DESIGN.md,原文,,1338,7fa2ccfa3a4c55c51b5e36a78446865c20416f485b7daeb85d66fe31f4464220
+专题报告/btc5m-20261007/usd-window-path-economic-independent-20261009/DESIGN.md,原文,,788,59dc0ab6e796d2ec08fe4060e6b00c74c1fefbbe3f6590d821d4f96c203ceb83
+专题报告/btc5m-20261007/usd-window-path-economic-independent-20261009/pure-proof-1791512361767/source/049-DESIGN.md,原文,,788,59dc0ab6e796d2ec08fe4060e6b00c74c1fefbbe3f6590d821d4f96c203ceb83
+专题报告/btc5m-20261007/usd-window-path-joint-model-pure-20261009/DESIGN.md,原文,,835,9f7483d2d042f03ba4b0a891756a7225dcae387381b4b56bf8b49135e1dbc229
+专题报告/btc5m-20261007/usd-window-path-joint-model-pure-20261009/pure-proof-1791512740180/source/000-DESIGN.md,原文,,835,9f7483d2d042f03ba4b0a891756a7225dcae387381b4b56bf8b49135e1dbc229
+专题报告/btc5m-20261007/usd-window-path-model-independent-20261009/DESIGN.md,原文,,525,d6a6b9e788172475c60f8837a8a4fa2eb9f3e08af5efd774beb228b237b8c57b
+专题报告/btc5m-20261007/usd-window-path-model-independent-20261009/pure-proof-1791511616437/source/034-DESIGN.md,原文,,525,d6a6b9e788172475c60f8837a8a4fa2eb9f3e08af5efd774beb228b237b8c57b
+专题报告/btc5m-20261007/usd-window-path-model-pure-20261009/DESIGN.md,原文,,1033,c70cdbedcda823218a182927a0c7b593301c1c436bc936c90ab692bde4eb076b
+专题报告/btc5m-20261007/usd-window-path-model-pure-20261009/pure-proof-1791510971402/source/000-DESIGN.md,原文,,1033,c70cdbedcda823218a182927a0c7b593301c1c436bc936c90ab692bde4eb076b
+专题报告/btc5m-20261007/usd-window-path-proxy-design-20261009/DESIGN.md,原文,,996,28cc587d5b602a195d4dfc588e14df896c79627b1c2853c31bfa2aa87af779e5
+专题报告/btc5m-20261007/usd-window-path-proxy-design-20261009/pure-proof-1791509833151/source/000-DESIGN.md,原文,,996,28cc587d5b602a195d4dfc588e14df896c79627b1c2853c31bfa2aa87af779e5
+专题报告/btc5m-20261007/usd-window-path-source-20261009/DESIGN.md,原文,,846,86d81851752444d621c57de20271931761b470dc43e5cb708fc72942ec867a2a
+专题报告/btc5m-20261007/usd-window-path-source-20261009/pure-proof-1791510324619/source/000-DESIGN.md,原文,,846,86d81851752444d621c57de20271931761b470dc43e5cb708fc72942ec867a2a
+专题报告/btc5m-20261007/usd-window-path-source-independent-20261009/DESIGN.md,原文,,555,4910449d0170b933bd2a8abee7b992af340488f7dd22804301133051ca6fa3b5
+专题报告/btc5m-20261007/usd-window-path-source-independent-20261009/pure-proof-1791510661358/source/040-DESIGN.md,原文,,555,4910449d0170b933bd2a8abee7b992af340488f7dd22804301133051ca6fa3b5
+专题报告/btc5m-20261007/verified-binary-label-design-20261007/DESIGN.md,原文,,9403,e694ea58012e4d0d48822858ad847271b405d0bc4a49adca810a1380f0827fb6
+专题报告/btc5m-20261007/verified-binary-label-design-20261007/source-hold-1791354198293/source/DESIGN.md,原文,,9403,e694ea58012e4d0d48822858ad847271b405d0bc4a49adca810a1380f0827fb6
+专题报告/btc5m-admission-improvements-20261026/audit/第一阶段最小安全修改建议.md,原文,,2256,bf93ab71e901051b59b44f2f5f38f9900e6863cb87abce039ac562bf83dfacbc
+专题报告/btc5m-admission-improvements-20261026/audit/第一阶段独立安全验收.md,公开整理,范围外资料注明归档位置,3691,21bd31fb37d0654ca7c590950579917292345c47f36db4c905e41df9528037c0
+专题报告/btc5m-admission-improvements-20261026/before/BTC策略优化总方案-v1.0-20260920.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 运行标识脱敏,27850,6ed1c78a7f7a8b09fe8f113ca78a61948bdbdde7e7e6e458a8f2ee957f2558b3
+专题报告/btc5m-admission-improvements-20261026/before/BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,149648,d9ab0eb47404a2d3e887f47430a176924be0ceecfaeb2c3d23f1980fcd9cdd21
+专题报告/btc5m-admission-improvements-20261026/before/BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,87267,9a54433ddfae3ad1ebae47ce3f5b392245018525c7256c14499730e2fc24be69
+专题报告/btc5m-admission-improvements-20261026/stage2/阶段二实现与边界.md,原文,,4648,3e193fd594ce94a65f1ca7a10557eada12013e946016191984b4a2b53e19a485
+专题报告/btc5m-admission-improvements-20261026/stage3/接口与验证说明.md,原文,,4236,20f3f4e4e1f2a2ef0f96a1fa868404da2a3b4c1e5e1d989c3c84c14b5d6cf5f7
+专题报告/btc5m-article-review-20261016/Sawyer文章阅读与BTC5分钟启示.md,公开整理,范围外资料注明归档位置,5237,c33119b21005a332f951c21a4de15d7be5a442059f714d5a96f5a78731c02b20
+专题报告/btc5m-calendar-thresholds-20261018/calendar/官方日历核验说明.md,公开整理,运行标识脱敏,7205,4b8b6401ef9f8933f8a11df2c4ba2a35e7aa0000b0c820b08bc549e0f472637c
+专题报告/btc5m-calendar-thresholds-20261018/design/calendar-gating-design-review.md,原文,,14959,b3a571e9bc972a2db2815fbfe1a9254822fa89c710965a0779fbf6bc9ef8f668
+专题报告/btc5m-calendar-thresholds-20261018/documents-before/BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,140542,4d3b4ccb63cc9145738dec6265d79561b145805435ab4f5c8b6f05dc4eb2c8e0
+专题报告/btc5m-calendar-thresholds-20261018/documents-before/BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,78161,85454c3e849934aef27b09f39864e4834b1d6273db5afab3a731d201ae8b2f68
+专题报告/btc5m-calendar-thresholds-20261018/documents-intermediate/BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,142290,afb2774f63c47e7139e481b7dada4863a340063eac57a3ff898d3c03587421ea
+专题报告/btc5m-calendar-thresholds-20261018/documents-intermediate/BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,79909,8005daac749b14fb2ad69d8a28484deba39e6270ed68245368d847170fb94d4d
+专题报告/btc5m-calendar-thresholds-20261018/research/README.md,公开整理,机器路径整理,2626,07ce014da8e72a22f57473f37ed8092bea9edcfbc90ce88a377f191329b20e74
+专题报告/btc5m-calendar-thresholds-20261018/research/日期分层盘口证据与TWAP门槛研究-20261018.md,原文,,10430,22d485523f9d990d93480d0f8a8fd4c483e3204bd332adbcdf6e8facd8c79d82
+专题报告/btc5m-console-archive-20261019/archive-audit/旧策略档案压缩与读取核验.md,公开整理,机器路径整理,9298,2f6b502580c21eafbc7581dd809ffd806ee592f954b4f0d80905ede66e689d91
+专题报告/btc5m-console-archive-20261019/dependency-audit/dependency-review.md,公开整理,机器路径整理 / 运行标识脱敏,10313,b0d13af39613fd2c048f5446b167eee938a7381ca7ba674745f72c297eebf2da
+专题报告/btc5m-console-archive-20261019/documents-before/BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,143349,29951f34d9915ce1ef41f766be93172905d46c9d99ab6cd7dfb8d8bbcb0b3a31
+专题报告/btc5m-console-archive-20261019/documents-before/BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,80968,a65d7ce571416b4150d0d7390fb4afe850f1f44849ecd6d5a4a990586b59eedb
+专题报告/btc5m-console-archive-20261019/storage-lock-reproduction/修复说明.md,原文,,1935,309234a884456b0829af2e84a881e6d17386145da3fc9fa47c4f143b940033a5
+专题报告/btc5m-console-archive-20261019/ui-audit/布局与保留契约.md,原文,,4710,e65766b40bab83931ce49237afb07a9228adf29fb5b810eaeac6995d3bdeea97
+专题报告/btc5m-current-strategy-backtest-20261023/README.md,公开整理,仓库内相对链接,679,a0f8e97b29a129bde15e78bde41e6d9942231bc7118d608f04ee35d2ace56cdb
+专题报告/btc5m-current-strategy-backtest-20261023/audit/README.md,原文,,2523,17c026a0211e06fb97f67a45e55793433d9af33fb38de61232b898eb113c00ed
+专题报告/btc5m-current-strategy-backtest-20261023/audit/causal/verification.md,原文,,2294,148477a3a0b044629d2379f88ad9943b5e35769379c1cfc0247641d11a9291df
+专题报告/btc5m-current-strategy-backtest-20261023/data/README.md,原文,,3814,bbcf42ec9787a5eced075744e2ddb299cfb8efaa9b55fb9707e48d2c85a282b7
+专题报告/btc5m-current-strategy-backtest-20261023/live-audit/live-execution-parity-investigation.md,公开整理,范围外资料注明归档位置,3769,50205a8d6c0a1b103cdb4906ab57bf3cfca8d5b960ee26998fa5e4d158196d96
+专题报告/btc5m-current-strategy-backtest-20261023/live-audit/当前真实生效契约与回放方法独立审阅.md,公开整理,运行标识脱敏,8545,0ec860030bed973681d857bad663aba4c3355c6fe3d8f007cd4b3b4891ab8267
+专题报告/btc5m-current-strategy-backtest-20261023/method/current-strategy-method.md,公开整理,运行标识脱敏,6116,bd5e537cfeb66ee2284e0ff3ee0cb9494d59eda5742e66a3f6e4b6bfd789eb8d
+专题报告/btc5m-current-strategy-backtest-20261023/method/offline-controller-README.md,原文,,2621,cb2f4c4c7af621bd77657d17016fd77bd3c9799d362d4fe361c40e46fa2eaf71
+专题报告/btc5m-current-strategy-backtest-20261023/回测报告.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,13572,3a0a077deacfc08cef7af1299ba10f7579be448f4063b68ef8a2508906604125
+专题报告/btc5m-folder-alignment-20261018/alignment-design-review.md,公开整理,机器路径整理 / 运行标识脱敏,15353,20aab3597528cc10561b955782774bac908b0f4f92218664001b5d2d398be5db
+专题报告/btc5m-folder-alignment-20261018/before-source/README.zh-CN.md,原文,,6584,c82282b11799ad9f45d349992c04a02f14b23fa548d1af481274dad183523f12
+专题报告/btc5m-folder-alignment-20261018/clob-ws-implementation.md,原文,,4002,5b7240c5105506725b9f90e2aaedfec65a97fe543d34653f37cc49700d307a02
+专题报告/btc5m-folder-alignment-20261018/document-before/BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,137429,a70ec50b958f4ea661a76a54a358c08583471588f3ec59658dd04ff9d65e4e71
+专题报告/btc5m-folder-alignment-20261018/document-before/BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,75048,344e6fc91ab27ccc7d680862e23a32195e3a0d66b45167b89b03f108ad984432
+专题报告/btc5m-folder-alignment-20261018/independent-controller-review.md,原文,,2874,d5845a9e49a4d9d8f46bf7b54b8109f024226d854a8df5fe60242fc35ceaf7e9
+专题报告/btc5m-folder-alignment-20261018/ray-audit-migration-design.md,公开整理,机器路径整理,5060,7333c5651213e3efdfd2b3cb34dc25ab1fdc7e2e3e518e4b1d4bf8a69029fd12
+专题报告/btc5m-folder-alignment-20261018/ray-sizing-implementation.md,公开整理,机器路径整理,3126,8628448c8fbdb881903a3ab2546c6c3250300dea9090d471a3a2b2a3886be4a4
+专题报告/btc5m-folder-alignment-20261018/reference-runtime-audit.md,公开整理,机器路径整理,13257,9ab4708debc610dab04882f31805f3ba0400e713bdfec61162a21965078f1b07
+专题报告/btc5m-folder-alignment-20261018/reference-strategy-audit.md,公开整理,机器路径整理,11425,5f3ce938381fb658c821ac7082b9f97e32d4be0c04c4f6cfa5feb782c8529752
+专题报告/btc5m-full-recovery-20261105/before/BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,155065,acb3f5b43ee05912de3fff9e1d464c21ab4a394b88983549ebaf581b135c3540
+专题报告/btc5m-full-recovery-20261105/before/BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,92684,1f6db0c20c452bd607141c93e902529541e9ef0f08d8a3525418f3186ef55ee7
+专题报告/btc5m-full-recovery-20261105/storage-reliability-review.md,原文,,5510,859ff7ed671e53acef8eae7740c8b52d55dad8c9a648dc28302874c37e19f30c
+专题报告/btc5m-health-20261015-0017/BTC5分钟运行检查-20261015.md,公开整理,范围外资料注明归档位置 / 机器路径整理,7214,c0a1406e04c64e5163ac1157909bda595cd820f269f874b18399c6ac4f880a5a
+专题报告/btc5m-late-disagreement-review-20261022/documents-before/BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,147427,18f321dc6080c0b7e2b30e43088907f33b26dd83c0d5c147f2909a3abc512111
+专题报告/btc5m-late-disagreement-review-20261022/documents-before/BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,85046,a70ac51e35e60689b26a4a5086ad2811d551302576f412d4037112a20539317d
+专题报告/btc5m-late-disagreement-review-20261022/late-frames/盘口反向与开盘基准核验.md,公开整理,运行标识脱敏,6660,0622544facbd74e1610026568d9d6317a5293d67250a1a7f729d4b3f0968a3e4
+专题报告/btc5m-late-disagreement-review-20261022/orderflow/订单流与官方基准独立复核.md,原文,,10463,dba5d6d3a5111ee9c1ed71d8db1d6d9b2a1d57cfa19184f60c3f18a3149aba8b
+专题报告/btc5m-late-disagreement-review-20261022/plot-deps/numpy-2.5.4.dist-info/licenses/numpy/_core/src/npysort/x86-simd-sort/LICENSE.md,原文,,1542,a732977853530066790c42817087f4829b518dd98d340c916acbfd227e39d3cb
+专题报告/btc5m-late-disagreement-review-20261022/plot-deps/numpy-2.5.4.dist-info/licenses/numpy/fft/pocketfft/LICENSE.md,原文,,1523,8db000e158c162e7249787852d8c69764706502ccee725c06641b31c1e95c8af
+专题报告/btc5m-late-disagreement-review-20261022/plot-deps/numpy-2.5.4.dist-info/licenses/numpy/random/LICENSE.md,原文,,3582,b4bc2f4fa1c95778f1ed3dd8f14706bece399475b978f9f34b5d3cd72521b48a
+专题报告/btc5m-late-disagreement-review-20261022/plot-deps/numpy-2.5.4.dist-info/licenses/numpy/random/src/distributions/LICENSE.md,原文,,2805,cf5619f25b112d5ce7c896efffc8e610bcb345dfadcc19f2c1460aa48fff2c9e
+专题报告/btc5m-late-disagreement-review-20261022/plot-deps/numpy-2.5.4.dist-info/licenses/numpy/random/src/mt19937/LICENSE.md,原文,,2986,92c10699884321f1c2947fe2a70ab23b0fbf1507f756d89dd08f38c61fc3d4fa
+专题报告/btc5m-late-disagreement-review-20261022/plot-deps/numpy-2.5.4.dist-info/licenses/numpy/random/src/pcg64/LICENSE.md,原文,,1176,41190663b77bee5302386495a07b7eabfbfa571aa0ae2f11da6764162062fc4f
+专题报告/btc5m-late-disagreement-review-20261022/plot-deps/numpy-2.5.4.dist-info/licenses/numpy/random/src/philox/LICENSE.md,原文,,1540,322ac46d870c8aeead6c53adcccc839296fb3c8e456eae155081297daf7f8013
+专题报告/btc5m-late-disagreement-review-20261022/plot-deps/numpy-2.5.4.dist-info/licenses/numpy/random/src/sfc64/LICENSE.md,原文,,1253,28cad82ce1379dc529df30da78ec012d7d0d1d576b03ddcb93388aee53659f59
+专题报告/btc5m-late-disagreement-review-20261022/plot-deps/numpy-2.5.4.dist-info/licenses/numpy/random/src/splitmix64/LICENSE.md,原文,,340,454ec7350e478e037061850b67395753b425b1cb0a34bbc26290b020bf89d763
+专题报告/btc5m-late-disagreement-review-20261022/plot-deps/numpy/random/LICENSE.md,原文,,3582,b4bc2f4fa1c95778f1ed3dd8f14706bece399475b978f9f34b5d3cd72521b48a
+专题报告/btc5m-late-disagreement-review-20261022/plot-deps/pyparsing/ai/best_practices.md,原文,,8472,aa53ca4e679311869a005446930477133ba43fe4de2052f3a18389ce85417086
+专题报告/btc5m-late-disagreement-review-20261022/trades/最近模拟成交与亏损复盘.md,公开整理,运行标识脱敏,5287,bcf4bae8927ade4d304a52076648654ba0daf7c8f646f1a1964b2575c1257461
+专题报告/btc5m-ledger-console-20261024/audit/独立账本审查.md,原文,,4749,6bc25f35c9fb2f01831740799f3d1decef3c8e1e0d64f1a0a520664801261c24
+专题报告/btc5m-loss-diagnosis-20261016/亏损初步归因-20261016.md,公开整理,范围外资料注明归档位置,3946,e2726661ca2e91518eea31f82b90a221ac8ec9919b4d3f15487f932f6dec44a5
+专题报告/btc5m-onetap-dynamic-twap-20261018/documents-before/BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,138784,896ca0906239ed3ed0308f87aaa9d0c55424e185ec3cfc9f63601660c2aae8ef
+专题报告/btc5m-onetap-dynamic-twap-20261018/documents-before/BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,76403,c7029fb066d3a4ffa8134aeffa6e88e7e773305d7edf8f2d64ea557b94b0829e
+专题报告/btc5m-onetap-dynamic-twap-20261018/dynamic/README.md,公开整理,机器路径整理,2590,3be05cf8807010409f3f7ce245e7afe6d7629239c52907124ec0f8201bcb983f
+专题报告/btc5m-onetap-dynamic-twap-20261018/dynamic/TWAP动态门槛与仓位验证研究-20261018.md,原文,,7184,2613045ee2e4a7a45beafd31bbdc6158510326eaf0ee44aa436125eacf0eb39b
+专题报告/btc5m-onetap-dynamic-twap-20261018/official-rules.md,原文,,5156,50be282d847fd4549100a36b8b9f0bca93ec3d443c0b55c306896616616de450
+专题报告/btc5m-per-order-risk-20261019/audit/risk-contract-review.md,公开整理,机器路径整理,7967,51c20e51d981d2954149ec1e4d724693d6929bd066c1b149096072b3196e0531
+专题报告/btc5m-per-order-risk-20261019/documents-before/BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,142089,13c2bb027610b79e4c2a08d28314b8cb9e1b3a66b64675cb7833f5184c30ef43
+专题报告/btc5m-per-order-risk-20261019/documents-before/BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,79708,4660df2b36475c4f0d7bfb951555a45d77c7de00cdc893f71fc0d6364d923801
+专题报告/btc5m-repair-20261015/BTC5分钟工作流修复结果-20261015.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 运行标识脱敏,3611,f55bbcf2ee60b741252c54aa1f996b681126edc8eb9e194a09f4f936fd509048
+专题报告/btc5m-repair-20261015/BTC5分钟工作流修复结果-20261016.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 运行标识脱敏,5736,1af691f55c47955a5975564f7793df59a0ec8bed0f691f9728c38e67d2432e8b
+专题报告/btc5m-repair-20261015/automatic-audit/自动证据复核修复验收-20261015.md,原文,,3066,6c0a63e7419c86c942402b8abc9bfde464f37b696070c3a1fd121addb6a5dde0
+专题报告/btc5m-repair-20261015/health-observers-20261015-2120/主健康接口与持续审计验收-20261015.md,原文,,2089,6bdc6f1758a6c431a1a606a96e89dc83ba8527b07ae4cc02b3ba273331f6fb18
+专题报告/btc5m-repair-20261015/health-observers-20261015-2120/健康身份与真实恢复验收-20261016.md,原文,,2598,6065b8dc802c090504f802dea47442c8dc1033b7b8d5e864151658107ceb2383
+专题报告/btc5m-repair-20261015/observers/BTC5分钟独立观察-v4修复与维护结果.md,公开整理,机器路径整理,7282,10a872505467f326be9c192fdeaa40e5b25830eab1fb6820b4eaf40d8300b23b
+专题报告/btc5m-repair-20261015/observers/observer-repair-validation.md,公开整理,机器路径整理,3578,d10d6c70dc720024002db131fbf3cb5fc69fda1d523b92762d11fe9a79ddb79d
+专题报告/btc5m-runtime-recheck-20261107/github-readme-draft.md,公开整理,范围外资料注明归档位置,5009,e745db13857e1847d8b0f915393654c68938a12c225438d20d3a7967cbf29133
+专题报告/btc5m-runtime-recheck-20261107/runtime-and-research-recovery.md,公开整理,范围外资料注明归档位置,4729,15277694d5ceb2ba38c5d50ccd3c4c27ba04dcde1ff772ed2bef50b240598d72
+专题报告/btc5m-runtime-recovery-20261105/before/BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,154353,ae58a5dfcccaebfeeedac6c0f16ee57bbfe1e8296fac8d593ab43440c29fc5e7
+专题报告/btc5m-runtime-recovery-20261105/before/BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,91972,ebbcde9ad7f0266ff7bb8c4fda82cdd21af436b48f87b48bd46ff1dd8340fc83
+专题报告/btc5m-single-entry-rollover-20261021/documents-before/BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,146142,b309f013cf16694b652a6f7c7d4aff7ae14c536fc997c06924a5cc1343ba9187
+专题报告/btc5m-single-entry-rollover-20261021/documents-before/BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,83761,ea35bc2be6d48298cd61cb9b5b34b9d6e62140387bafa03341fb1a834147abc9
+专题报告/btc5m-single-entry-rollover-20261021/rollover/换轮异常调查与修复-20261021-初稿.md,原文,,4891,928ed15d8ce08803aab76c200fbb9b3a6468368f4f08eacb61d63fb416e58f93
+专题报告/btc5m-single-entry-rollover-20261021/rollover/换轮异常调查与修复.md,原文,,5886,33af2852ce18df59b9e07a70129d84356bdb516f0b75215fc6be4009dc93ac59
+专题报告/btc5m-standalone-20261106/README-release-draft.md,原文,,3878,444cff295d94513ade40a6ad9b27ebebbf2787f9d3e4c7e14f024fe2337fc3d8
+专题报告/btc5m-standalone-20261106/base-implementation.md,公开整理,机器路径整理,4411,af544d37c660107609fc4fd8f4d75957f6d220ad18f7dd50c8c54dd459b11350
+专题报告/btc5m-standalone-20261106/build-tools/package/README.md,原文,,3503,9d17ac4eab2fbc69d7bda75aff137f090a051ae5631d9661b896420d1fa41228
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-access.md,原文,,2888,74042ee6ee97eeab8e8374d827054b3d94645480224461c5b35e3392279d7e09
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-adduser.md,原文,,2033,918d230f56def88679c48b2431b9d2a1c6b8452f6759de7fdc5ce1a54ee69640
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-audit.md,原文,,15646,30701195d59233bd12d22d9db509927c34e2e6f5d7187d24be7da4c167d54c58
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-bugs.md,原文,,2997,a270a307aa7b30ac1015345214fb6fad605aad041360e0eb903193c24223fab0
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-cache.md,原文,,3450,147e7dcca435dd1de421bd16c0c6bb889462fc7aed8acdb428814c5b379885a3
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-ci.md,原文,,9117,9bac647e28d7694f1a8a300e2b82d9f7fa4e0f59c4f771785377124a5c37b593
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-completion.md,原文,,908,74f866ad8a9b501e4a21e055b2f183da32940190c3e088e86abb370192ef974c
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-config.md,原文,,4091,7e035a9b2aad9dd6aa7a1e04815c714e4814c4868f2ba82accbb572cfb2b6bb1
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-dedupe.md,原文,,8890,962ba6239f3006a9cdf723b0d82b832fb53b9494881646e6ac475cd17fe98eb8
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-deprecate.md,原文,,2156,260a9757117fe75205ec348b6c1a08fd1978875d18478c5e40858a8c3e239e70
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-diff.md,原文,,8985,ed03309b335f1f5d0af19c7e47fc5bc03176e1001eca6e2b4d2a4ad2e96ab4dc
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-dist-tag.md,原文,,5170,cd4ab7b7eaa05331c3f9ee16b1ac9b9a0086435bcc4b55c2241323d21ec56804
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-docs.md,原文,,2975,eec6bb52b297ba57304a483e99df1ef95f4a8055df1c3479bd34318a54a07857
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-doctor.md,原文,,5047,146fce4c2b26bdf30c02acfb3c33117acf761ccf2b3191968e09dae3ae788eed
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-edit.md,原文,,1091,a9a045b5ef622b6539c30c7bedaa28763b3cdecf0251bc875b11b55a6967aead
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-exec.md,原文,,11357,3e57f8675919babb369e5cc121163510716cff605b3fa6c2e173b0d174cfc02f
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-explain.md,原文,,2794,a6c89cb80bfa02ce920c74335aa54818a6741e4bfa3759da9db509af2cad209d
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-explore.md,原文,,1006,c2d572d021ee64996b7b319bea7b28a0178347fa030b0b9287c54d195781f579
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-find-dupes.md,原文,,6793,88741fb4d9b2060ffbc51d7663a8c35d57c3b5b3e02625d0f8e7952a187d8127
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-fund.md,原文,,3676,1e92d9634f05d4ec4221e4140e51c3a3f7fe771cbcd3419c8466878c1154ee4d
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-help-search.md,原文,,755,2b27019281b07506bc039dd0ee712676ab422192b805741d8a4a1c57fb1cda15
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-help.md,原文,,1003,5cb0326877fb7c84d2aaee7ccc2227cb843d74d3938371e1707dc301e76ef98f
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-init.md,原文,,10217,0b12931d9d62d880e91d0052d8ba1534246a4ab09866c90a394d92a73875753a
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-install-ci-test.md,原文,,7430,01b0a42406cc4667dce613445a03bcfa7f5c94592d2d0770aaa79ba0b89209e8
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-install-test.md,原文,,10356,11b47d0a8f94d1dc27483972b979733887da63373361720160a5ea8cb6e83cc0
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-install.md,原文,,25279,18dd920eca4535a6141b11a0c863baca028d87566efa45d15e5efcfa031f0871
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-link.md,原文,,11735,91e9db204c2d6ffcf37e1201c0a7c13516faf240df65ab976010d885354a47a6
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-login.md,原文,,2354,e648002a634ab5575d7aeaafd9b8ac715683275d35b11ee7e627b5dc9aba330a
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-logout.md,原文,,1749,08b56e5c7485c0a8e238f3f01451a86e4e9d9e03bb0fd9e542aaf6e01ffad4cb
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-ls.md,原文,,7151,aea51ee524c6fd84977a047d89df9204476d0c6a826179247f907903e2ce27a7
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-org.md,原文,,1974,9de6ff08176067f0c9159d8fb6753b8f15515d45f7a89a0c475528c52bb56163
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-outdated.md,原文,,6412,6acad49df8b5f6d42fecb731859fd2e5f7d14efe610958011186048c3fe1da71
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-owner.md,原文,,3082,db991d7c66ffbe64546a07adb3acce56f9b6a94bffbb7a45304a6711865dabc3
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-pack.md,原文,,3832,c6ee127dc6ca6477330f35cad3b8c835205f95f3797dbc363f7f308b157e2feb
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-ping.md,原文,,769,73a4fb43b5bf524b46e7e3f94e1cafc11e91c9dffd7b5b4cb46bd9ad6a29f46e
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-pkg.md,原文,,8060,6af73e84f6098dd73e842ecc77fc5ab689e1014d896a1cbdc48856be2e0dd90a
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-prefix.md,原文,,1206,f91cdc3e246db9ca0a407e11b1c0cec1ea57f138e870ceed5e1d0aa6069756a6
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-profile.md,原文,,3067,c36e990a33b0cecc31d6dcfd4bdcdb0800ed878570c279cbdfa3144d861ee21c
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-prune.md,原文,,5739,496c640d2dad151d229b4e25efe7b5c510f3f2a05c672a76b05da7ba22c85279
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-publish.md,原文,,7691,0165a33df12d702d0a1dfb941c3440dd521489d501a34563dcf6e17a060a5192
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-query.md,原文,,6954,3817e3d9038a6a8a046f1dcc191be9c2c37b68d8edf65693f6b31a91f07cafa5
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-rebuild.md,原文,,4994,e891fe9d8ebb5041ba12a831472a9eef7839cb9a27c0747e345781b77aa57cc2
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-repo.md,原文,,2755,e41dc2e5bb0062e5ea8e9d6377def61a48013c6fdc79b07e55d78f8dcdd89950
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-restart.md,原文,,1444,436c5db8e210072f8831393472e08a04eae6de5ba6fe5faf6121e410a2bfa312
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-root.md,原文,,1096,9bb612d6d30043f2a69bc3dc61505161f64d63f28e5cbf15b4ed6c4b0ac82146
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-run.md,原文,,7538,72a21004f94b99a78040c6b2465154173b2947157ff8569575f4e15a6806de23
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-sbom.md,原文,,8338,b86a784aaa81e600d6919b02c6bb41963e6688720b62628569576e55d424cb29
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-search.md,原文,,3465,a650975f701b582365c0185b1948f564c557f91ff4980b68ffb6234c060c8583
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-shrinkwrap.md,原文,,909,e00de64e12349d81a71be322d7c85bfb1b59629a62a47c9312ebb85f29ba0ca0
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-star.md,原文,,1714,65207d70e84c9a39f030d73576bb72fb78bae210be7ee397aa83f9153b89c13e
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-stars.md,原文,,743,01ef851640c149f3027e101633e9f15dd4a81468bdb06c3fc5dd09b4b138eb5b
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-start.md,原文,,1632,f1e90a01fa48a19657520e62efe948f0ae87a3964ad793377ae7fbba45f4b02b
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-stop.md,原文,,1320,972ade396651752653193aba5a2daa7d633c2a8977cfa7db3a6e03bc397ff06e
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-team.md,原文,,4084,f5b6304cd5174459fc9c2c420835bd58cfb6f0a009db4fdf5d2bca72fba8ca47
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-test.md,原文,,1213,41ece7677fbee0fa9e8e15b2a3303c3d1b11005081250ecd31b8ff73cbd16c47
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-token.md,原文,,2875,716ca9ef5712f4353071c0d3cb3658711857627a863f32921cf7a7ef24ab3635
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-undeprecate.md,原文,,1406,47fe39958751c2e2e45c002490ce6974cbfd5ffadb7946a036f687269ed031fa
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-uninstall.md,原文,,4449,4d44cde4192d9f8cdaa10ea79c851d669c755f03884e353cb0d366c7bdc27b6c
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-unpublish.md,原文,,4495,fcd21924fefa7b380dec4e7e29a5372930782030e1f3fa4149e647a0d625e8e7
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-unstar.md,原文,,1576,f5eb9ad536d9d2d01c6fcae491c26c70f106666fb21db50d2080cc8d430e8b32
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-update.md,原文,,12410,b3c48c4cf7ae9893d826e591e5811e00ec1126d4e38af4bbf762bdf89e077c01
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-version.md,原文,,6875,188a561f5f31a095f525390a43f2e3cd2a9ed19813e4c2df95f90256afa565b5
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-view.md,原文,,5610,02b32a2db59a41d137baa9cff3dba3e9e42b3c53057b305d70cb23ad555b2ec2
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm-whoami.md,原文,,800,b3fd20b2adfb15853e7c66c5c559cabd585885556db7aaf3e2294e4b0b76dec1
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npm.md,原文,,5637,89fd038b8a83dbb909c27cef66a20cc048cef0dc8a386cff04a8324a128ffc2e
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/commands/npx.md,原文,,5850,2ccaabc25a2dc3726462cf43e83571955dd272cda2d12cdadd01536ebe253437
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/configuring-npm/folders.md,原文,,7752,6a2135d517293b54958847c9dc50f6c02afce30c6b52d07a54b7f618f1d43825
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/configuring-npm/install.md,原文,,2598,70aa26a665a55b5fdab123f30484a15e5d87f994c2d2b489bb215e8e00638647
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/configuring-npm/npm-shrinkwrap-json.md,原文,,1251,19e6c7fcd19a29e457edb669fa050f50b4ae39cab2a20a56399861dff4e4d617
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/configuring-npm/npmrc.md,原文,,4357,c1c7e366fcdd7890735993701a02abdeb46ebd37948e8a9082123ac3efa1795c
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/configuring-npm/package-json.md,原文,,34885,70828e9dd2b028a189f7af08b14ea99c0db2742b13067fb20d09f7583802b1c4
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/configuring-npm/package-lock-json.md,原文,,10131,7484ed11f8083257c21c2c6948ec0862c938c04000d469c2a0134562b0f187d8
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/using-npm/config.md,原文,,47321,0924fb7985c9553d45ddecd2b132cf76cfa8ba1aed3b9b38e0be53eb56a5b865
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/using-npm/dependency-selectors.md,原文,,12195,8332bc962b4b8e920d82fae6fb6f71b9283a28115577bb1ba4f19543c5e32cbc
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/using-npm/developers.md,原文,,7873,9f28d7d94206f3903b2548ebd150c3f7dbc3028d0de2744d6982875328d7795e
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/using-npm/logging.md,原文,,3894,326c452fb839ac314446f923cf59eeb1b780df0da358ae993d36271d426f24ed
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/using-npm/orgs.md,原文,,2250,557e84abf49b5fbe1dc6679802565c35627b4c70743cfa1049a2fb3d4a402733
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/using-npm/package-spec.md,原文,,2877,e3b482cfe0cd56f65684cde15598948ffcdacd7b6bfcedfe7b0b0ddf02418a87
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/using-npm/registry.md,原文,,3484,ed4769c6d23ad477dc5ee8263874e88282befada98b8c3c8715f32f614cdfcef
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/using-npm/removal.md,原文,,1645,796e55c614b378404d45ec149c85785c7c662ae04d68ed7b0c89a1a4c0a0ac7b
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/using-npm/scope.md,原文,,5154,0b5f417cc835f25de0db6c7a0ee744f4d8d9d9f054664155403a56b9edae1565
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/using-npm/scripts.md,原文,,13109,438592e43aeaa06d9285be9090d0541dd72c3249f3a03f1c7f6079ceb689fa22
+专题报告/btc5m-standalone-20261106/build-tools/package/docs/content/using-npm/workspaces.md,原文,,6101,804cb8756de75fcbb193ab5bfeb26f3980a0f675efd4b827f5920fb08b3f3c53
+专题报告/btc5m-standalone-20261106/dependency-audit.md,公开整理,范围外资料注明归档位置,8779,4e9a6e620cd68fe6c69ed1435c776646b1836be059990bea43cdbd1cc2d940ce
+专题报告/btc5m-standalone-20261106/lifecycle-design.md,公开整理,机器路径整理,11368,5e55cb108116c587fa239f8f0e82f33cb12b95a1f81ed0b52d3ce58c24ee4c5c
+专题报告/btc5m-standalone-20261106/roadmap-before-v1.72/BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,156649,8f0c423e355c6fb6807821d67504c25310cd0942e8880e5903e9c20570d38f11
+专题报告/btc5m-standalone-20261106/roadmap-before-v1.72/BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,94268,c33091f8fc42e12ff0f6bdd6a58124d688202ffd341c0fdc298c303d0dd5dfa9
+专题报告/btc5m-standalone-20261106/sdk-inspection/package/README.md,原文,,8729,4bcc0af03a8aadfea8ae3f8a534557abbf831c51619da7b90fb0608123ad5b3e
+专题报告/btc5m-three-improvements-20261022/documents-before/BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,148806,a7b76c2f925a3a5faf5aa5684fed978a87da83acf2846f74622f32ffc966ce88
+专题报告/btc5m-three-improvements-20261022/documents-before/BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,86425,86e610bd5091661e05856ca6ebe55ed7a05835e3cdb77597af70ce3ce5bd2cec
+专题报告/btc5m-three-improvements-20261022/orderflow/订单流影子部署与验收.md,公开整理,机器路径整理,10503,6a52bb9360553eceaaed9d57461c0f85e8cf8af747701fe5b06666c5948ce69b
+专题报告/btc5m-three-improvements-20261022/terminal-exit/末段分歧退出验证完成说明.md,原文,,8370,175ca6dffcad661415e2f594cf21e09a036fad70589d34f43e2b1e76aa14f136
+专题报告/btc5m-three-improvements-20261022/verification-scope-notes.md,原文,,1108,d97194063803c3545609934331147beeaf97eccaeecf47bad5b05d72a6070ec1
+专题报告/btc5m-threshold-reversal-20261023/extraction/README.md,原文,,3201,ee1324355e32ed6ff195adf3d181449de67e41eed19d733f8675613108e30931
+专题报告/btc5m-threshold-reversal-20261023/inventory/历史来源覆盖与去重说明.md,原文,,2850,3c9b64f3745a90f028acf19068555e426bcddec0f3133345037cdd2831cb6b7f
+专题报告/btc5m-threshold-reversal-20261023/method/统计口径独立审阅.md,原文,,8260,d69c555bdf6b70fc289898bae4a52abb784aa240ca7fe46ebbc3fa3eb571d34e
+专题报告/btc5m-threshold-sizing-20261025/historical/历史门槛候选评估.md,原文,,6619,901c4fe7b6973272b5348474d46cb0c7928434a7b2c52aae9590f5a5728a7058
+专题报告/btc5m-threshold-sizing-20261025/method/候选独立审计与建议边界.md,原文,,5506,3f67914d6e828536e0a6a989bf609c6dd55e4df7358ed3a91bbb781159a3589a
+专题报告/btc5m-threshold-sizing-20261025/method/日期动态门槛与仓位独立复核.md,原文,,9835,ba624307976748e4faee5e224e17f79637c74608daee470b103369c141c9518c
+专题报告/btc5m-threshold-sizing-20261025/runtime/当前运行与即时准入诊断.md,原文,,4940,ac6fb61cab91065801b33bde8613691ed1e216a9a617a6f8896d5cf1b75abc07
+专题报告/btc5m-threshold-sizing-20261025/复核与建议报告.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,14677,030a159289c7e76022c28a2628005c9701e29b90d079f451f390413971a17412
+专题报告/btc5m-trade-audit-20261021/documents-before/BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,144814,8cc4c18c598cf8e8bc98a94de45de0df4906dc6e9d4950abd9bf62fd26bd9f12
+专题报告/btc5m-trade-audit-20261021/documents-before/BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,82433,3e1561abf6848011c6ae1f5ad43fe1cd50b51e3e59d2629fc02e9e87fcbe7c65
+专题报告/btc5m-trade-audit-20261021/health/交易时间补注实现审阅.md,原文,,2934,1d12e23905ab1619561142f4f057a9f339086b18894091c6e6389ba330439100
+专题报告/btc5m-trade-audit-20261021/health/运行健康审计.md,原文,,6382,fbe77f14d0ab98a96c812468c3b1c2518475e9332a7f2d80ffa0714d38ff5c69
+专题报告/btc5m-trade-audit-20261021/trade-audit/独立历史成交核验.md,公开整理,运行标识脱敏,5701,d008d432eeb38d9e7f4bd577136e95f17db9758b38706c7bce60f23700e2dc69
+专题报告/btc5m-two-strategy-backtest-20261023/README.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,686,2bd3a29b678d3559aab0ecb9ca51ba21431826a8f982ffe872ef1dc0d8055657
+专题报告/btc5m-two-strategy-backtest-20261023/audit/README.md,原文,,3121,7d617894779b7aca83da21acf08e73231704f181c10ccdf9ee1ccfc1369469e1
+专题报告/btc5m-two-strategy-backtest-20261023/audit/causal-events-verification.md,原文,,3718,b31f230197bde639464e93ba77aec57302fd0f887ee571237b3ed22749046eb1
+专题报告/btc5m-two-strategy-backtest-20261023/data/README.md,原文,,3048,fdeec7490578da18c922b82291a7f711659642f79a3c7e7b6318f7520ee42f6a
+专题报告/btc5m-two-strategy-backtest-20261023/data/execution-readiness-audit.md,原文,,2627,6cba2a971f3c7d1b4b2faf2deaf5c02fff50e14b07c6cb0c0ed21d65d71fad57
+专题报告/btc5m-two-strategy-backtest-20261023/method/README.md,原文,,2404,faf08d11930ecd6bde6f14c9d32a020895e17c512c693ed572077434d13ed2db
+专题报告/btc5m-two-strategy-backtest-20261023/method/method-audit.md,原文,,8740,806cc69d8287f4a04319b7c8c8e32ebfa7cf4a24672dbff0fcdd901660d9da43
+专题报告/btc5m-two-strategy-backtest-20261023/method/official-current-fees.md,官方原页链接,,205,35c37e3261154d6215ab12e9e239c116b52c0eab6dc8aa0aea2973b83540c97d
+专题报告/btc5m-two-strategy-backtest-20261023/method/official-current-market-details.md,官方原页链接,,219,526ea41d4d195640b6fdfbdb452320dd0cdc9696e405554202d3bed68d02961a
+专题报告/btc5m-two-strategy-backtest-20261023/method/official-current-place-orders.md,官方原页链接,,213,4f0adb67649cd1fdff22ff5adf541b4751936913f0f3ae6768ee5bc12ac09ad6
+专题报告/btc5m-two-strategy-backtest-20261023/method/official-current-prices-order-books.md,官方原页链接,,229,9345c9df41fa072905007b3bb9dbc5e8ef951b96aba466ef5af78d0185803095
+专题报告/btc5m-two-strategy-backtest-20261023/method/独立方法与历史数据可用性审阅.md,原文,,9644,92e9fa9ea7ee7efd6e32cfe7149cd22466b4aa52f4b996db5fcca9c88daa1d0d
+专题报告/btc5m-two-strategy-backtest-20261023/results/主结果诊断.md,原文,,6346,228ce8557e5e3baaaf360f6710c855ceef02007723ad64ca60a9a3fda241ccf8
+专题报告/btc5m-two-strategy-backtest-20261023/回测报告.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,14301,557a4831fdd9c5dd836e33bf595cb63e609d89921ccf7a0d0f65ebab1c57f061
+专题报告/btc5m-validation-followup-20261027/before/BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,151377,e4ad1eaabcc56c1b430675a2837f17cee790ed869bd2e58debcc6e928496d63b
+专题报告/btc5m-validation-followup-20261027/before/BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,88996,85d82c5b0bce93a034ba4548a386fce083fbd772f6d9107a9e7243987a06303d
+专题报告/btc5m-validation-followup-20261028/before/BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,152083,20946fff132c5954ea3b41be34fb4256df873615da3b53dd63a2215d0b763a45
+专题报告/btc5m-validation-followup-20261028/before/BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,89702,2d853c96b5d470e7aca6ba159d0e7fd37bbd7644156fcc4201b06d4a5f48ca78
+专题报告/btc5m-validation-followup-20261101/before/BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,152884,4bf9bccc76810c4cc9f7ca56ddb093177ddcb57ca28ed84e90accc77e497081f
+专题报告/btc5m-validation-followup-20261101/before/BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,90503,1e0cb471d207bfac2f401ec9d45f7458aaadb004145eee6301bd142c14995bae
+专题报告/btc5m-validation-followup-20261105/before/BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,153595,540c8beffcca4a8f03df0d62c72f51119f4778d5529a7714ad154abc2d1f3c97
+专题报告/btc5m-validation-followup-20261105/before/BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,91214,2b73a8937ab65aa071c0c161d6c0b7ec9d970f584daea54358904752c03ee561
+专题报告/btc5m-validation-followup-20261105/校时现场证据补充.md,原文,,1142,ee19c60732075865f620e841b11739edfa3040273f241a05417453d2b640e042
+专题报告/btc5m-wallet-entry-20261106/before/BTC策略优化方案-变更记录.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,155871,62cb77238873a4aabe1c0a2006118167afc421c5c75ff32c80d8a1fb8cd620dc
+专题报告/btc5m-wallet-entry-20261106/before/BTC策略优化方案-当前.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,93490,01cf685090967560c712d8fba6343148d855f26875c0ef896d4ca72da1bc3ac4
+专题报告/btc5m-wallet-entry-20261106/post-deploy-first-scan.md,原文,,1200,c90bf2010a7f0915f7022e004677e316ba59f6ce2efc5ea75a39c48bb5b33b28
+专题报告/btc5m-wallet-entry-20261106/post-deploy-scan.md,原文,,1199,bb8ce4d6cb36b9216ee96b4f83fbeaea78bdecd3f716bf9ce188908402ece899
+专题报告/btc5m-wallet-entry-20261106/wallet-backend-audit.md,原文,,3206,ee8b9de0f6a81313c4dc028098160e23fc4ac6124b53f52222d0823c6f54e5ae
+专题报告/btc5m-wallet-entry-20261106/workflow-scan.md,原文,,2576,0a2335bb875507255f08152405b1e05e47cac69b547f0dd108a5465f37a3967d
+专题报告/desktop-update-stability-20261017/检查与迁移建议.md,原文,,1784,17db9b022717d10307f75183d15e1a85abcb937b6159f713959240efba4c89e5
+专题报告/ray-replacement-20261017/strategy-document.md,原文,,14250,230efb0e5fcc34754612e535ba2156811eedc556d186f50f19fb0c94dbd04f01
+图表与附件/BTC盘口典型轮次图.png,原文,,450355,9a33872997890b12321468e28ac07ac59ec1252c0fce80691bcb792c345b8832
+图表与附件/BTC盘口波动关联图.png,原文,,445289,68e15e653be898498e128834539d27972d8ddf3cacfdc2193bc7323cfcc404b3
+项目报告/BTC-OneTap下单对齐与动态TWAP验证-20261018.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 运行标识脱敏,9236,0934172ce9efcbb76e6e037472b0305c4357d9c6ec0e86c5de689c9b2c71ef61
+项目报告/BTC-P0数据与机会审计实施-20260920.md,公开整理,范围外资料注明归档位置 / 历史本地服务标记,10622,2bde3a6627703fddb9240a3bfc57f1d446a20629aa8e61b96d996eea39068ead
+项目报告/BTC-P0新结束日覆盖与P3报价残差候选-20261012.md,公开整理,范围外资料注明归档位置 / 运行标识脱敏,6024,3af9548d7e37d1162888e532f3530ff3f965e5be3f5a9e49ab6f42a3b47a9c13
+项目报告/BTC-P1退出归因与账户占用优化-20260921.md,公开整理,范围外资料注明归档位置 / 运行标识脱敏,11047,1377fe82a7bcda3018f9b166764b935542c790fc80971dad824bb85cb4943af5
+项目报告/BTC-P2单边盘口与可卖深度优化-20260923.md,公开整理,范围外资料注明归档位置,5876,68962a272ccda665ef13cb3071ddea123b851955c3593dc4f392d2a63109b3a2
+项目报告/BTC-P2库存标签复核-20260923.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,5482,a648c9c4a593d0a5821b0efdc5724f45f53ff45314c2672b2c578560c2597619
+项目报告/BTC-P2延后退出标签与库存审计-20260922.md,公开整理,范围外资料注明归档位置,7097,7b70dba54cbb175ea2f173c253085b107eed7d9c3d32502341570fd122def49c
+项目报告/BTC-P2现货上下文采集与增量检验-20260922.md,公开整理,范围外资料注明归档位置,9637,c2367d742691c90c09957a08dfa2a6cc7de70a0c2f8d9d8575a9cc292cd4376f
+项目报告/BTC-P3P4夜间回撤与真实每日校准验证-20261013.md,公开整理,范围外资料注明归档位置,10885,92af8cfc243b1e8e8c110579191be6e29948eee3365d050b41f334e4a96367b2
+项目报告/BTC-P3P6连续资金验证与持有退出价值研究-20261013.md,公开整理,范围外资料注明归档位置,11661,ca78341ee48d49deb3fb1cbbd13d2314ffa541d4639238575fdf0cf2cefd7741
+项目报告/BTC-P3下单前概率刷新及36账户完整验证-20261011.md,公开整理,范围外资料注明归档位置 / 机器路径整理,11193,a2aed466726d71470e3aed1e332bc367006a29e34ddd204c9d50959f1ded1368
+项目报告/BTC-P3公开方法与利润来源核查-20261001.md,原文,,11041,7268e1b6379c816851e3891d4b52a7a4bfe6146c370a27a176c49eca79f1c21a
+项目报告/BTC-P3决策时报价与配对净价值进展-20261011.md,公开整理,范围外资料注明归档位置 / 机器路径整理,7365,86233e50344056ba3b4144dc3472dd6c4ee6d018a8ae32549c1e07d2b3fabe23
+项目报告/BTC-P3前瞻复核与共同确认退出优化-20260930.md,公开整理,范围外资料注明归档位置,11346,a60c8c9c62b8009c782746cd9fa9e20314d9027e044e48c0b1f060b41a1e8b52
+项目报告/BTC-P3动态在线校准实施与新数据复核-20261001.md,公开整理,范围外资料注明归档位置 / 历史本地服务标记,9436,0bdcb06b7a8402ec52b83e131927f1ecbc4955d087f397b3136dc384f075a19f
+项目报告/BTC-P3动态概率有限本金账户对照-20261001.md,公开整理,范围外资料注明归档位置,10930,4a00d52bef40e3141d7ffb15c3cbde007e615f855a0d2036741fc5cfea89b4ad
+项目报告/BTC-P3十五日净政策标签与退出配对验证-20261011.md,公开整理,范围外资料注明归档位置 / 运行标识脱敏,5759,5c13548762825b457cf0249dff78d11299484c0595ef737f2705eb5e4fe6a633
+项目报告/BTC-P3原基准16日期完整模型独审-20261012.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,4414,7b5b79c71d3a4941aa8721c0d98324ba81603c24921fb124e2fb72514d5888c9
+项目报告/BTC-P3可执行净卖出价值退出对照-20260923.md,公开整理,范围外资料注明归档位置,9413,70ef3a61dbd856f90089f469ac127e210469b27139cf905cf3105a166afdccd5
+项目报告/BTC-P3因果净美元信号完整回放-20261011.md,公开整理,范围外资料注明归档位置,6783,6be85ea695387f6ca084b41a6f383c16158d23d9e37540367848bf52b1f58e6d
+项目报告/BTC-P3固定政策净价值标签与退出归因-20261010.md,公开整理,范围外资料注明归档位置 / 运行标识脱敏,7849,4620c6f8f737c54e4c566e98e6cf26f7d5611f35e99c208ae94fc0de49b7b54a
+项目报告/BTC-P3实际持仓净转售验证-20261004.md,公开整理,范围外资料注明归档位置,5531,339374781ab1fc9f603fae1c86483bbca68fcf9604af616ff030de081a53939a
+项目报告/BTC-P3当前信号净美元校准完整验证-20261011.md,公开整理,范围外资料注明归档位置 / 运行标识脱敏,8885,f49077fdfc2f20baa680f22a45a116b5c221270c2a58a6217561b9ecfd5d93f4
+项目报告/BTC-P3成交条件校准及24账户完整验证-20261011.md,公开整理,范围外资料注明归档位置 / 运行标识脱敏,9511,d9ccb31e4c01edbc34930208ab44a2dacc024c8abf25c3b8a4ac8ec16dd7b767
+项目报告/BTC-P3成交率门槛单位30账户完整验证-20261012.md,公开整理,范围外资料注明归档位置,5619,20661f60151179556a93c47c280d926f2435163960382f1b21538b457fd8b7b4
+项目报告/BTC-P3报价时间与首次机会校准完整研究-20261012.md,公开整理,范围外资料注明归档位置,11332,13a71bee1187823b8742bc439ed0ea40f7f28e3874f2ec728866c86542aeec54
+项目报告/BTC-P3报价残差16日期与12账户完整验证-20261012.md,公开整理,范围外资料注明归档位置,8705,54e60aeb78e672309e95e094f13e33f8553a2b7c7cebce63af0d32620a27a7bf
+项目报告/BTC-P3持有与成本诊断-20260930-dashboard.md,公开整理,范围外资料注明归档位置,5620,70f3481f77a8a3a5ca4c78388c992dbece5a7c22f020feebe28bbd6d1190c8cb
+项目报告/BTC-P3条件净价值模型真实验证-20261010.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 运行标识脱敏,6195,d9e1936a9f2346cf039511787d5b3201a356c2dabd48e5237c2e3a354c559fed
+项目报告/BTC-P3比较有效性修复与持仓价值自动审计-20261002.md,公开整理,范围外资料注明归档位置,6858,15adfd2700836400883e732f2a9c7df13b61938c3d830b9571ba734d910872e8
+项目报告/BTC-P3滚动均价风险与午夜更新验证-20261012.md,公开整理,范围外资料注明归档位置,9412,896e088b0ff6cb7a45c3eb3a5f149b27e29166b995b4b78e9ec97e7e20cd4e21
+项目报告/BTC-P3真实净收益与逐日更新完整验证-20261012.md,公开整理,范围外资料注明归档位置,10153,432696e982394557c3cabef185c92461c16d1e187ad6d9c29d8bb091d45b26a7
+项目报告/BTC-P3经济价值验证与盈利路径复核-20261001.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,10960,00044e832d74e6f932da3ab814df6239b80e05105174e84f363f25910b792881
+项目报告/BTC-P3结算概率校准与价值前瞻研究-20261001.md,公开整理,范围外资料注明归档位置 / 历史本地服务标记,9221,69a4e3980843ac78dafed4c012146440959109140640269ec6d4e7af9d166624
+项目报告/BTC-P3逐日更新复核与净收益标签扩展-20261011.md,公开整理,范围外资料注明归档位置 / 运行标识脱敏,6411,a05b531b4a33ab70020b61c66f46b79b1ca602427144ebb496c50db9276df0db
+项目报告/BTC-P3逐日首次机会净校准与36账户完整验证-20261012.md,公开整理,范围外资料注明归档位置,10489,3184208630b4e0427a845c034295c0845a8e6deae62160275047dfbd1195f157
+项目报告/BTC-P3阶段复核与实际持仓剩余价值采集-20261001.md,公开整理,历史本地服务标记,11422,855f5c03dd884098bd67b45b771466e8a9afa7c0e462e32be2df0dbc0d03afdf
+项目报告/BTC-P4实际净回报比例与绝对暴露固定研究协议-20261014.md,原文,,5154,b5490d09cb7055cd695f83b0fa6b303342082f7219817cb250ef6c770bb1c401
+项目报告/BTC-P4实际金额比率与36账户完整收益否证-20261014.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,5702,bf4140417debdee417df0974abc3edc7d16ed50a839352474ad9f8df80b69c4d
+项目报告/BTC-P4新候选前向来源与时钟验证-20261012.md,公开整理,范围外资料注明归档位置 / 运行标识脱敏,8372,37eea4a2892d1126e2193592a4f21bfcb4edff6f0d33d30f23ad329bdbda9f5e
+项目报告/BTC-P4现货动态源模型与36资金完整验证-20261014.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,9238,2ed8e93108bd24d914c4a57b0abc2d126f2d15f71d7f7bb1ecd7cca7287a1920
+项目报告/BTC-P4美元现货动态源与增量信号固定研究协议-20261014.md,原文,,3005,e33563fe337733f014510937a8afaa1765a41f591b1bd0cc91cdc13a4f7fd433
+项目报告/BTC-P4美元现货动态胜率模型与有限资金固定验证协议-20261014.md,原文,,3517,414103e43492794e3a2a82268b0e9b2f2039ca8e441361dee38b3678ce9ede5a
+项目报告/BTC-P4至P6全历史验证与候选运行-20261002.md,公开整理,范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,14224,580b95bdd76674fb1ed9fa93b79986db3fa20528f4614dabac5115829d68f4e3
+项目报告/BTC-P4首轮未来收益与连续资金验证-20261012.md,公开整理,范围外资料注明归档位置,8262,94f927574e521b455cd9614c90f4dc84e714e08e43b1fb3268c04027d473f11f
+项目报告/BTC-P5-TWAP滤波结构验证-20261005.md,公开整理,范围外资料注明归档位置,5184,318f3cda0c1c6cfb7ee7aa31200105720e91d4b14c91db3174d12489e355d9e1
+项目报告/BTC-P5临近到期概率验证-20261004.md,公开整理,范围外资料注明归档位置,5430,4e66af71f0a4b9303079053d91b5523b03bc0c410f81690dc1de492c959e4d6d
+项目报告/BTC-P5主动成交压力来源预检-20261008.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,3405,07652ef3938c269fddae721d49fec327eb7061aab53ff0ff8a9bf4a4940b298f
+项目报告/BTC-P5全时点成交校准验证-20261009.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,7808,330a059c34b8588eeaa10d53be27734324e1901b14f048c9e69fbf9d1b5e1740
+项目报告/BTC-P5全阶段条件概率验证-20261005.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 运行标识脱敏,9203,5730828dd9d72e30d0589ee4e7735e1555739be8e2eb78b44becb72dd7ff30af
+项目报告/BTC-P5同源价格动态诊断-20261005.md,公开整理,范围外资料注明归档位置,3216,dfcb71136b1dc15fcaaacda271270f0ed67701ad26b534d7e87dcc544918e3a3
+项目报告/BTC-P5成交压力候选与验证进度-20261008.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,8170,7af380b64c86ad957aa50e568e33e1287b8841e5ae1b162c37bc9d91af2da37c
+项目报告/BTC-P5成交压力扣费交易验证-20261009.md,公开整理,范围外资料注明归档位置,6805,dce2c7c4ba0d2ad58422036c07bb12a94c0cbdf80d39913730c6c4197b1852c9
+项目报告/BTC-P5成交压力真实历史验证-20261009.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,7017,27529e447d97ef239820b3b7ee3f21957c8edff0363d4895349d9a7677a1c6e8
+项目报告/BTC-P5成交确认与条件模型完整验证-20261011.md,公开整理,范围外资料注明归档位置,8128,368e178333d8d3b3d6a2f1a8f116484dcb714812a70722def46eb3fa41446372
+项目报告/BTC-P5成本余量与延迟拆分验证-20261009.md,公开整理,范围外资料注明归档位置,5270,23a532bfca9739c23040b350d1cdc6c303590069209dfed4ff1829f6eca9e76a
+项目报告/BTC-P5执行参考增量真实验证-20261010.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,8497,dee80e038f92711c253ac2647a7b4a335709b04fb36a4c789f61e1a7152ce835
+项目报告/BTC-P5执行时信号来源验证-20261010.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,8018,6435e608bf0a25c7610872f86e7e16aaa5756ccd58d2f65f45ac4d35a605a3d9
+项目报告/BTC-P5新时期静态校准验证-20261007.md,公开整理,范围外资料注明归档位置,4926,7b8c29f0eb9793f7f9d658cca4e1209b24d6afc91fb4541577d71af80fd33973
+项目报告/BTC-P5最新入场过滤与成交确认-20261011.md,公开整理,范围外资料注明归档位置,6586,8e3faa25af0464189fb2f781f106c7b6d5bb53e8f82b30a8f73617ef1094de44
+项目报告/BTC-P5最新日期来源与执行模型更新-20261010.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,9983,6b3f1014770b572b36104563c5e74942336a26d67c3b2fceb007d3e43f716691
+项目报告/BTC-P5最新结束日期与机会漏斗验证-20261011.md,公开整理,范围外资料注明归档位置,5208,959cd69e5c1cba331318480c18aabbb5edc355d5e24c4b5476c4c83c3134fa99
+项目报告/BTC-P5盘口条件概率完整验证-20261004.md,原文,,4360,1760a84a61514df2f2f1f6441df0a25e7d55433af6c0326e27d62f793f3c51e0
+项目报告/BTC-P5等待信息36账户收益改善与尾部风险-20261014.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,7975,4e3a63e96e3f4900fb446527e292445cf2bc618b24c6711540dac53360800e91
+项目报告/BTC-P5等待信息与最后30秒固定对照协议-20261014.md,原文,,3872,cfdd603935da155ca4958bc3448dcbe53707a11882f620e79fd4369502960616
+项目报告/BTC-P5美元现价残差信号验证-20261009.md,公开整理,范围外资料注明归档位置,6500,5d112754713e146422a5bb437b96f416c4af1e00ba091954f4ad944e8cf954dc
+项目报告/BTC-P5美元路径窗口信号验证-20261009.md,公开整理,范围外资料注明归档位置 / 运行标识脱敏,11310,2fd06688497693a0823831dfd77b9a2bc25fce278deeabbbc5604c71ee0389b4
+项目报告/BTC-P5首次信号条件校准验证-20261009.md,公开整理,范围外资料注明归档位置,7338,786e973b4d6a94bfee762619a0eb17025cb6232bc41376513059169ecd7f59a6
+项目报告/BTC-P5首次机会过滤验证-20261009.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,4507,22db66aa561f2d71313f46ea36e7ab24ea9a06d945e93074ec2e593f23f671e7
+项目报告/BTC-P5首次真实成交条件校准验证-20261009.md,公开整理,范围外资料注明归档位置,7779,db2039c650faf61875d38ebf977cb8d68499d621a9468861d604b2a9de1af434
+项目报告/BTC-P5首次退出参考信息验证-20261008.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,4253,f15e0e38a238462cf106040f84e03dc32b87cbae93744747da6fdfe6c03c1612
+项目报告/BTC-P5首次退出条件持有验证-20261008.md,公开整理,范围外资料注明归档位置,3832,3f352ea84ad1c72dc3726244841986483bce2590bf1db16ea9d6fe7282238570
+项目报告/BTC-P6入场价格保护固定对照研究协议-20261013.md,原文,,3394,df73038be75df6d15dee38b3171314094f2431850476d76e9c35050f04a8520c
+项目报告/BTC-P6入场价格保护完整验证-20261013.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,10135,96b8ff46e7a496d3563c772bc80d7f92a4a75e32c59b769ed1463d1cf068f7c7
+项目报告/BTC-P6入场价格保护源报价费用口径修订-20261013.md,原文,,1438,4ac3743c5575f02c2f6a8c1bbe5b9d5a29ce6d0adc9c9e6c48e33f2b93cb0e61
+项目报告/BTC-P6入场模型与延迟费用拆分完整复盘-20261013.md,公开整理,范围外资料注明归档位置,9249,87dd8bf0f28a4ec298d338b2bb3303701fe44e51589d9161678f42b18f25ca9e
+项目报告/BTC-P6原始报价变化与延迟净收益研究协议-20261013.md,原文,,3207,c358cefed9eb3f7cc3173175983e992e97d8a51b7f0711f0c72c3221603df600
+项目报告/BTC-P6双模型一致策略完整验证与首选机会校准-20261013.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,5901,970aa0b681a34b5729961c2bdbf226912885658e4800e98c593a9e41d62fe72b
+项目报告/BTC-P6实际兑付与成交成本拆分固定研究协议-20261014.md,原文,,4357,67d609d27329bf00f981f34afb1a98c7150038167a3ce9d2e8ed177fec8c0695
+项目报告/BTC-P6成交条件胜率与净收益拆分固定研究协议-20261014.md,原文,,4274,5a393638f6170005b9721dbadf4a85829acac44cbbdb6310715a03f3a8169b6c
+项目报告/BTC-P6成交条件胜率与实际净额完整验证-20261014.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,8649,bed716e8663cf90c7c5bc1ee2abb40f738bd1fec0cbd79a3b8ed386dd9cfcb34
+项目报告/BTC-P6报价变化完整资金验证与新历史验收-20261014.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,7778,8fecc96f706f1719b11700b9cd999c790d6d1bdbcc9cbed4a1974098beb6c843
+项目报告/BTC-P6报价变化资金对照固定协议-20261014.md,原文,,2216,fcc87aa96f894a877859d0366590d1e024a1f9eff078014524be1d2973226cfe
+项目报告/BTC-P6晚段候选未知未来观察固定协议-20261014.md,原文,,4578,e9f8e843f02f71206ee16ae80c22396ed3fc203037c6ac9dc811f57395a86918
+项目报告/BTC-P6条件价值实际金额回放与新结束日验收-20261013.md,公开整理,范围外资料注明归档位置,9789,b0124b5eeb30d01e3926e95c2cdc9ff38597196c7274f6d29111dca29256990d
+项目报告/BTC-P6条件继续价值与延迟卖出完整来源研究-20261013.md,公开整理,范围外资料注明归档位置,7252,4cbf89ba94b17494199455367b8c3b33ba893d0bfad9311132f7949d03a6de51
+项目报告/BTC-P6来源校时与真实未来信号验证-20261015.md,公开整理,范围外资料注明归档位置,6540,f58381c0c42321cf79a62ebf4af459705f970582e4c0ffcd92bce9e998d889f0
+项目报告/BTC-P6概率保留价与成交保护固定研究协议-20261014.md,原文,,3674,ddde80351422dbf8d3fdae0cbd4bfbc88191c585f04cecf966d6b3d00723236b
+项目报告/BTC-P6每日更新首次源与概率保留价完整验证-20261014.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,8286,c2f7249e0888aac4227f73b80179cf8eab61931a8155e607c06cc8cbcb68da7e
+项目报告/BTC-P6每轮首次可执行源与策略样本对齐固定研究协议-20261014.md,原文,,3282,537253bb0099b0dfd662f8948f9adfbf51b006122017b6d1c71f28e19852b53e
+项目报告/BTC-P6每轮首次可执行源与策略样本对齐固定研究协议-v2-20261014.md,原文,,3594,dccd1d7c39694bc522fcd1878082f2877efd05797193e305609cdd07eb7ac056
+项目报告/BTC-P6盘口信息入场验证与方向时机分离研究-20261013.md,公开整理,范围外资料注明归档位置,6866,b1a55f9278f8bc4e5199c91576cbfff89567fa3b43090b98297b4bc5c8e88d61
+项目报告/BTC-P6逐日因果校准固定研究协议-20261014.md,原文,,3999,a116fb72ad6c499e005dae9da4e501d0c899d1f0f01b2433020e368441758101
+项目报告/BTC-P6首选机会交叉拟合净收益校准研究协议-20261013.md,原文,,5481,4851c407cea067f7b9aed606029a36ffbc9adb5582437ad79d4d63a580b3d6c0
+项目报告/BTC-P6首选机会价格时间单调校准研究协议-20261013.md,原文,,2212,7ea1c3edf1b05e89d7e3333a3448503b2cab07c660f45a0e5fea9655b09beb91
+项目报告/BTC-P6首选机会净收益校准完整回放-20261013.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,5835,c7bbe8265025fe75c247a5f3edd33c190333ba268101d4e0d5e9b9a5c2544c8c
+项目报告/BTC-P6首选机会报价时间校准完整验证-20261013.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,4794,a0f31e3ea751a5683c1d59485d74dd63942c66b7b956788fa18af70bf8ac7a75
+项目报告/BTC-Ray换策略后运行复盘-20261017.md,公开整理,范围外资料注明归档位置,9434,c9e9039a908d1122b29e7fab27e4b1db72f28d5b33ea85dd5f3bb7fe4b56b255
+项目报告/BTC-两交易员方法与公开账户盈利来源复盘-20261003.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,16032,cee65d59492c381f18bf5668bb66d1db257d17f7fb0efbe68dd69ecd41318af3
+项目报告/BTC-事件概率与状态净EV验证及候选观察-20261002.md,公开整理,范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,15123,8a2cb8d782fbb0e19ffd4f0d5af11d7170426b4703a28d7cdc36f467a5105070
+项目报告/BTC-历史数据入场训练与净转售价值验证-20261003.md,公开整理,范围外资料注明归档位置 / 运行标识脱敏,12178,1d9909d752a41f57276401d76e75294ef62d4bb477df365d947e47b5bdab4442
+项目报告/BTC-持续亏损归因与现货残差信息验证-20261003.md,公开整理,范围外资料注明归档位置 / 机器路径整理 / 运行标识脱敏,10367,ea1836ec1bce3b2f8c6f8052a31a2d8ef4aa9f866809f5c2e99604b506382dfc
+项目报告/BTC-整体研究复盘与报价时点优化-20261003.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,11724,b23cbbc96bfb27258e32b548979b5a4661204689ab58c87513f986c6fb71283c
+项目报告/BTC-新研究产物存储位置-20261007.md,公开整理,机器路径整理,768,ed38f855332a79c1af768b6f4a76abd3c899fa8a2f82b2497b2eb79bfe47f3d3
+项目报告/BTC-策略研究进度-20261006.md,公开整理,范围外资料注明归档位置 / 运行标识脱敏,10138,2f64b869aa8b22352ec3e36ddf71b7f80672298c09ae7b05ddc82577835021c1
+项目报告/BTC-策略研究进度-20261007.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 机器路径整理,18478,f78a3ba86831aac96db8637563870b4bcde086979d3b30b8b812b38a16d5336e
+项目报告/BTC-策略研究进度-20261008.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,11822,114ebb43a8905065e29916857f2a04f83194168845f072b974ed690ed6c08245
+项目报告/BTC-策略研究进度-20261009.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,17881,ec3d41d49cb8b4bc812f814105ed7c69e83d35ad4a48f41eeca46582c4dd3585
+项目报告/BTC-策略研究进度-20261010.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,43088,fe5dcc5f8f7aaa6801a6f37096ad3a0571b02f31c56e16a72d98a11c139df420
+项目报告/BTC-马尔可夫与六公式交易方法核查-20261002.md,公开整理,仓库内相对链接,8899,dc8658dc31ca7165315a2ca0af2695464b963f36b3360586e8b7fc326f769528
+项目报告/BTC5分钟验证结果.md,公开整理,范围外资料注明归档位置 / 机器路径整理,3464,cd1c78455121c4f9c167eb9c70a9bfcabf38a974e5eca4b591a51ee979857fde
+项目报告/BTC一键金额下单说明.md,公开整理,仓库内相对链接,3329,d1c9241260f52f4e2d1a447355e75cfbe99d1c0404944e45f06aec613100c9b1
+项目报告/BTC三项改进顺序部署与验证-20261023.md,公开整理,机器路径整理 / 运行标识脱敏,8030,271ae4282ca293c834d8e7aeaa6b9c9d0d89b42cb6ea4b3cc863714c134e66a8
+项目报告/BTC两种策略全历史回测-20261023.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,14455,97975fd10dda8112a5607fc20622dca3631de2eef5c3cc5073b2421decc3564d
+项目报告/BTC主策略控制台与历史资料归档-20261020.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,8283,7ff6c426e3200de511bc4051faab0d384f70ba3dd7ee5ad0b19239a4eb0a627b
+项目报告/BTC五分钟市场结构与正期望检验.md,公开整理,运行标识脱敏,9945,76efa25503e793e564c93398b0caf7c68ffbf45585fdbf69ebf3f68b9e6e4f6b
+项目报告/BTC交易直觉假设检验与策略改进.md,原文,,10763,6e99212117e8420e5e96244cb0ab49ada3ea37e8b9e39a6064eb771b4279f5a2
+项目报告/BTC交易策略逐项审查与持有退出优化-20260918.md,公开整理,范围外资料注明归档位置,15308,c6a9ece501ba9708a51291116dce0439f4872e2bb1615b8710b5d473db7cb6e4
+项目报告/BTC低频开仓与止损影响复盘-20260913.md,公开整理,仓库内相对链接,10073,235425490bee0f55436fdc1226dab4da01375ddd1afac5ebbf2f1d86e1aec8e1
+项目报告/BTC全历史TWAP达标反向结算与维持时间统计-20261023.md,公开整理,范围外资料注明归档位置,7958,d5a57105dab1639ca5fc52983132f84766b353303a6fef8d5bb48109211fa097
+项目报告/BTC准入对照与业务监控部署-20261026.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记,6082,d431fea979827e9b01513078a12f814b426124964c718f78f738cfd06d78c44e
+项目报告/BTC准入对照后续验证与修复-20261027.md,公开整理,仓库内相对链接 / 历史本地服务标记,5765,e54824902f871744e00493dca928531ebbd6f5e7a0d15facbeb151f1614c08f6
+项目报告/BTC准入时机、动态门槛与仓位改进部署-20261026.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 机器路径整理 / 运行标识脱敏,7357,0ce952147f914b84072a75faa26564040e678c6497e6ef44ca605b2ac7474e60
+项目报告/BTC准入门槛与动态仓位复核建议-20261026.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,14821,7e8bcd5cbc50a6c64d29b4bb292644381c9de285bed2fb9d169dfc17ebf15ad3
+项目报告/BTC到期仓位结算队列与资金占用优化-20261001.md,公开整理,范围外资料注明归档位置 / 运行标识脱敏,12316,62b8246ffdd9d3fbdc2a031168dcb56bd6290546ed65abe1d609855b09b9a380
+项目报告/BTC前向验证与策略自动迭代实施-20261001.md,公开整理,范围外资料注明归档位置 / 运行标识脱敏,6185,4ba9d3af41a5b2d2e7d2b77a131dc9fbc04c458b866a8efa6af30d1c32bfa8fe
+项目报告/BTC前瞻自动模拟策略说明.md,公开整理,仓库内相对链接 / 历史本地服务标记,6161,dcc9d9369867e3855b52ef481cf865597ec987306b5ec59b9d06d026ed73c5bb
+项目报告/BTC动态自适应策略-设计核查-20261001.md,公开整理,范围外资料注明归档位置,10606,1cf7f15bfaa710629956c57c6298b6c1bd2f3a4d8e9629545d92ba0dcd3e33ac
+项目报告/BTC单盘口一次开仓与换轮修复-20261022.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 机器路径整理 / 运行标识脱敏,6759,7bebd99ac79af4ec44c67849768af23e42da5a254712782f6092564bf114726c
+项目报告/BTC单笔净值仓位规则修改与验证-20261019.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 运行标识脱敏,5017,ce26202e764a90b6a24797ea748b2657278e01ac8ca51fa80fded8cd25a24d55
+项目报告/BTC后台独立托管与断线恢复-20261017.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 机器路径整理 / 运行标识脱敏,7200,6a792b54b706ab0c2101d412d41111806fc1e3ad5c3a3c28d924a9552c649e05
+项目报告/BTC周末验证与数据缺口复核-20261101.md,公开整理,仓库内相对链接 / 历史本地服务标记,9582,6ee14d5d55a67516fc7d34d62a15ff4a10a06a535e4fa86c1c94fd30c1b04356
+项目报告/BTC工作流全链路检查与修复-20261017.md,公开整理,范围外资料注明归档位置 / 机器路径整理,8174,33a07de2128b0f435fbf1f48d0e996995158b03cfca854d6105c85a5dc8c4b62
+项目报告/BTC工作流完整检查与历史成交核验-20261021.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 运行标识脱敏,9378,7493f4759fb682a2fa64297e03694a3885e483b7b04804a5d677cb631a44591d
+项目报告/BTC工作流异常暂停修复与前瞻检验.md,原文,,5271,64fe0c36fa2bf2c0fc1ea629a636d2dbea254d5107675bc5cf50ad4c35860fd5
+项目报告/BTC工作流恢复运行与新操作基线-20261105.md,公开整理,仓库内相对链接 / 历史本地服务标记 / 运行标识脱敏,6086,8325af726ad30c1ab3b046540ed1e1e92b725aaa060488fea2f553c30c9c6213
+项目报告/BTC市场信息退出实施与验证-20260918.md,公开整理,运行标识脱敏,6725,65cf3f77f56dd9e1382ce2b0ffb76e5b9043304c5603c9ebc9ae648ea98b81a5
+项目报告/BTC当前运行策略原参数全历史回测-20261023.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,13734,271d16c13b7dca415138309af6cb51cb63961a3eb65df6b0ced2bc3139d80a3d
+项目报告/BTC持有时限与动量反转复盘-20260913.md,公开整理,范围外资料注明归档位置,10215,0753d003bec5907686608fb6390a9ff7885e9b61bdcd1a75b22f7f372baf80eb
+项目报告/BTC控制台图表修复说明.md,原文,,1977,61d202751a1c5978efbf7691c0ae3161d0929d0a483b2dca2792f70352e3ad95
+项目报告/BTC控制台无法访问-修复记录-20261017.md,公开整理,机器路径整理,4752,e7ea4c0afc654326723bda2c034197974f7e7fecf40cb9aa6a2a975a7ab7f84e
+项目报告/BTC整体扫描与真实钱包接入口-20261106.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记,7392,520432755214c9fff379210b32f1d059fc868b35eb151725682aa209721b80f3
+项目报告/BTC新增亏损与校时缺口复核-20261105.md,公开整理,仓库内相对链接 / 历史本地服务标记,11004,e6c78182d665d0813aaa63b8cf9223b5a7746b229edbf529a29727687607f8c5
+项目报告/BTC日期分层TWAP门槛检查与配置-20261018.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 运行标识脱敏,9050,968446bac681d3dd2193555ce72682177e2e90424a63ceb56692cd9492095799
+项目报告/BTC独立成交账本与控制台改版-20261024.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置 / 历史本地服务标记 / 机器路径整理,4826,baaa1941de3a544375f3c43e06b66e72f7d232b93c6e76954a4a5018f6745d31
+项目报告/BTC盘口报价故障检查与修复-20260920.md,公开整理,运行标识脱敏,3355,9ef84c255f5d610de4a17b22f726078b339db7ffc6367301cfe66df90a2e4bb8
+项目报告/BTC盘口波动关联与交易特征研究.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,14566,2eb48932d534a3db78a22d6be3e2367f82a2135383de08024b4d89355a8bfcd0
+项目报告/BTC策略优化第一阶段实施记录-20260918.md,公开整理,运行标识脱敏,4908,7ce60cc1f940dbcfa57b34bc8e8cdd281320fef1dac04f2bcb91e0d43fae5ce4
+项目报告/BTC策略全量复盘与前瞻对照优化-20260913.md,公开整理,范围外资料注明归档位置 / 历史本地服务标记,8816,1d7d2ff3185fa3a11bf38fb479cd9bad713fb0432d0e23c7bc54713a326c56fe
+项目报告/BTC策略参数优化与自动模拟验证.md,公开整理,运行标识脱敏,4644,a34bf09d0f26e27ab14853684c42be1cabb496127c97ef8d32032945d864db5e
+项目报告/BTC结算概率策略与数据验证.md,公开整理,仓库内相对链接,7582,f2bd1ab424a787544201f5d94695f01a948af57f0bf26f268fd522ff42b4481b
+项目报告/BTC行情连续性改进与新增对照复核-20261028.md,公开整理,仓库内相对链接 / 历史本地服务标记,6637,b79881d189eaeab8f87267b15104c14079a576efd52965c674b8e7fa1c205183
+项目报告/BTC账户资金与收益看板及策略复核-20260930.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,7082,e9bf95eaf090e65b805c654962e2b77152a949f3d7eabd23164359f1310e8e9a
+项目报告/BTC近期成交亏损、末段反向定价与订单流复盘-20261022.md,公开整理,仓库内相对链接 / 范围外资料注明归档位置,9790,8f0e9c469d8d03307a131eb4ab73364e683a576d36140d928187289e7ac73511
+项目报告/BTC金额下单门槛官方核对与修正-20260913.md,原文,,4829,f2d9e4310f951b52cd73b7f429f9c4c3d42804b4528284e523fd3c7ec878f24f
+项目报告/BTC非正常重启与只读恢复记录-20261105.md,公开整理,仓库内相对链接 / 历史本地服务标记,4615,0233c7796bdfd805f6bb949b34eb7b7a798b3a4cee45d67872d56aef5a57eade
+项目报告/Chainlink参考价格就绪修复-20260913.md,原文,,2700,b31a18d264af0664e25f9cc43656a47bc61a1b31ceb8437ef0c75300676b8744
+项目报告/CloddsBot策略审查与优化结果.md,原文,,9335,bc3a8e976324e07843b54fac011d981a5aa4e80da75177320e23696de144bdd3
+项目报告/PolymarketBTC15mAssistant仓库审查与策略借鉴-20260920.md,原文,,15267,b80fd01122fe312a9bee527c15238115d34e4ce6a7b7f23252c4a99dc5979b2b
+项目报告/文章研究与BTC5分钟工作流对照-20261026.md,公开整理,机器路径整理,10363,9365a3daf0136aaf7a332846cb56776ca0619022566ed40b080629102b04a0a4

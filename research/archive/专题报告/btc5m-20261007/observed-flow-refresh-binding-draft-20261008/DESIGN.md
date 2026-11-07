@@ -1,0 +1,9 @@
+# New-manifest flow binding draft only
+
+This pure draft changes **only source registration/cutoff binding** for a future NEW all-UUID ended-Oct7 manifest. It imports the original held flow function, protocol and source population counter without edits. The old fixed43 runner remains unchanged and continues to reject resnapshots. No actual source run or new data reads exist in this draft.
+
+Before any future run, root must bind the complete independently passed new source proof to the exact manifest/report/metadata/anchor native pins. A new runner will reuse held SourceSession, countCompleteSourceRows, EvidenceWriter and full gzip readback; it will need a separate bounded original-witness reader because that reader is private in the held runner. The scalar is exactly the original observed signed base-BTC quantity fraction over nominal30s original receipt intervals. No quantity backfill, aligned-window claim, USDT/USD substitution, changed interval threshold, older fallback or support-rule change is permitted.
+
+Every static29 slot and unknown remains, and static1/N is assigned before flow masking. The new cutoff is passed explicitly to the unchanged held feature and counter. Source availability requires **13** nonempty ended supported dates. Twelve dates remain insufficient. Passing source qualification alone never authorizes S/P labels, fitting, probabilities, cash replay or deployment. Only one prospective F coordinate may later be compared on the same fixed paired B0/T/C/F population under separately registered validation.
+
+Synthetic tests move fake timestamps into the new cutoff and compare the unchanged function output exactly; they test latest-bad, zero-quantity, missing summary, future timing, new source proof identity and 12-date insufficiency. This draft intentionally has no actual CLI.

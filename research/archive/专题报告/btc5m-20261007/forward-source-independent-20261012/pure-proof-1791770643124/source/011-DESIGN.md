@@ -1,0 +1,7 @@
+# Full captured source diagnostic independent audit
+
+No imports of the new author source construction, original availability pure functions, quote calculator, weight finalizer or journal reader. Own source/price/book clocks, market identity, exact TWAP opening/current, elapsed60s variance, source regimes, preceding latest USD context, amount book walk and weights independently implement the frozen specification. Seven synthetic tests precede sealing and source reading.
+
+Every one of 9,525 captured rows and original byte ranges is reread, hashed and value-compared; current files may append but bound inode/birth identity and captured ranges cannot mutate. Captured family ranges must be contiguous, observed clocks nondecreasing and every receipt earlier than its diagnostic projection. All 29 slots, rejection reasons, every constructed coordinate and both source amount quotes are checked. Original full-round static weights are verified after end, not redistributed over external availability.
+
+This audits the explicitly retrospective diagnostic of a genuinely preregistered future source capture. It is not certification of an order decision computed in the past or future financial execution. Future live process registration, actual intent persistence/clock, initial/daily model contract, acknowledgement/payment handling and cash remains separately required. No fitting, labels, cash, network or main writes.

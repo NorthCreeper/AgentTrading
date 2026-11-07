@@ -1,0 +1,5 @@
+# Coherent all-grid unfiltered exposure calibration
+
+After accepted full independent sourcee47c2b60, use only a coherent Up-logit2-parameter correction. Original static per-round weight times mean normal Up/Down actual preview shares, assigned for every row before any known-label mask. No redistribution, no two-leg cash claim, no later fill as decision feature. Forecast input only initial-time chronologically valid teacherU probability. Labels strict research-only, original roundend <= knownAt < validationStart-60s.4 OOF dates/300 unique known positive-exposure rounds/30 Up+30 Down rounds/100 anchors and fixed20ridge remain, repeated grids not independent.
+
+Common paired validation weights compare F against each B0/T/C/U with original fixed probability/date/LODO continuation, all stress/score diagnostics retained. No economic inference from pure or predictive pass; old64 financial/wholeexit/newbirthday gates remain. Actual source reading, fit and cash are forbidden until separately registered historical study. Current6 tests synthetic only.

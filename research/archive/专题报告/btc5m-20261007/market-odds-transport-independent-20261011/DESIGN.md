@@ -1,0 +1,3 @@
+# Independent market-coordinate execution audit
+
+Own original signal choice and market-prior transport, using accepted model coefficients as data. Current first delayed Up-prior validation, odds-ratio-based probability arithmetic, original fees/execution/inventory/payment, all48 account decisions and64-family screen independently reconstructed. No author transport, selector, account, engine or evaluation math imported in audit. Generic IO/config/source validation and existing quote primitives shared. Every24 current point control must equal the previous accepted current account. All history is exploratory; no adoption/main/live permission.

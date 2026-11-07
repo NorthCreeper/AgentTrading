@@ -1,0 +1,15 @@
+# Two-strategy historical execution-depth dataset
+
+The dataset reuses the frozen cutoff `1792687934075` from the completed all-history TWAP threshold statistics. Its scope is the same 5,706 eligible complete rounds, including records collected before the strategy replacement.
+
+`execution-frames.jsonl.gz` is a streaming JSONL file with one market round per line. Each round has `slug`, `start`, `end`, the frozen coverage-selected `canonicalSession`, an original `market`, and a sorted `frames` array. Every frame retains the original full depth books and their source, receipt and transport clocks, its own contemporaneous market parameters, TWAP, clock state, and byte witness. Use `frame.market` for that frame's fee, tick and minimum size. The round-level market is descriptive only.
+
+Only captures in `start + 165000 <= now < end` are included. This supplies 15 seconds of warm-up before the last 120 seconds. Raw captures, spot opening candidates and official outcomes are not interchangeable. `rayOpening` is retained only as historical evidence and must not override the independently verified exact-start 60-second TWAP baseline.
+
+All 21 original frame byte prefixes were read once and hashed in the same streaming pass. All 21 SHA256 hashes match the preceding statistics manifest. Appended bytes after the registered prefixes were not read. The output contains 739,809 frames in 5,706 rounds, with zero missing rounds, duplicate captures, immutable identity conflicts or alternate sessions within this eligible sample. `witness-verification.json` separately checks 64 original bounded byte ranges; all retained market, full books, TWAP, clock and witness-derived signatures match.
+
+`book-clock-summary.json` separates numeric chronology from clock certification. Of the selected frames, 178,839 have recorded verified UTC readiness and 560,970 have no such recorded clock state. All 1,479,618 book objects explicitly label source timestamp semantics `unverified-server-timestamp`; numerical timestamp ordering must not be described as certified upstream event time. All frames have structurally valid depth; 402,909 have two-sided books, 706,548 pass the recorded 3-second book freshness checks, and 370,638 pass the original numeric `frameQuality.ready` combination. Missing, one-sided and stale observations are retained. No actual exchange fill or queue priority is proved by a historical book replay.
+
+`round-index.json` provides per-round/session frame counts, execution parameter variants and numeric quality counts. `duplicate-conflicts.json` preserves duplicate/identity audit findings. `source-manifest.json` pins source and output hashes. `source-registration.json` pins the input scope before extraction. `schema.json` states field and time semantics. `spool/` contains compressed intermediate round chunks derived during the one source scan; it is a provenance artifact, not additional independent market history.
+
+This data work did not modify production code, running paper account controls or historical trading records.

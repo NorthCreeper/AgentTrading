@@ -1,0 +1,5 @@
+Latest14 integrated original execution source, v1.
+
+This source-only stage reconstructs all105328 parent slots,33822 qualified seeds and both outcomes under normal1s and stress2s latency. It binds original immutable raw-price byte references and the independently audited four latest chronological teachers. It does not select positive EV, available teachers, advancing references, outcomes or positive fills as a source inclusion filter. Missing sources, first-frame cancellation, zero and partial FAK remain explicit. Both scenarios preserve first raw due-frame behavior; a later favorable frame cannot repair it.
+
+To remain within existing256MiB physical/1GiB decoded/4GiB reserve limits, parent model rows are referenced by exact index/digest and execution reports are referenced inside the same trace record. Inflation is lossless and audit must independently reconstruct both previews and snapshots across complete original raw ranges. No cash, positions, fitting, newly joined targets or main-runtime change. Execution-time forecasts require a further actual1s/2s delay in any later funded replay.

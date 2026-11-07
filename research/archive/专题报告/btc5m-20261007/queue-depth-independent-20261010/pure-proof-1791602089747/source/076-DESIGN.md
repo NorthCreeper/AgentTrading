@@ -1,0 +1,3 @@
+# Independent original top-queue source audit
+
+Independent original range/timeline implementation, new scheduling and classification loops; independently use the size-weighted best-quote formula rather than the author's half-spread formula. Every original byte range, fault, first snapshot witness, same token/price/clock, quantities, unavailable state, original weight, day/scenario support and output row/complete gzip checked. Shared older authenticated readers and old original-book validity guard are stated explicitly; no new author quantity/project/scheduler/summary/timeline constructors imported in actual audit. Five synthetic comparisons before actual registration. No fits, target joins, funds, main changes or profit claim.

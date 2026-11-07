@@ -1,0 +1,3 @@
+# First original execution signal state source
+
+After global coherent calibration failure0ae6282d, test an unproven execution-time signal validity mechanism. Preserve original seed plus exact1s/2s raw execution frame, both books, real preview report and BTC60s E18 reference changes. Seed reference value/horizon must match accepted model source; window/freshness/identity mismatch remains unavailable, no later favorable frame or spot/clock repair. Zero/partial/cancel/unsupported records stay, no outcome mask. Original initial probability annotation only, no new probability, sigma estimate or freshUSD reconstruction without separate source proof. Pure8 tests only; no history extraction/fit/accounts or profit claim yet.

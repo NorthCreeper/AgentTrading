@@ -1,0 +1,5 @@
+# Independent single-queue net-value audit
+
+Independently reconstruct source crop, quantity-source/root references, guarded actual source quote and policy label knowledge. Previous independently checked original guard reused, new queue coordinate correspondence checked via size-weighted price formula. New one-variable constrained weighted least-square scalar and KKT computed using independent explicit sums; source RMS, target masks/no renormalization, support, same-target dollar intercept, all forecasts, original joint gates/day/LODO/stress/score independently reconstructed. No new author queue observation/scalar fit/predict/gate constructors in actual audit. Only generic authentication/byte/compare and older audited guards shared. Synthetic checks before root registration. No cash accounts, live/main changes or profit claims.
+
+V2 preserves the original failed audit and all sealed code. Only independent accumulation changes to recursive pairwise sums. Absolute1e-8 comparison and all strategy/math/target/source/gates stay unchanged; 70000-observation synthetic stability case added before full rerun.

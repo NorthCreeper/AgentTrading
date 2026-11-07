@@ -1,0 +1,1 @@
+Bootstrap day binding and actual source observation added to accepted adapter v2. Numerical teacher/net and first-parent source policy unchanged. Execution uses an additional persisted intent receipt, never the old frame time. No money or actual orders in pure tests.

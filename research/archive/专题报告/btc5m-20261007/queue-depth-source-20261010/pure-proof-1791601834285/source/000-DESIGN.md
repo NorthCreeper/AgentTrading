@@ -1,0 +1,7 @@
+# Full original-byte top-queue source extraction
+
+After both rejected fixed-policy net models' full independent audits and root acceptance, recover top quantities at exactly the accepted first original execution frame, not at the later second-fill frame. Predeclare every original slot, two actions and normal/stress; source failures and original weights survive unchanged. Old zero fills are not filtered. Features require original same-token top prices, clock and book; quote quantities here are resting supply/demand, not order fills or probabilities.
+
+Read and authenticate the original source bytes before and after, including all canonical ranges/faults. Match first snapshot byte witness and market identity, then old accepted reference/price state. Freshness and positive finite quantity constraints preserve unknown as unknown. Parent net-label traces are authenticated but not joined or read to produce quantity features; old raw research target fields may be parsed as part of authenticated source rows and are never used for source selection or the coordinate.
+
+Three pure integration checks and nine standalone formula checks precede source registration. Full independent quantity reconstruction is still needed; successful feature capture alone is not permission to fit or fund a strategy. Output256MiB/decoded1GiB/reserve4GiB fixed, one committed lossless gzip member per line, no raw source copy. No new target joins, model fits, funds, live network orders, main changes or profit claims.

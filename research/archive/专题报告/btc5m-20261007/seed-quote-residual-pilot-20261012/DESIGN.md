@@ -1,0 +1,7 @@
+# Seed quote residual pilot, original 16-date source
+
+This is a separately recorded extension of the prior sealed residual candidate. It tests whether the original teacher adds useful information above the actual entry quote price, across all available seed quotes rather than retaining only its initially positive EV opportunities. The decision remains at the original seed clock, so the original independently audited first actual delay applies. No later snapshot creates a second decision. The carried/fresh candidates remain pending and must retain their additional actual delay.
+
+Source weighting and normalization precede acknowledgement and label masks. Target-knownness, actual filled shares and actual costs cannot change a source row. The supervised winner requires the separately authenticated strict research label and agrees with an original dual-API financial receipt. The receipt alone never trains. All missing, cancelled, zero, partial and unresolved outcomes remain in the record.
+
+The pure fitted result does not authenticate its input by itself. A separate root registration, original source and archive guards, all-row trace, full independent reader and convex audit are required. Forecast validation is followed by finite $100 cash/$10 occupancy accounts with original settlement observation times before any claim of profitability. There is no permission to change the running strategy, exits or wallet execution.

@@ -1,0 +1,3 @@
+# Independent coherent all-grid calibration audit
+
+Do not import new author exposure-table, source-loader, fit, normalization, predict, evaluate or gate functions. Accepted original sourcee47c2b60 and old independent teacher/normalization/20ridge stationary math only. Independently assign both leg weights before labels; verify every source and unavailable table row, repeated-round qualifications, strict labels, normalization,2coefficients stationary solution/coherent complement, full predictions and all normal/stress validation/score gates. Original byte prefixes, source/root/native evidence, code copies and full gzip members before/after. No optimization rerun, cash/adoption/profit claim.5 pure boundary tests; actual full audit must be separately registered.

@@ -1,0 +1,5 @@
+# Independent recorded-execution ledger audit
+
+Rebuild every owned purchase, fee, partial/zero result, cancellation, unpaid share and original-time payout from complete sealed execution traces; independently recompute every recorded FAK against its exact original byte-witness quote. Verify all complete original canonical range digests, all target scopes, final account cash/remaining inventory and retained closed trades. The math imports no author account, selector, engine or economic evaluator.
+
+This is deliberately an intermediate audit. It does **not** yet independently replay the absence of entry signals, all alternative direction decisions, every first delayed-frame disposition, or the complete economic multiple-comparison screen. Its proof must set `allPolicyDecisionsIndependentlyReplayed=false` and `fullIndependentFundedAuditPassed=false`. It cannot authorize adoption, forward funds or claim profitable strategy validation. Both F arms failed the author's fixed economic screen; all failures remain.256MiB output/1GiB decoded/4GiB reserve unchanged. No new model fits, main writes or real orders.
