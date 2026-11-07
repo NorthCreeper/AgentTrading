@@ -1,0 +1,2406 @@
+{
+  "version": "ray-calendar-noise-policy-v1",
+  "revision": "calendar-noise-20261018-v1",
+  "calendarRevision": "official-calendars-20261018-v2",
+  "fitThrough": 1792322882624,
+  "availableAt": 1792323510199,
+  "validUntil": 1794915510199,
+  "calendarSha256": "236590555474bed010e65f8bbf0582bf07a2e216a28418ed3ef47bb7601542a7",
+  "registrationSha256": "d72416b1fa9aecfd2c83486ba7b6bd80b89df6ea725f81723b95693acde054ed",
+  "amendmentSha256": "b5f87b0a3b31c75bc424df8fcffca29d4cd67473681fdaf4ddf3058b5e943b9c",
+  "status": "shadow-only-no-admitted-calendar-cell",
+  "profitabilityVerified": false,
+  "sizingPolicy": "Unchanged2.5%; no validated risk ramp.",
+  "groups": {
+    "equity_expiry": {
+      "morning": {
+        "type": "equity_expiry",
+        "session": "morning",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 30,
+        "candidateThresholdUsd": 30,
+        "baselineThresholdUsd": 40,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": 0.8039003751767784,
+        "holdoutRatio": 0.6057734490833092,
+        "allDateRatio": 0.838561270557337,
+        "appliedRatio": 0.8039003751767784,
+        "trainingRatioBootstrap95": [
+          0.6965034782981042,
+          0.9767878571426994
+        ],
+        "support": {
+          "trainingDates": 2,
+          "testDates": 1,
+          "baselineTrainingDates": 12,
+          "baselineTestDates": 7,
+          "trainingDateList": [
+            "2026-09-18",
+            "2026-09-30"
+          ],
+          "testDateList": [
+            "2026-10-16"
+          ],
+          "baselineTrainingDateList": [
+            "2026-09-10",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-02",
+            "2026-10-05"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": 0.8333333333333334,
+          "baseline": 0.8166666666666667
+        },
+        "reason": "independent_date_support;chronological_noise_ratio_unstable",
+        "noiseScale": {
+          "trainingGroup": 48.81557436425355,
+          "trainingBaseline": 60.72341284020295,
+          "testGroup": 32.96721645082289,
+          "testBaseline": 54.42169263230463
+        }
+      },
+      "midday": {
+        "type": "equity_expiry",
+        "session": "midday",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 65,
+        "candidateThresholdUsd": 65,
+        "baselineThresholdUsd": 60,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": 1.0812379188987449,
+        "holdoutRatio": 0.9820460773365015,
+        "allDateRatio": 1.073499785536014,
+        "appliedRatio": 1.0812379188987449,
+        "trainingRatioBootstrap95": [
+          0.8577135355483281,
+          1.2088188408838674
+        ],
+        "support": {
+          "trainingDates": 2,
+          "testDates": 1,
+          "baselineTrainingDates": 12,
+          "baselineTestDates": 7,
+          "trainingDateList": [
+            "2026-09-18",
+            "2026-09-30"
+          ],
+          "testDateList": [
+            "2026-10-16"
+          ],
+          "baselineTrainingDateList": [
+            "2026-09-11",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-01",
+            "2026-10-02"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": 0.8,
+          "baseline": 0.8
+        },
+        "reason": "independent_date_support;bootstrap_interval_includes_one_or_missing;chronological_noise_ratio_unstable",
+        "noiseScale": {
+          "trainingGroup": 74.27586056487347,
+          "trainingBaseline": 68.6952050669148,
+          "testGroup": 64.83806711560464,
+          "testBaseline": 66.02344697660011
+        }
+      },
+      "night": {
+        "type": "equity_expiry",
+        "session": "night",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 70,
+        "candidateThresholdUsd": 70,
+        "baselineThresholdUsd": 80,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": 0.8934990829707811,
+        "holdoutRatio": 1.3286153364612683,
+        "allDateRatio": 1.1011605856320403,
+        "appliedRatio": 0.8934990829707811,
+        "trainingRatioBootstrap95": [
+          0.7059352094807565,
+          1.2057381530017213
+        ],
+        "support": {
+          "trainingDates": 2,
+          "testDates": 1,
+          "baselineTrainingDates": 13,
+          "baselineTestDates": 7,
+          "trainingDateList": [
+            "2026-09-18",
+            "2026-09-30"
+          ],
+          "testDateList": [
+            "2026-10-16"
+          ],
+          "baselineTrainingDateList": [
+            "2026-09-10",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-01",
+            "2026-10-02",
+            "2026-10-05"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": 0.7833333333333333,
+          "baseline": 0.8166666666666667
+        },
+        "reason": "independent_date_support;bootstrap_interval_includes_one_or_missing;chronological_noise_ratio_unstable",
+        "noiseScale": {
+          "trainingGroup": 79.79331323849328,
+          "trainingBaseline": 89.30430345064234,
+          "testGroup": 86.24549138794538,
+          "testBaseline": 64.9138159263297
+        }
+      }
+    },
+    "federal_only_holiday": {
+      "morning": {
+        "type": "federal_only_holiday",
+        "session": "morning",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 40,
+        "candidateThresholdUsd": null,
+        "baselineThresholdUsd": 40,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": null,
+        "holdoutRatio": 1.8586642244284748,
+        "allDateRatio": 1.7544740251691884,
+        "appliedRatio": null,
+        "trainingRatioBootstrap95": null,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 1,
+          "baselineTrainingDates": 12,
+          "baselineTestDates": 7,
+          "trainingDateList": [],
+          "testDateList": [
+            "2026-10-12"
+          ],
+          "baselineTrainingDateList": [
+            "2026-09-10",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-02",
+            "2026-10-05"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": 0.7833333333333333,
+          "baseline": 0.8166666666666667
+        },
+        "reason": "independent_date_support;bootstrap_interval_includes_one_or_missing;chronological_noise_ratio_unstable",
+        "noiseScale": {
+          "trainingGroup": null,
+          "trainingBaseline": 60.72341284020295,
+          "testGroup": 101.15165312850732,
+          "testBaseline": 54.42169263230463
+        }
+      },
+      "midday": {
+        "type": "federal_only_holiday",
+        "session": "midday",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 60,
+        "candidateThresholdUsd": null,
+        "baselineThresholdUsd": 60,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": null,
+        "holdoutRatio": 0.9792065217569258,
+        "allDateRatio": 0.9438903494423824,
+        "appliedRatio": null,
+        "trainingRatioBootstrap95": null,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 1,
+          "baselineTrainingDates": 12,
+          "baselineTestDates": 7,
+          "trainingDateList": [],
+          "testDateList": [
+            "2026-10-12"
+          ],
+          "baselineTrainingDateList": [
+            "2026-09-11",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-01",
+            "2026-10-02"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": 0.8,
+          "baseline": 0.8
+        },
+        "reason": "independent_date_support;bootstrap_interval_includes_one_or_missing;chronological_noise_ratio_unstable",
+        "noiseScale": {
+          "trainingGroup": null,
+          "trainingBaseline": 68.6952050669148,
+          "testGroup": 64.65058986835942,
+          "testBaseline": 66.02344697660011
+        }
+      },
+      "night": {
+        "type": "federal_only_holiday",
+        "session": "night",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 80,
+        "candidateThresholdUsd": null,
+        "baselineThresholdUsd": 80,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": null,
+        "holdoutRatio": 0.9056452620339827,
+        "allDateRatio": 0.7506016525237476,
+        "appliedRatio": null,
+        "trainingRatioBootstrap95": null,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 1,
+          "baselineTrainingDates": 13,
+          "baselineTestDates": 7,
+          "trainingDateList": [],
+          "testDateList": [
+            "2026-10-12"
+          ],
+          "baselineTrainingDateList": [
+            "2026-09-10",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-01",
+            "2026-10-02",
+            "2026-10-05"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": 0.8166666666666667,
+          "baseline": 0.8166666666666667
+        },
+        "reason": "independent_date_support;bootstrap_interval_includes_one_or_missing;chronological_noise_ratio_unstable",
+        "noiseScale": {
+          "trainingGroup": null,
+          "trainingBaseline": 89.30430345064234,
+          "testGroup": 58.78888983422658,
+          "testBaseline": 64.9138159263297
+        }
+      }
+    },
+    "macro_release:cpi": {
+      "morning": {
+        "type": "macro_release:cpi",
+        "session": "morning",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 40,
+        "candidateThresholdUsd": null,
+        "baselineThresholdUsd": 40,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": null,
+        "holdoutRatio": null,
+        "allDateRatio": null,
+        "appliedRatio": null,
+        "trainingRatioBootstrap95": null,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 0,
+          "baselineTrainingDates": 12,
+          "baselineTestDates": 7,
+          "trainingDateList": [],
+          "testDateList": [],
+          "baselineTrainingDateList": [
+            "2026-09-10",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-02",
+            "2026-10-05"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": null,
+          "baseline": 0.8166666666666667
+        },
+        "reason": "independent_date_support;bootstrap_interval_includes_one_or_missing;chronological_noise_ratio_unstable;fresh_two_sided_liquidity_drop_over_20pp",
+        "noiseScale": {
+          "trainingGroup": null,
+          "trainingBaseline": 60.72341284020295,
+          "testGroup": null,
+          "testBaseline": 54.42169263230463
+        }
+      },
+      "midday": {
+        "type": "macro_release:cpi",
+        "session": "midday",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 60,
+        "candidateThresholdUsd": null,
+        "baselineThresholdUsd": 60,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": null,
+        "holdoutRatio": null,
+        "allDateRatio": null,
+        "appliedRatio": null,
+        "trainingRatioBootstrap95": null,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 0,
+          "baselineTrainingDates": 12,
+          "baselineTestDates": 7,
+          "trainingDateList": [],
+          "testDateList": [],
+          "baselineTrainingDateList": [
+            "2026-09-11",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-01",
+            "2026-10-02"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": null,
+          "baseline": 0.8
+        },
+        "reason": "independent_date_support;bootstrap_interval_includes_one_or_missing;chronological_noise_ratio_unstable;fresh_two_sided_liquidity_drop_over_20pp",
+        "noiseScale": {
+          "trainingGroup": null,
+          "trainingBaseline": 68.6952050669148,
+          "testGroup": null,
+          "testBaseline": 66.02344697660011
+        }
+      },
+      "night": {
+        "type": "macro_release:cpi",
+        "session": "night",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 80,
+        "candidateThresholdUsd": null,
+        "baselineThresholdUsd": 80,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": null,
+        "holdoutRatio": null,
+        "allDateRatio": null,
+        "appliedRatio": null,
+        "trainingRatioBootstrap95": null,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 0,
+          "baselineTrainingDates": 13,
+          "baselineTestDates": 7,
+          "trainingDateList": [],
+          "testDateList": [],
+          "baselineTrainingDateList": [
+            "2026-09-10",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-01",
+            "2026-10-02",
+            "2026-10-05"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": null,
+          "baseline": 0.8166666666666667
+        },
+        "reason": "independent_date_support;bootstrap_interval_includes_one_or_missing;chronological_noise_ratio_unstable;fresh_two_sided_liquidity_drop_over_20pp",
+        "noiseScale": {
+          "trainingGroup": null,
+          "trainingBaseline": 89.30430345064234,
+          "testGroup": null,
+          "testBaseline": 64.9138159263297
+        }
+      }
+    },
+    "macro_release:employment": {
+      "morning": {
+        "type": "macro_release:employment",
+        "session": "morning",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 40,
+        "candidateThresholdUsd": null,
+        "baselineThresholdUsd": 40,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": null,
+        "holdoutRatio": null,
+        "allDateRatio": null,
+        "appliedRatio": null,
+        "trainingRatioBootstrap95": null,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 0,
+          "baselineTrainingDates": 12,
+          "baselineTestDates": 7,
+          "trainingDateList": [],
+          "testDateList": [],
+          "baselineTrainingDateList": [
+            "2026-09-10",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-02",
+            "2026-10-05"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": null,
+          "baseline": 0.8166666666666667
+        },
+        "reason": "independent_date_support;bootstrap_interval_includes_one_or_missing;chronological_noise_ratio_unstable;fresh_two_sided_liquidity_drop_over_20pp",
+        "noiseScale": {
+          "trainingGroup": null,
+          "trainingBaseline": 60.72341284020295,
+          "testGroup": null,
+          "testBaseline": 54.42169263230463
+        }
+      },
+      "midday": {
+        "type": "macro_release:employment",
+        "session": "midday",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 60,
+        "candidateThresholdUsd": null,
+        "baselineThresholdUsd": 60,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": null,
+        "holdoutRatio": 1.877362886677826,
+        "allDateRatio": 1.8096537061018196,
+        "appliedRatio": null,
+        "trainingRatioBootstrap95": null,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 1,
+          "baselineTrainingDates": 12,
+          "baselineTestDates": 7,
+          "trainingDateList": [],
+          "testDateList": [
+            "2026-10-02"
+          ],
+          "baselineTrainingDateList": [
+            "2026-09-11",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-01",
+            "2026-10-02"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": 0.7916666666666667,
+          "baseline": 0.8
+        },
+        "reason": "independent_date_support;bootstrap_interval_includes_one_or_missing;chronological_noise_ratio_unstable",
+        "noiseScale": {
+          "trainingGroup": null,
+          "trainingBaseline": 68.6952050669148,
+          "testGroup": 123.94996900441038,
+          "testBaseline": 66.02344697660011
+        }
+      },
+      "night": {
+        "type": "macro_release:employment",
+        "session": "night",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 80,
+        "candidateThresholdUsd": null,
+        "baselineThresholdUsd": 80,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": null,
+        "holdoutRatio": null,
+        "allDateRatio": null,
+        "appliedRatio": null,
+        "trainingRatioBootstrap95": null,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 0,
+          "baselineTrainingDates": 13,
+          "baselineTestDates": 7,
+          "trainingDateList": [],
+          "testDateList": [],
+          "baselineTrainingDateList": [
+            "2026-09-10",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-01",
+            "2026-10-02",
+            "2026-10-05"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": null,
+          "baseline": 0.8166666666666667
+        },
+        "reason": "independent_date_support;bootstrap_interval_includes_one_or_missing;chronological_noise_ratio_unstable;fresh_two_sided_liquidity_drop_over_20pp",
+        "noiseScale": {
+          "trainingGroup": null,
+          "trainingBaseline": 89.30430345064234,
+          "testGroup": null,
+          "testBaseline": 64.9138159263297
+        }
+      }
+    },
+    "macro_release:fomc": {
+      "morning": {
+        "type": "macro_release:fomc",
+        "session": "morning",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 40,
+        "candidateThresholdUsd": null,
+        "baselineThresholdUsd": 40,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": null,
+        "holdoutRatio": null,
+        "allDateRatio": null,
+        "appliedRatio": null,
+        "trainingRatioBootstrap95": null,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 0,
+          "baselineTrainingDates": 12,
+          "baselineTestDates": 7,
+          "trainingDateList": [],
+          "testDateList": [],
+          "baselineTrainingDateList": [
+            "2026-09-10",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-02",
+            "2026-10-05"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": null,
+          "baseline": 0.8166666666666667
+        },
+        "reason": "independent_date_support;bootstrap_interval_includes_one_or_missing;chronological_noise_ratio_unstable;fresh_two_sided_liquidity_drop_over_20pp",
+        "noiseScale": {
+          "trainingGroup": null,
+          "trainingBaseline": 60.72341284020295,
+          "testGroup": null,
+          "testBaseline": 54.42169263230463
+        }
+      },
+      "midday": {
+        "type": "macro_release:fomc",
+        "session": "midday",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 60,
+        "candidateThresholdUsd": null,
+        "baselineThresholdUsd": 60,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": null,
+        "holdoutRatio": null,
+        "allDateRatio": null,
+        "appliedRatio": null,
+        "trainingRatioBootstrap95": null,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 0,
+          "baselineTrainingDates": 12,
+          "baselineTestDates": 7,
+          "trainingDateList": [],
+          "testDateList": [],
+          "baselineTrainingDateList": [
+            "2026-09-11",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-01",
+            "2026-10-02"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": null,
+          "baseline": 0.8
+        },
+        "reason": "independent_date_support;bootstrap_interval_includes_one_or_missing;chronological_noise_ratio_unstable;fresh_two_sided_liquidity_drop_over_20pp",
+        "noiseScale": {
+          "trainingGroup": null,
+          "trainingBaseline": 68.6952050669148,
+          "testGroup": null,
+          "testBaseline": 66.02344697660011
+        }
+      },
+      "night": {
+        "type": "macro_release:fomc",
+        "session": "night",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 80,
+        "candidateThresholdUsd": null,
+        "baselineThresholdUsd": 80,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": null,
+        "holdoutRatio": null,
+        "allDateRatio": null,
+        "appliedRatio": null,
+        "trainingRatioBootstrap95": null,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 0,
+          "baselineTrainingDates": 13,
+          "baselineTestDates": 7,
+          "trainingDateList": [],
+          "testDateList": [],
+          "baselineTrainingDateList": [
+            "2026-09-10",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-01",
+            "2026-10-02",
+            "2026-10-05"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": null,
+          "baseline": 0.8166666666666667
+        },
+        "reason": "independent_date_support;bootstrap_interval_includes_one_or_missing;chronological_noise_ratio_unstable;fresh_two_sided_liquidity_drop_over_20pp",
+        "noiseScale": {
+          "trainingGroup": null,
+          "trainingBaseline": 89.30430345064234,
+          "testGroup": null,
+          "testBaseline": 64.9138159263297
+        }
+      }
+    },
+    "macro_release:fomc+fomc_press": {
+      "morning": {
+        "type": "macro_release:fomc+fomc_press",
+        "session": "morning",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 40,
+        "candidateThresholdUsd": null,
+        "baselineThresholdUsd": 40,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": null,
+        "holdoutRatio": null,
+        "allDateRatio": null,
+        "appliedRatio": null,
+        "trainingRatioBootstrap95": null,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 0,
+          "baselineTrainingDates": 12,
+          "baselineTestDates": 7,
+          "trainingDateList": [],
+          "testDateList": [],
+          "baselineTrainingDateList": [
+            "2026-09-10",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-02",
+            "2026-10-05"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": null,
+          "baseline": 0.8166666666666667
+        },
+        "reason": "independent_date_support;bootstrap_interval_includes_one_or_missing;chronological_noise_ratio_unstable;fresh_two_sided_liquidity_drop_over_20pp",
+        "noiseScale": {
+          "trainingGroup": null,
+          "trainingBaseline": 60.72341284020295,
+          "testGroup": null,
+          "testBaseline": 54.42169263230463
+        }
+      },
+      "midday": {
+        "type": "macro_release:fomc+fomc_press",
+        "session": "midday",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 60,
+        "candidateThresholdUsd": null,
+        "baselineThresholdUsd": 60,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": null,
+        "holdoutRatio": null,
+        "allDateRatio": null,
+        "appliedRatio": null,
+        "trainingRatioBootstrap95": null,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 0,
+          "baselineTrainingDates": 12,
+          "baselineTestDates": 7,
+          "trainingDateList": [],
+          "testDateList": [],
+          "baselineTrainingDateList": [
+            "2026-09-11",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-01",
+            "2026-10-02"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": null,
+          "baseline": 0.8
+        },
+        "reason": "independent_date_support;bootstrap_interval_includes_one_or_missing;chronological_noise_ratio_unstable;fresh_two_sided_liquidity_drop_over_20pp",
+        "noiseScale": {
+          "trainingGroup": null,
+          "trainingBaseline": 68.6952050669148,
+          "testGroup": null,
+          "testBaseline": 66.02344697660011
+        }
+      },
+      "night": {
+        "type": "macro_release:fomc+fomc_press",
+        "session": "night",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 80,
+        "candidateThresholdUsd": null,
+        "baselineThresholdUsd": 80,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": null,
+        "holdoutRatio": null,
+        "allDateRatio": null,
+        "appliedRatio": null,
+        "trainingRatioBootstrap95": null,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 0,
+          "baselineTrainingDates": 13,
+          "baselineTestDates": 7,
+          "trainingDateList": [],
+          "testDateList": [],
+          "baselineTrainingDateList": [
+            "2026-09-10",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-01",
+            "2026-10-02",
+            "2026-10-05"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": null,
+          "baseline": 0.8166666666666667
+        },
+        "reason": "independent_date_support;bootstrap_interval_includes_one_or_missing;chronological_noise_ratio_unstable;fresh_two_sided_liquidity_drop_over_20pp",
+        "noiseScale": {
+          "trainingGroup": null,
+          "trainingBaseline": 89.30430345064234,
+          "testGroup": null,
+          "testBaseline": 64.9138159263297
+        }
+      }
+    },
+    "macro_release:fomc_minutes": {
+      "morning": {
+        "type": "macro_release:fomc_minutes",
+        "session": "morning",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 40,
+        "candidateThresholdUsd": null,
+        "baselineThresholdUsd": 40,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": null,
+        "holdoutRatio": null,
+        "allDateRatio": null,
+        "appliedRatio": null,
+        "trainingRatioBootstrap95": null,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 0,
+          "baselineTrainingDates": 12,
+          "baselineTestDates": 7,
+          "trainingDateList": [],
+          "testDateList": [],
+          "baselineTrainingDateList": [
+            "2026-09-10",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-02",
+            "2026-10-05"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": null,
+          "baseline": 0.8166666666666667
+        },
+        "reason": "independent_date_support;bootstrap_interval_includes_one_or_missing;chronological_noise_ratio_unstable;fresh_two_sided_liquidity_drop_over_20pp",
+        "noiseScale": {
+          "trainingGroup": null,
+          "trainingBaseline": 60.72341284020295,
+          "testGroup": null,
+          "testBaseline": 54.42169263230463
+        }
+      },
+      "midday": {
+        "type": "macro_release:fomc_minutes",
+        "session": "midday",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 60,
+        "candidateThresholdUsd": null,
+        "baselineThresholdUsd": 60,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": null,
+        "holdoutRatio": null,
+        "allDateRatio": null,
+        "appliedRatio": null,
+        "trainingRatioBootstrap95": null,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 0,
+          "baselineTrainingDates": 12,
+          "baselineTestDates": 7,
+          "trainingDateList": [],
+          "testDateList": [],
+          "baselineTrainingDateList": [
+            "2026-09-11",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-01",
+            "2026-10-02"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": null,
+          "baseline": 0.8
+        },
+        "reason": "independent_date_support;bootstrap_interval_includes_one_or_missing;chronological_noise_ratio_unstable;fresh_two_sided_liquidity_drop_over_20pp",
+        "noiseScale": {
+          "trainingGroup": null,
+          "trainingBaseline": 68.6952050669148,
+          "testGroup": null,
+          "testBaseline": 66.02344697660011
+        }
+      },
+      "night": {
+        "type": "macro_release:fomc_minutes",
+        "session": "night",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 80,
+        "candidateThresholdUsd": null,
+        "baselineThresholdUsd": 80,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": null,
+        "holdoutRatio": 0.9665389951222766,
+        "allDateRatio": 0.8010705707641639,
+        "appliedRatio": null,
+        "trainingRatioBootstrap95": null,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 1,
+          "baselineTrainingDates": 13,
+          "baselineTestDates": 7,
+          "trainingDateList": [],
+          "testDateList": [
+            "2026-10-07"
+          ],
+          "baselineTrainingDateList": [
+            "2026-09-10",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-01",
+            "2026-10-02",
+            "2026-10-05"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": 0.8166666666666667,
+          "baseline": 0.8166666666666667
+        },
+        "reason": "independent_date_support;bootstrap_interval_includes_one_or_missing;chronological_noise_ratio_unstable",
+        "noiseScale": {
+          "trainingGroup": null,
+          "trainingBaseline": 89.30430345064234,
+          "testGroup": 62.74173441498715,
+          "testBaseline": 64.9138159263297
+        }
+      }
+    },
+    "macro_release:fomc_press": {
+      "morning": {
+        "type": "macro_release:fomc_press",
+        "session": "morning",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 40,
+        "candidateThresholdUsd": null,
+        "baselineThresholdUsd": 40,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": null,
+        "holdoutRatio": null,
+        "allDateRatio": null,
+        "appliedRatio": null,
+        "trainingRatioBootstrap95": null,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 0,
+          "baselineTrainingDates": 12,
+          "baselineTestDates": 7,
+          "trainingDateList": [],
+          "testDateList": [],
+          "baselineTrainingDateList": [
+            "2026-09-10",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-02",
+            "2026-10-05"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": null,
+          "baseline": 0.8166666666666667
+        },
+        "reason": "independent_date_support;bootstrap_interval_includes_one_or_missing;chronological_noise_ratio_unstable;fresh_two_sided_liquidity_drop_over_20pp",
+        "noiseScale": {
+          "trainingGroup": null,
+          "trainingBaseline": 60.72341284020295,
+          "testGroup": null,
+          "testBaseline": 54.42169263230463
+        }
+      },
+      "midday": {
+        "type": "macro_release:fomc_press",
+        "session": "midday",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 60,
+        "candidateThresholdUsd": null,
+        "baselineThresholdUsd": 60,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": null,
+        "holdoutRatio": null,
+        "allDateRatio": null,
+        "appliedRatio": null,
+        "trainingRatioBootstrap95": null,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 0,
+          "baselineTrainingDates": 12,
+          "baselineTestDates": 7,
+          "trainingDateList": [],
+          "testDateList": [],
+          "baselineTrainingDateList": [
+            "2026-09-11",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-01",
+            "2026-10-02"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": null,
+          "baseline": 0.8
+        },
+        "reason": "independent_date_support;bootstrap_interval_includes_one_or_missing;chronological_noise_ratio_unstable;fresh_two_sided_liquidity_drop_over_20pp",
+        "noiseScale": {
+          "trainingGroup": null,
+          "trainingBaseline": 68.6952050669148,
+          "testGroup": null,
+          "testBaseline": 66.02344697660011
+        }
+      },
+      "night": {
+        "type": "macro_release:fomc_press",
+        "session": "night",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 80,
+        "candidateThresholdUsd": null,
+        "baselineThresholdUsd": 80,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": null,
+        "holdoutRatio": null,
+        "allDateRatio": null,
+        "appliedRatio": null,
+        "trainingRatioBootstrap95": null,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 0,
+          "baselineTrainingDates": 13,
+          "baselineTestDates": 7,
+          "trainingDateList": [],
+          "testDateList": [],
+          "baselineTrainingDateList": [
+            "2026-09-10",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-01",
+            "2026-10-02",
+            "2026-10-05"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": null,
+          "baseline": 0.8166666666666667
+        },
+        "reason": "independent_date_support;bootstrap_interval_includes_one_or_missing;chronological_noise_ratio_unstable;fresh_two_sided_liquidity_drop_over_20pp",
+        "noiseScale": {
+          "trainingGroup": null,
+          "trainingBaseline": 89.30430345064234,
+          "testGroup": null,
+          "testBaseline": 64.9138159263297
+        }
+      }
+    },
+    "macro_release:ppi": {
+      "morning": {
+        "type": "macro_release:ppi",
+        "session": "morning",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 40,
+        "candidateThresholdUsd": null,
+        "baselineThresholdUsd": 40,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": null,
+        "holdoutRatio": null,
+        "allDateRatio": null,
+        "appliedRatio": null,
+        "trainingRatioBootstrap95": null,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 0,
+          "baselineTrainingDates": 12,
+          "baselineTestDates": 7,
+          "trainingDateList": [],
+          "testDateList": [],
+          "baselineTrainingDateList": [
+            "2026-09-10",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-02",
+            "2026-10-05"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": null,
+          "baseline": 0.8166666666666667
+        },
+        "reason": "independent_date_support;bootstrap_interval_includes_one_or_missing;chronological_noise_ratio_unstable;fresh_two_sided_liquidity_drop_over_20pp",
+        "noiseScale": {
+          "trainingGroup": null,
+          "trainingBaseline": 60.72341284020295,
+          "testGroup": null,
+          "testBaseline": 54.42169263230463
+        }
+      },
+      "midday": {
+        "type": "macro_release:ppi",
+        "session": "midday",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 60,
+        "candidateThresholdUsd": null,
+        "baselineThresholdUsd": 60,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": null,
+        "holdoutRatio": 1.0057429075411821,
+        "allDateRatio": 0.9694696709586429,
+        "appliedRatio": null,
+        "trainingRatioBootstrap95": null,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 1,
+          "baselineTrainingDates": 12,
+          "baselineTestDates": 7,
+          "trainingDateList": [],
+          "testDateList": [
+            "2026-10-15"
+          ],
+          "baselineTrainingDateList": [
+            "2026-09-11",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-01",
+            "2026-10-02"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": 0.8166666666666667,
+          "baseline": 0.8
+        },
+        "reason": "independent_date_support;bootstrap_interval_includes_one_or_missing;chronological_noise_ratio_unstable",
+        "noiseScale": {
+          "trainingGroup": null,
+          "trainingBaseline": 68.6952050669148,
+          "testGroup": 66.40261352813687,
+          "testBaseline": 66.02344697660011
+        }
+      },
+      "night": {
+        "type": "macro_release:ppi",
+        "session": "night",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 80,
+        "candidateThresholdUsd": null,
+        "baselineThresholdUsd": 80,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": null,
+        "holdoutRatio": null,
+        "allDateRatio": null,
+        "appliedRatio": null,
+        "trainingRatioBootstrap95": null,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 0,
+          "baselineTrainingDates": 13,
+          "baselineTestDates": 7,
+          "trainingDateList": [],
+          "testDateList": [],
+          "baselineTrainingDateList": [
+            "2026-09-10",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-01",
+            "2026-10-02",
+            "2026-10-05"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": null,
+          "baseline": 0.8166666666666667
+        },
+        "reason": "independent_date_support;bootstrap_interval_includes_one_or_missing;chronological_noise_ratio_unstable;fresh_two_sided_liquidity_drop_over_20pp",
+        "noiseScale": {
+          "trainingGroup": null,
+          "trainingBaseline": 89.30430345064234,
+          "testGroup": null,
+          "testBaseline": 64.9138159263297
+        }
+      }
+    },
+    "nyse_closed": {
+      "morning": {
+        "type": "nyse_closed",
+        "session": "morning",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 40,
+        "candidateThresholdUsd": null,
+        "baselineThresholdUsd": 40,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": null,
+        "holdoutRatio": null,
+        "allDateRatio": null,
+        "appliedRatio": null,
+        "trainingRatioBootstrap95": null,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 0,
+          "baselineTrainingDates": 12,
+          "baselineTestDates": 7,
+          "trainingDateList": [],
+          "testDateList": [],
+          "baselineTrainingDateList": [
+            "2026-09-10",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-02",
+            "2026-10-05"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": null,
+          "baseline": 0.8166666666666667
+        },
+        "reason": "independent_date_support;bootstrap_interval_includes_one_or_missing;chronological_noise_ratio_unstable;fresh_two_sided_liquidity_drop_over_20pp",
+        "noiseScale": {
+          "trainingGroup": null,
+          "trainingBaseline": 60.72341284020295,
+          "testGroup": null,
+          "testBaseline": 54.42169263230463
+        }
+      },
+      "midday": {
+        "type": "nyse_closed",
+        "session": "midday",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 60,
+        "candidateThresholdUsd": null,
+        "baselineThresholdUsd": 60,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": null,
+        "holdoutRatio": null,
+        "allDateRatio": null,
+        "appliedRatio": null,
+        "trainingRatioBootstrap95": null,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 0,
+          "baselineTrainingDates": 12,
+          "baselineTestDates": 7,
+          "trainingDateList": [],
+          "testDateList": [],
+          "baselineTrainingDateList": [
+            "2026-09-11",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-01",
+            "2026-10-02"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": null,
+          "baseline": 0.8
+        },
+        "reason": "independent_date_support;bootstrap_interval_includes_one_or_missing;chronological_noise_ratio_unstable;fresh_two_sided_liquidity_drop_over_20pp",
+        "noiseScale": {
+          "trainingGroup": null,
+          "trainingBaseline": 68.6952050669148,
+          "testGroup": null,
+          "testBaseline": 66.02344697660011
+        }
+      },
+      "night": {
+        "type": "nyse_closed",
+        "session": "night",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 80,
+        "candidateThresholdUsd": null,
+        "baselineThresholdUsd": 80,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": null,
+        "holdoutRatio": null,
+        "allDateRatio": null,
+        "appliedRatio": null,
+        "trainingRatioBootstrap95": null,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 0,
+          "baselineTrainingDates": 13,
+          "baselineTestDates": 7,
+          "trainingDateList": [],
+          "testDateList": [],
+          "baselineTrainingDateList": [
+            "2026-09-10",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-01",
+            "2026-10-02",
+            "2026-10-05"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": null,
+          "baseline": 0.8166666666666667
+        },
+        "reason": "independent_date_support;bootstrap_interval_includes_one_or_missing;chronological_noise_ratio_unstable;fresh_two_sided_liquidity_drop_over_20pp",
+        "noiseScale": {
+          "trainingGroup": null,
+          "trainingBaseline": 89.30430345064234,
+          "testGroup": null,
+          "testBaseline": 64.9138159263297
+        }
+      }
+    },
+    "regular_weekday": {
+      "morning": {
+        "type": "regular_weekday",
+        "session": "morning",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 40,
+        "candidateThresholdUsd": 40,
+        "baselineThresholdUsd": 40,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": 1,
+        "holdoutRatio": 1,
+        "allDateRatio": 1,
+        "appliedRatio": 1,
+        "trainingRatioBootstrap95": [
+          0.7803800087675878,
+          1.283140742148564
+        ],
+        "support": {
+          "trainingDates": 12,
+          "testDates": 7,
+          "baselineTrainingDates": 12,
+          "baselineTestDates": 7,
+          "trainingDateList": [
+            "2026-09-10",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-02",
+            "2026-10-05"
+          ],
+          "testDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ],
+          "baselineTrainingDateList": [
+            "2026-09-10",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-02",
+            "2026-10-05"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": 0.8166666666666667,
+          "baseline": 0.8166666666666667
+        },
+        "reason": "bootstrap_interval_includes_one_or_missing;chronological_noise_ratio_unstable",
+        "noiseScale": {
+          "trainingGroup": 60.72341284020295,
+          "trainingBaseline": 60.72341284020295,
+          "testGroup": 54.42169263230463,
+          "testBaseline": 54.42169263230463
+        }
+      },
+      "midday": {
+        "type": "regular_weekday",
+        "session": "midday",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 60,
+        "candidateThresholdUsd": 60,
+        "baselineThresholdUsd": 60,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": 1,
+        "holdoutRatio": 1,
+        "allDateRatio": 1,
+        "appliedRatio": 1,
+        "trainingRatioBootstrap95": [
+          0.7689167144471042,
+          1.287073786306855
+        ],
+        "support": {
+          "trainingDates": 12,
+          "testDates": 7,
+          "baselineTrainingDates": 12,
+          "baselineTestDates": 7,
+          "trainingDateList": [
+            "2026-09-11",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-01",
+            "2026-10-02"
+          ],
+          "testDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ],
+          "baselineTrainingDateList": [
+            "2026-09-11",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-01",
+            "2026-10-02"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": 0.8,
+          "baseline": 0.8
+        },
+        "reason": "bootstrap_interval_includes_one_or_missing;chronological_noise_ratio_unstable",
+        "noiseScale": {
+          "trainingGroup": 68.6952050669148,
+          "trainingBaseline": 68.6952050669148,
+          "testGroup": 66.02344697660011,
+          "testBaseline": 66.02344697660011
+        }
+      },
+      "night": {
+        "type": "regular_weekday",
+        "session": "night",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 80,
+        "candidateThresholdUsd": 80,
+        "baselineThresholdUsd": 80,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": 1,
+        "holdoutRatio": 1,
+        "allDateRatio": 1,
+        "appliedRatio": 1,
+        "trainingRatioBootstrap95": [
+          0.8155151515108947,
+          1.2262187871645458
+        ],
+        "support": {
+          "trainingDates": 13,
+          "testDates": 7,
+          "baselineTrainingDates": 13,
+          "baselineTestDates": 7,
+          "trainingDateList": [
+            "2026-09-10",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-01",
+            "2026-10-02",
+            "2026-10-05"
+          ],
+          "testDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ],
+          "baselineTrainingDateList": [
+            "2026-09-10",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-01",
+            "2026-10-02",
+            "2026-10-05"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": 0.8166666666666667,
+          "baseline": 0.8166666666666667
+        },
+        "reason": "bootstrap_interval_includes_one_or_missing;chronological_noise_ratio_unstable",
+        "noiseScale": {
+          "trainingGroup": 89.30430345064234,
+          "trainingBaseline": 89.30430345064234,
+          "testGroup": 64.9138159263297,
+          "testBaseline": 64.9138159263297
+        }
+      }
+    },
+    "weekend": {
+      "morning": {
+        "type": "weekend",
+        "session": "morning",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 35,
+        "candidateThresholdUsd": 35,
+        "baselineThresholdUsd": 40,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": 0.8192875879902645,
+        "holdoutRatio": 0.9339679234835714,
+        "allDateRatio": 0.8722624755112174,
+        "appliedRatio": 0.8192875879902645,
+        "trainingRatioBootstrap95": [
+          0.2502205335006878,
+          1.6384989945567061
+        ],
+        "support": {
+          "trainingDates": 5,
+          "testDates": 3,
+          "baselineTrainingDates": 12,
+          "baselineTestDates": 7,
+          "trainingDateList": [
+            "2026-09-12",
+            "2026-09-13",
+            "2026-09-19",
+            "2026-09-20",
+            "2026-10-03"
+          ],
+          "testDateList": [
+            "2026-10-10",
+            "2026-10-11",
+            "2026-10-17"
+          ],
+          "baselineTrainingDateList": [
+            "2026-09-10",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-02",
+            "2026-10-05"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": 0.8208333333333333,
+          "baseline": 0.8166666666666667
+        },
+        "reason": "independent_date_support;bootstrap_interval_includes_one_or_missing",
+        "noiseScale": {
+          "trainingGroup": 49.74993844038693,
+          "trainingBaseline": 60.72341284020295,
+          "testGroup": 50.82811526025473,
+          "testBaseline": 54.42169263230463
+        }
+      },
+      "midday": {
+        "type": "weekend",
+        "session": "midday",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 30,
+        "candidateThresholdUsd": 30,
+        "baselineThresholdUsd": 60,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": 0.47055068795442606,
+        "holdoutRatio": 0.3537046313584242,
+        "allDateRatio": 0.4080778056042417,
+        "appliedRatio": 0.5,
+        "trainingRatioBootstrap95": [
+          0.25782760084248507,
+          0.5880565683478765
+        ],
+        "support": {
+          "trainingDates": 7,
+          "testDates": 4,
+          "baselineTrainingDates": 12,
+          "baselineTestDates": 7,
+          "trainingDateList": [
+            "2026-09-12",
+            "2026-09-13",
+            "2026-09-19",
+            "2026-09-20",
+            "2026-09-26",
+            "2026-10-03",
+            "2026-10-04"
+          ],
+          "testDateList": [
+            "2026-10-10",
+            "2026-10-11",
+            "2026-10-17",
+            "2026-10-18"
+          ],
+          "baselineTrainingDateList": [
+            "2026-09-11",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-01",
+            "2026-10-02"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": 0.8333333333333334,
+          "baseline": 0.8
+        },
+        "reason": "chronological_noise_ratio_unstable",
+        "noiseScale": {
+          "trainingGroup": 32.32457600340713,
+          "trainingBaseline": 68.6952050669148,
+          "testGroup": 23.35279897387081,
+          "testBaseline": 66.02344697660011
+        }
+      },
+      "night": {
+        "type": "weekend",
+        "session": "night",
+        "baseline": "primary_regular_weekday_outside_event_windows",
+        "thresholdUsd": 40,
+        "candidateThresholdUsd": 40,
+        "baselineThresholdUsd": 80,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "trainingRatio": 0.38529499935583966,
+        "holdoutRatio": 0.5278932178917389,
+        "allDateRatio": 0.4375195656803977,
+        "appliedRatio": 0.5,
+        "trainingRatioBootstrap95": [
+          0.2579432672873004,
+          0.7039865587918861
+        ],
+        "support": {
+          "trainingDates": 6,
+          "testDates": 3,
+          "baselineTrainingDates": 13,
+          "baselineTestDates": 7,
+          "trainingDateList": [
+            "2026-09-12",
+            "2026-09-13",
+            "2026-09-19",
+            "2026-09-20",
+            "2026-10-03",
+            "2026-10-04"
+          ],
+          "testDateList": [
+            "2026-10-10",
+            "2026-10-11",
+            "2026-10-17"
+          ],
+          "baselineTrainingDateList": [
+            "2026-09-10",
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-16",
+            "2026-09-17",
+            "2026-09-21",
+            "2026-09-22",
+            "2026-09-23",
+            "2026-09-24",
+            "2026-09-25",
+            "2026-10-01",
+            "2026-10-02",
+            "2026-10-05"
+          ],
+          "baselineTestDateList": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15"
+          ]
+        },
+        "freshBookFraction": {
+          "group": 0.8166666666666667,
+          "baseline": 0.8166666666666667
+        },
+        "reason": "chronological_noise_ratio_unstable",
+        "noiseScale": {
+          "trainingGroup": 34.40850154048895,
+          "trainingBaseline": 89.30430345064234,
+          "testGroup": 34.2675631749822,
+          "testBaseline": 64.9138159263297
+        }
+      }
+    },
+    "nyse_early_close": {
+      "morning": {
+        "thresholdUsd": 40,
+        "baselineThresholdUsd": 40,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 0
+        },
+        "reason": "no_observed_complete_noise_dates"
+      },
+      "midday": {
+        "thresholdUsd": 60,
+        "baselineThresholdUsd": 60,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 0
+        },
+        "reason": "no_observed_complete_noise_dates"
+      },
+      "night": {
+        "thresholdUsd": 80,
+        "baselineThresholdUsd": 80,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 0
+        },
+        "reason": "no_observed_complete_noise_dates"
+      }
+    },
+    "macro_release": {
+      "morning": {
+        "thresholdUsd": 40,
+        "baselineThresholdUsd": 40,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 0
+        },
+        "reason": "no_observed_complete_noise_dates"
+      },
+      "midday": {
+        "thresholdUsd": 60,
+        "baselineThresholdUsd": 60,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 0
+        },
+        "reason": "no_observed_complete_noise_dates"
+      },
+      "night": {
+        "thresholdUsd": 80,
+        "baselineThresholdUsd": 80,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 0
+        },
+        "reason": "no_observed_complete_noise_dates"
+      }
+    },
+    "crypto_expiry": {
+      "morning": {
+        "thresholdUsd": 40,
+        "baselineThresholdUsd": 40,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 0
+        },
+        "reason": "no_observed_complete_noise_dates"
+      },
+      "midday": {
+        "thresholdUsd": 60,
+        "baselineThresholdUsd": 60,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 0
+        },
+        "reason": "no_observed_complete_noise_dates"
+      },
+      "night": {
+        "thresholdUsd": 80,
+        "baselineThresholdUsd": 80,
+        "admitted": false,
+        "calibration": "noise-scale-only",
+        "profitabilityVerified": false,
+        "support": {
+          "trainingDates": 0,
+          "testDates": 0
+        },
+        "reason": "no_observed_complete_noise_dates"
+      }
+    }
+  }
+}

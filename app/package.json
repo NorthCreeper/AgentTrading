@@ -1,0 +1,13 @@
+{
+  "name": "btc5m-standalone",
+  "private": true,
+  "version": "1.0.6",
+  "type": "module",
+  "engines": {
+    "node": "24.19.0"
+  },
+  "dependencies": {
+    "@polymarket/client": "0.17.0",
+    "viem": "2.46.3"
+  }
+}

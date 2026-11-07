@@ -1,0 +1,114 @@
+{
+  "createdAt": "2026-09-11T00:42:30.964Z",
+  "modelId": "settlement-forward-v1-278566a1",
+  "protocol": "Only newly collected opening-correct samples. Fixed prior model/thresholds; 60/20/20 chronological whole rounds, no parameter search. Train only on labels actually received before first validation observation. Missing labels remain excluded in their original cohort. Segments start independent $10/$2 ledgers. Cash is released at recorded verified-result receipt time.",
+  "config": {
+    "version": "settlement-probability-v1",
+    "size": 5,
+    "entryAgeMs": 120000,
+    "entryWindowMs": 5000,
+    "staleMs": 3000,
+    "maxSpread": 0.04,
+    "minEdge": 0.03,
+    "buffer": 0.01,
+    "probabilityHaircut": 0.03,
+    "ridge": 20,
+    "maxLogitCorrection": 0.75,
+    "minTrainingRounds": 30,
+    "minValidationRounds": 15,
+    "minDiagnosticRounds": 15,
+    "minTrades": 10
+  },
+  "frozenSamples": 118,
+  "parts": {
+    "train": 67,
+    "validation": 24,
+    "diagnostic": 21
+  },
+  "usableRounds": 112,
+  "excluded": [
+    {
+      "slug": "btc-updown-5m-1789071300",
+      "part": "train",
+      "reason": "Training label not yet received at virtual fit time"
+    },
+    {
+      "slug": "btc-updown-5m-1789071600",
+      "part": "train",
+      "reason": "Training label not yet received at virtual fit time"
+    },
+    {
+      "slug": "btc-updown-5m-1789071900",
+      "part": "train",
+      "reason": "Training label not yet received at virtual fit time"
+    },
+    {
+      "slug": "btc-updown-5m-1789086000",
+      "part": "diagnostic",
+      "reason": "Result not available at study cutoff"
+    },
+    {
+      "slug": "btc-updown-5m-1789086300",
+      "part": "diagnostic",
+      "reason": "Result not available at study cutoff"
+    },
+    {
+      "slug": "btc-updown-5m-1789086600",
+      "part": "diagnostic",
+      "reason": "Result not available at study cutoff"
+    }
+  ],
+  "validation": {
+    "rounds": 24,
+    "predictions": 24,
+    "brier": 0.17224603251276205,
+    "marketBrier": 0.17577890025750606,
+    "entries": 0,
+    "settled": 0,
+    "pending": 0,
+    "cash": 0,
+    "net": 0,
+    "fees": 0,
+    "capitalAtRisk": 0,
+    "last": null,
+    "mean": null,
+    "lowerMeanHeuristic": null,
+    "stressNet": 0,
+    "independentCandidateCount": 0,
+    "independentCandidateNet": 0,
+    "candidates": [],
+    "trades": []
+  },
+  "diagnostic": {
+    "rounds": 21,
+    "predictions": 21,
+    "brier": 0.18123341343705207,
+    "marketBrier": 0.18117738095238098,
+    "entries": 0,
+    "settled": 0,
+    "pending": 0,
+    "cash": 0,
+    "net": 0,
+    "fees": 0,
+    "capitalAtRisk": 0,
+    "last": null,
+    "mean": null,
+    "lowerMeanHeuristic": null,
+    "stressNet": 0,
+    "independentCandidateCount": 0,
+    "independentCandidateNet": 0,
+    "candidates": [],
+    "trades": []
+  },
+  "promotion": {
+    "eligible": false,
+    "historicalPassed": false,
+    "reason": "新采集数据的收益或校准检验未通过；仅独立影子记账"
+  },
+  "limitations": [
+    "Data was collected prospectively, but this model is fitted and scored afterward; it is not an online prospective trading result.",
+    "Fewer than ten settled trades or poor probability coverage/calibration fails the gate even if net is positive.",
+    "Probability haircut is an engineering margin, not a confidence bound. No real fills, redemption transport or gas are modeled.",
+    "Each evaluation segment has a separate risk ledger; segment profit must not be read as a continuous account return."
+  ]
+}

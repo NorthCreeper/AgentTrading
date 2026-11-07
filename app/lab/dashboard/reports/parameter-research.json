@@ -1,0 +1,1236 @@
+{
+  "protocol": {
+    "version": "bounded-grid-v1",
+    "createdAt": "2026-09-09T16:24:00.753Z",
+    "inputSha256": "aa0920cf0c42d1c51100bfa36de00f0a962f7b199a77a698ee37061b08db784a",
+    "cutoffFromPreviousReview": "2026-09-08T15:25:25.617Z",
+    "totalFrames": 12835,
+    "totalRounds": 56,
+    "development": {
+      "frames": 7650,
+      "rounds": 33,
+      "first": 1788829338764,
+      "last": 1788880203736
+    },
+    "validation": {
+      "frames": 1890,
+      "rounds": 11,
+      "first": 1788881838647,
+      "last": 1788886798730
+    },
+    "test": {
+      "frames": 3139,
+      "rounds": 11,
+      "first": 1788886801199,
+      "last": 1788890066510
+    },
+    "excludedFrames": 156,
+    "candidates": [
+      {
+        "id": "edge1-hold10-maker5",
+        "config": {
+          "maxExposure": 10,
+          "maxLoss": 2,
+          "size": 5,
+          "makerMs": 5000,
+          "exitMakerMs": 2000,
+          "holdMs": 10000,
+          "staleMs": 3000
+        },
+        "strategy": {
+          "execution": "paper",
+          "minNetEdge": 0.01,
+          "costBuffer": 0.01,
+          "maxSpread": 0.04,
+          "stopLossUsd": 0.5
+        }
+      },
+      {
+        "id": "edge1-hold10-maker10",
+        "config": {
+          "maxExposure": 10,
+          "maxLoss": 2,
+          "size": 5,
+          "makerMs": 10000,
+          "exitMakerMs": 2000,
+          "holdMs": 10000,
+          "staleMs": 3000
+        },
+        "strategy": {
+          "execution": "paper",
+          "minNetEdge": 0.01,
+          "costBuffer": 0.01,
+          "maxSpread": 0.04,
+          "stopLossUsd": 0.5
+        }
+      },
+      {
+        "id": "edge1-hold15-maker5",
+        "config": {
+          "maxExposure": 10,
+          "maxLoss": 2,
+          "size": 5,
+          "makerMs": 5000,
+          "exitMakerMs": 2000,
+          "holdMs": 15000,
+          "staleMs": 3000
+        },
+        "strategy": {
+          "execution": "paper",
+          "minNetEdge": 0.01,
+          "costBuffer": 0.01,
+          "maxSpread": 0.04,
+          "stopLossUsd": 0.5
+        }
+      },
+      {
+        "id": "edge1-hold15-maker10",
+        "config": {
+          "maxExposure": 10,
+          "maxLoss": 2,
+          "size": 5,
+          "makerMs": 10000,
+          "exitMakerMs": 2000,
+          "holdMs": 15000,
+          "staleMs": 3000
+        },
+        "strategy": {
+          "execution": "paper",
+          "minNetEdge": 0.01,
+          "costBuffer": 0.01,
+          "maxSpread": 0.04,
+          "stopLossUsd": 0.5
+        }
+      },
+      {
+        "id": "edge2-hold10-maker5",
+        "config": {
+          "maxExposure": 10,
+          "maxLoss": 2,
+          "size": 5,
+          "makerMs": 5000,
+          "exitMakerMs": 2000,
+          "holdMs": 10000,
+          "staleMs": 3000
+        },
+        "strategy": {
+          "execution": "paper",
+          "minNetEdge": 0.02,
+          "costBuffer": 0.01,
+          "maxSpread": 0.04,
+          "stopLossUsd": 0.5
+        }
+      },
+      {
+        "id": "edge2-hold10-maker10",
+        "config": {
+          "maxExposure": 10,
+          "maxLoss": 2,
+          "size": 5,
+          "makerMs": 10000,
+          "exitMakerMs": 2000,
+          "holdMs": 10000,
+          "staleMs": 3000
+        },
+        "strategy": {
+          "execution": "paper",
+          "minNetEdge": 0.02,
+          "costBuffer": 0.01,
+          "maxSpread": 0.04,
+          "stopLossUsd": 0.5
+        }
+      },
+      {
+        "id": "edge2-hold15-maker5",
+        "config": {
+          "maxExposure": 10,
+          "maxLoss": 2,
+          "size": 5,
+          "makerMs": 5000,
+          "exitMakerMs": 2000,
+          "holdMs": 15000,
+          "staleMs": 3000
+        },
+        "strategy": {
+          "execution": "paper",
+          "minNetEdge": 0.02,
+          "costBuffer": 0.01,
+          "maxSpread": 0.04,
+          "stopLossUsd": 0.5
+        }
+      },
+      {
+        "id": "edge2-hold15-maker10",
+        "config": {
+          "maxExposure": 10,
+          "maxLoss": 2,
+          "size": 5,
+          "makerMs": 10000,
+          "exitMakerMs": 2000,
+          "holdMs": 15000,
+          "staleMs": 3000
+        },
+        "strategy": {
+          "execution": "paper",
+          "minNetEdge": 0.02,
+          "costBuffer": 0.01,
+          "maxSpread": 0.04,
+          "stopLossUsd": 0.5
+        }
+      }
+    ],
+    "selection": "Only development and validation: require >=3 and >=2 completed trades, flat, no halt; maximize the worse segment score (net - 0.25 * realized drawdown) / completed trades. Tie: nearer original profile. If none qualify keep original. Final test never selects or retunes.",
+    "assumptions": [
+      "Production strategy and lifecycle; independent account per segment; max loss and exposure unchanged.",
+      "Maker fills are zero without trade events; takers use visible depth and market fee parameters.",
+      "No queue/latency/settlement model; timestamps may have gaps; remaining inventory is not treated as closed.",
+      "Prior reviewed data is development only. After this run the final segment is no longer unseen."
+    ]
+  },
+  "results": [
+    {
+      "id": "edge1-hold10-maker5",
+      "development": {
+        "frames": 7650,
+        "rounds": 33,
+        "first": 1788829338764,
+        "last": 1788880203736,
+        "net": -2.07079,
+        "fees": 1.77079,
+        "closedTrades": 11,
+        "winningTrades": 5,
+        "realizedDrawdown": 2.19522,
+        "score": -0.238145,
+        "orders": 31,
+        "makerOrders": 9,
+        "remainingPositions": {},
+        "halted": null,
+        "trades": [
+          {
+            "time": 1788829579232,
+            "slug": "btc-updown-5m-1788829500",
+            "net": 0.03375,
+            "fees": 0.16625
+          },
+          {
+            "time": 1788829879340,
+            "slug": "btc-updown-5m-1788829800",
+            "net": -0.2743,
+            "fees": 0.1743
+          },
+          {
+            "time": 1788830462911,
+            "slug": "btc-updown-5m-1788830400",
+            "net": 0.32787,
+            "fees": 0.17213
+          },
+          {
+            "time": 1788830756848,
+            "slug": "btc-updown-5m-1788830700",
+            "net": 0.03711,
+            "fees": 0.16289
+          },
+          {
+            "time": 1788831397499,
+            "slug": "btc-updown-5m-1788831300",
+            "net": -0.17437,
+            "fees": 0.17437
+          },
+          {
+            "time": 1788831934667,
+            "slug": "btc-updown-5m-1788831900",
+            "net": -0.56688,
+            "fees": 0.16688
+          },
+          {
+            "time": 1788832241096,
+            "slug": "btc-updown-5m-1788832200",
+            "net": -0.66982,
+            "fees": 0.16982
+          },
+          {
+            "time": 1788832856589,
+            "slug": "btc-updown-5m-1788832800",
+            "net": 0.25412,
+            "fees": 0.14588
+          },
+          {
+            "time": 1788833551324,
+            "slug": "btc-updown-5m-1788833400",
+            "net": -0.570645,
+            "fees": 0.120645
+          },
+          {
+            "time": 1788835058185,
+            "slug": "btc-updown-5m-1788834900",
+            "net": 0.1509,
+            "fees": 0.1491
+          },
+          {
+            "time": 1788835568383,
+            "slug": "btc-updown-5m-1788835500",
+            "net": -0.618525,
+            "fees": 0.168525
+          }
+        ]
+      },
+      "validation": {
+        "frames": 1890,
+        "rounds": 11,
+        "first": 1788881838647,
+        "last": 1788886798730,
+        "net": -0.561005,
+        "fees": 0.411005,
+        "closedTrades": 3,
+        "winningTrades": 1,
+        "realizedDrawdown": 0.6101,
+        "score": -0.23784333,
+        "orders": 8,
+        "makerOrders": 2,
+        "remainingPositions": {},
+        "halted": null,
+        "trades": [
+          {
+            "time": 1788881884155,
+            "slug": "btc-updown-5m-1788881700",
+            "net": 0.049095,
+            "fees": 0.100905
+          },
+          {
+            "time": 1788882073489,
+            "slug": "btc-updown-5m-1788882000",
+            "net": -0.27241,
+            "fees": 0.17241
+          },
+          {
+            "time": 1788886230877,
+            "slug": "btc-updown-5m-1788886200",
+            "net": -0.33769,
+            "fees": 0.13769
+          }
+        ]
+      }
+    },
+    {
+      "id": "edge1-hold10-maker10",
+      "development": {
+        "frames": 7650,
+        "rounds": 33,
+        "first": 1788829338764,
+        "last": 1788880203736,
+        "net": -2.07079,
+        "fees": 1.77079,
+        "closedTrades": 11,
+        "winningTrades": 5,
+        "realizedDrawdown": 2.19522,
+        "score": -0.238145,
+        "orders": 31,
+        "makerOrders": 9,
+        "remainingPositions": {},
+        "halted": null,
+        "trades": [
+          {
+            "time": 1788829579232,
+            "slug": "btc-updown-5m-1788829500",
+            "net": 0.03375,
+            "fees": 0.16625
+          },
+          {
+            "time": 1788829879340,
+            "slug": "btc-updown-5m-1788829800",
+            "net": -0.2743,
+            "fees": 0.1743
+          },
+          {
+            "time": 1788830462911,
+            "slug": "btc-updown-5m-1788830400",
+            "net": 0.32787,
+            "fees": 0.17213
+          },
+          {
+            "time": 1788830756848,
+            "slug": "btc-updown-5m-1788830700",
+            "net": 0.03711,
+            "fees": 0.16289
+          },
+          {
+            "time": 1788831397499,
+            "slug": "btc-updown-5m-1788831300",
+            "net": -0.17437,
+            "fees": 0.17437
+          },
+          {
+            "time": 1788831934667,
+            "slug": "btc-updown-5m-1788831900",
+            "net": -0.56688,
+            "fees": 0.16688
+          },
+          {
+            "time": 1788832241096,
+            "slug": "btc-updown-5m-1788832200",
+            "net": -0.66982,
+            "fees": 0.16982
+          },
+          {
+            "time": 1788832856589,
+            "slug": "btc-updown-5m-1788832800",
+            "net": 0.25412,
+            "fees": 0.14588
+          },
+          {
+            "time": 1788833551324,
+            "slug": "btc-updown-5m-1788833400",
+            "net": -0.570645,
+            "fees": 0.120645
+          },
+          {
+            "time": 1788835058185,
+            "slug": "btc-updown-5m-1788834900",
+            "net": 0.1509,
+            "fees": 0.1491
+          },
+          {
+            "time": 1788835568383,
+            "slug": "btc-updown-5m-1788835500",
+            "net": -0.618525,
+            "fees": 0.168525
+          }
+        ]
+      },
+      "validation": {
+        "frames": 1890,
+        "rounds": 11,
+        "first": 1788881838647,
+        "last": 1788886798730,
+        "net": -0.561005,
+        "fees": 0.411005,
+        "closedTrades": 3,
+        "winningTrades": 1,
+        "realizedDrawdown": 0.6101,
+        "score": -0.23784333,
+        "orders": 8,
+        "makerOrders": 2,
+        "remainingPositions": {},
+        "halted": null,
+        "trades": [
+          {
+            "time": 1788881884155,
+            "slug": "btc-updown-5m-1788881700",
+            "net": 0.049095,
+            "fees": 0.100905
+          },
+          {
+            "time": 1788882073489,
+            "slug": "btc-updown-5m-1788882000",
+            "net": -0.27241,
+            "fees": 0.17241
+          },
+          {
+            "time": 1788886230877,
+            "slug": "btc-updown-5m-1788886200",
+            "net": -0.33769,
+            "fees": 0.13769
+          }
+        ]
+      }
+    },
+    {
+      "id": "edge1-hold15-maker5",
+      "development": {
+        "frames": 7650,
+        "rounds": 33,
+        "first": 1788829338764,
+        "last": 1788880203736,
+        "net": -2.090635,
+        "fees": 1.440635,
+        "closedTrades": 9,
+        "winningTrades": 3,
+        "realizedDrawdown": 2.090635,
+        "score": -0.29036597,
+        "orders": 24,
+        "makerOrders": 6,
+        "remainingPositions": {},
+        "halted": null,
+        "trades": [
+          {
+            "time": 1788829580247,
+            "slug": "btc-updown-5m-1788829500",
+            "net": -0.505085,
+            "fees": 0.155085
+          },
+          {
+            "time": 1788829880949,
+            "slug": "btc-updown-5m-1788829800",
+            "net": -0.57136,
+            "fees": 0.17136
+          },
+          {
+            "time": 1788830462911,
+            "slug": "btc-updown-5m-1788830400",
+            "net": 0.32787,
+            "fees": 0.17213
+          },
+          {
+            "time": 1788830759446,
+            "slug": "btc-updown-5m-1788830700",
+            "net": 0.23459,
+            "fees": 0.16541
+          },
+          {
+            "time": 1788831402566,
+            "slug": "btc-updown-5m-1788831300",
+            "net": -0.023425,
+            "fees": 0.173425
+          },
+          {
+            "time": 1788831934667,
+            "slug": "btc-updown-5m-1788831900",
+            "net": -0.56688,
+            "fees": 0.16688
+          },
+          {
+            "time": 1788832241096,
+            "slug": "btc-updown-5m-1788832200",
+            "net": -0.66982,
+            "fees": 0.16982
+          },
+          {
+            "time": 1788832856589,
+            "slug": "btc-updown-5m-1788832800",
+            "net": 0.25412,
+            "fees": 0.14588
+          },
+          {
+            "time": 1788833551324,
+            "slug": "btc-updown-5m-1788833400",
+            "net": -0.570645,
+            "fees": 0.120645
+          }
+        ]
+      },
+      "validation": {
+        "frames": 1890,
+        "rounds": 11,
+        "first": 1788881838647,
+        "last": 1788886798730,
+        "net": -0.561005,
+        "fees": 0.411005,
+        "closedTrades": 3,
+        "winningTrades": 1,
+        "realizedDrawdown": 0.6101,
+        "score": -0.23784333,
+        "orders": 8,
+        "makerOrders": 2,
+        "remainingPositions": {},
+        "halted": null,
+        "trades": [
+          {
+            "time": 1788881884155,
+            "slug": "btc-updown-5m-1788881700",
+            "net": 0.049095,
+            "fees": 0.100905
+          },
+          {
+            "time": 1788882074484,
+            "slug": "btc-updown-5m-1788882000",
+            "net": -0.27241,
+            "fees": 0.17241
+          },
+          {
+            "time": 1788886230877,
+            "slug": "btc-updown-5m-1788886200",
+            "net": -0.33769,
+            "fees": 0.13769
+          }
+        ]
+      }
+    },
+    {
+      "id": "edge1-hold15-maker10",
+      "development": {
+        "frames": 7650,
+        "rounds": 33,
+        "first": 1788829338764,
+        "last": 1788880203736,
+        "net": -2.090635,
+        "fees": 1.440635,
+        "closedTrades": 9,
+        "winningTrades": 3,
+        "realizedDrawdown": 2.090635,
+        "score": -0.29036597,
+        "orders": 24,
+        "makerOrders": 6,
+        "remainingPositions": {},
+        "halted": null,
+        "trades": [
+          {
+            "time": 1788829580247,
+            "slug": "btc-updown-5m-1788829500",
+            "net": -0.505085,
+            "fees": 0.155085
+          },
+          {
+            "time": 1788829880949,
+            "slug": "btc-updown-5m-1788829800",
+            "net": -0.57136,
+            "fees": 0.17136
+          },
+          {
+            "time": 1788830462911,
+            "slug": "btc-updown-5m-1788830400",
+            "net": 0.32787,
+            "fees": 0.17213
+          },
+          {
+            "time": 1788830759446,
+            "slug": "btc-updown-5m-1788830700",
+            "net": 0.23459,
+            "fees": 0.16541
+          },
+          {
+            "time": 1788831402566,
+            "slug": "btc-updown-5m-1788831300",
+            "net": -0.023425,
+            "fees": 0.173425
+          },
+          {
+            "time": 1788831934667,
+            "slug": "btc-updown-5m-1788831900",
+            "net": -0.56688,
+            "fees": 0.16688
+          },
+          {
+            "time": 1788832241096,
+            "slug": "btc-updown-5m-1788832200",
+            "net": -0.66982,
+            "fees": 0.16982
+          },
+          {
+            "time": 1788832856589,
+            "slug": "btc-updown-5m-1788832800",
+            "net": 0.25412,
+            "fees": 0.14588
+          },
+          {
+            "time": 1788833551324,
+            "slug": "btc-updown-5m-1788833400",
+            "net": -0.570645,
+            "fees": 0.120645
+          }
+        ]
+      },
+      "validation": {
+        "frames": 1890,
+        "rounds": 11,
+        "first": 1788881838647,
+        "last": 1788886798730,
+        "net": -0.561005,
+        "fees": 0.411005,
+        "closedTrades": 3,
+        "winningTrades": 1,
+        "realizedDrawdown": 0.6101,
+        "score": -0.23784333,
+        "orders": 8,
+        "makerOrders": 2,
+        "remainingPositions": {},
+        "halted": null,
+        "trades": [
+          {
+            "time": 1788881884155,
+            "slug": "btc-updown-5m-1788881700",
+            "net": 0.049095,
+            "fees": 0.100905
+          },
+          {
+            "time": 1788882074484,
+            "slug": "btc-updown-5m-1788882000",
+            "net": -0.27241,
+            "fees": 0.17241
+          },
+          {
+            "time": 1788886230877,
+            "slug": "btc-updown-5m-1788886200",
+            "net": -0.33769,
+            "fees": 0.13769
+          }
+        ]
+      }
+    },
+    {
+      "id": "edge2-hold10-maker5",
+      "development": {
+        "frames": 7650,
+        "rounds": 33,
+        "first": 1788829338764,
+        "last": 1788880203736,
+        "net": -2.365155,
+        "fees": 2.115155,
+        "closedTrades": 13,
+        "winningTrades": 6,
+        "realizedDrawdown": 2.398905,
+        "score": -0.22806779,
+        "orders": 32,
+        "makerOrders": 6,
+        "remainingPositions": {},
+        "halted": null,
+        "trades": [
+          {
+            "time": 1788829579232,
+            "slug": "btc-updown-5m-1788829500",
+            "net": 0.03375,
+            "fees": 0.16625
+          },
+          {
+            "time": 1788829879340,
+            "slug": "btc-updown-5m-1788829800",
+            "net": -0.2743,
+            "fees": 0.1743
+          },
+          {
+            "time": 1788830196284,
+            "slug": "btc-updown-5m-1788830100",
+            "net": -0.420625,
+            "fees": 0.170625
+          },
+          {
+            "time": 1788830462911,
+            "slug": "btc-updown-5m-1788830400",
+            "net": 0.32787,
+            "fees": 0.17213
+          },
+          {
+            "time": 1788830756848,
+            "slug": "btc-updown-5m-1788830700",
+            "net": 0.03711,
+            "fees": 0.16289
+          },
+          {
+            "time": 1788831397499,
+            "slug": "btc-updown-5m-1788831300",
+            "net": -0.17437,
+            "fees": 0.17437
+          },
+          {
+            "time": 1788831934667,
+            "slug": "btc-updown-5m-1788831900",
+            "net": -0.56688,
+            "fees": 0.16688
+          },
+          {
+            "time": 1788832241096,
+            "slug": "btc-updown-5m-1788832200",
+            "net": -0.66982,
+            "fees": 0.16982
+          },
+          {
+            "time": 1788832562434,
+            "slug": "btc-updown-5m-1788832500",
+            "net": 0.12626,
+            "fees": 0.17374
+          },
+          {
+            "time": 1788832856589,
+            "slug": "btc-updown-5m-1788832800",
+            "net": 0.25412,
+            "fees": 0.14588
+          },
+          {
+            "time": 1788833551324,
+            "slug": "btc-updown-5m-1788833400",
+            "net": -0.570645,
+            "fees": 0.120645
+          },
+          {
+            "time": 1788835058185,
+            "slug": "btc-updown-5m-1788834900",
+            "net": 0.1509,
+            "fees": 0.1491
+          },
+          {
+            "time": 1788835568383,
+            "slug": "btc-updown-5m-1788835500",
+            "net": -0.618525,
+            "fees": 0.168525
+          }
+        ]
+      },
+      "validation": {
+        "frames": 1890,
+        "rounds": 11,
+        "first": 1788881838647,
+        "last": 1788886798730,
+        "net": -0.6101,
+        "fees": 0.3101,
+        "closedTrades": 2,
+        "winningTrades": 0,
+        "realizedDrawdown": 0.6101,
+        "score": -0.3813125,
+        "orders": 7,
+        "makerOrders": 3,
+        "remainingPositions": {},
+        "halted": null,
+        "trades": [
+          {
+            "time": 1788882073489,
+            "slug": "btc-updown-5m-1788882000",
+            "net": -0.27241,
+            "fees": 0.17241
+          },
+          {
+            "time": 1788886230877,
+            "slug": "btc-updown-5m-1788886200",
+            "net": -0.33769,
+            "fees": 0.13769
+          }
+        ]
+      }
+    },
+    {
+      "id": "edge2-hold10-maker10",
+      "development": {
+        "frames": 7650,
+        "rounds": 33,
+        "first": 1788829338764,
+        "last": 1788880203736,
+        "net": -2.365155,
+        "fees": 2.115155,
+        "closedTrades": 13,
+        "winningTrades": 6,
+        "realizedDrawdown": 2.398905,
+        "score": -0.22806779,
+        "orders": 32,
+        "makerOrders": 6,
+        "remainingPositions": {},
+        "halted": null,
+        "trades": [
+          {
+            "time": 1788829579232,
+            "slug": "btc-updown-5m-1788829500",
+            "net": 0.03375,
+            "fees": 0.16625
+          },
+          {
+            "time": 1788829879340,
+            "slug": "btc-updown-5m-1788829800",
+            "net": -0.2743,
+            "fees": 0.1743
+          },
+          {
+            "time": 1788830196284,
+            "slug": "btc-updown-5m-1788830100",
+            "net": -0.420625,
+            "fees": 0.170625
+          },
+          {
+            "time": 1788830462911,
+            "slug": "btc-updown-5m-1788830400",
+            "net": 0.32787,
+            "fees": 0.17213
+          },
+          {
+            "time": 1788830756848,
+            "slug": "btc-updown-5m-1788830700",
+            "net": 0.03711,
+            "fees": 0.16289
+          },
+          {
+            "time": 1788831397499,
+            "slug": "btc-updown-5m-1788831300",
+            "net": -0.17437,
+            "fees": 0.17437
+          },
+          {
+            "time": 1788831934667,
+            "slug": "btc-updown-5m-1788831900",
+            "net": -0.56688,
+            "fees": 0.16688
+          },
+          {
+            "time": 1788832241096,
+            "slug": "btc-updown-5m-1788832200",
+            "net": -0.66982,
+            "fees": 0.16982
+          },
+          {
+            "time": 1788832562434,
+            "slug": "btc-updown-5m-1788832500",
+            "net": 0.12626,
+            "fees": 0.17374
+          },
+          {
+            "time": 1788832856589,
+            "slug": "btc-updown-5m-1788832800",
+            "net": 0.25412,
+            "fees": 0.14588
+          },
+          {
+            "time": 1788833551324,
+            "slug": "btc-updown-5m-1788833400",
+            "net": -0.570645,
+            "fees": 0.120645
+          },
+          {
+            "time": 1788835058185,
+            "slug": "btc-updown-5m-1788834900",
+            "net": 0.1509,
+            "fees": 0.1491
+          },
+          {
+            "time": 1788835568383,
+            "slug": "btc-updown-5m-1788835500",
+            "net": -0.618525,
+            "fees": 0.168525
+          }
+        ]
+      },
+      "validation": {
+        "frames": 1890,
+        "rounds": 11,
+        "first": 1788881838647,
+        "last": 1788886798730,
+        "net": -0.6101,
+        "fees": 0.3101,
+        "closedTrades": 2,
+        "winningTrades": 0,
+        "realizedDrawdown": 0.6101,
+        "score": -0.3813125,
+        "orders": 7,
+        "makerOrders": 3,
+        "remainingPositions": {},
+        "halted": null,
+        "trades": [
+          {
+            "time": 1788882073489,
+            "slug": "btc-updown-5m-1788882000",
+            "net": -0.27241,
+            "fees": 0.17241
+          },
+          {
+            "time": 1788886230877,
+            "slug": "btc-updown-5m-1788886200",
+            "net": -0.33769,
+            "fees": 0.13769
+          }
+        ]
+      }
+    },
+    {
+      "id": "edge2-hold15-maker5",
+      "development": {
+        "frames": 7650,
+        "rounds": 33,
+        "first": 1788829338764,
+        "last": 1788880203736,
+        "net": -2.194735,
+        "fees": 1.344735,
+        "closedTrades": 8,
+        "winningTrades": 2,
+        "realizedDrawdown": 2.194735,
+        "score": -0.34292734,
+        "orders": 19,
+        "makerOrders": 3,
+        "remainingPositions": {},
+        "halted": null,
+        "trades": [
+          {
+            "time": 1788829580247,
+            "slug": "btc-updown-5m-1788829500",
+            "net": -0.505085,
+            "fees": 0.155085
+          },
+          {
+            "time": 1788829880949,
+            "slug": "btc-updown-5m-1788829800",
+            "net": -0.57136,
+            "fees": 0.17136
+          },
+          {
+            "time": 1788830196284,
+            "slug": "btc-updown-5m-1788830100",
+            "net": -0.420625,
+            "fees": 0.170625
+          },
+          {
+            "time": 1788830462911,
+            "slug": "btc-updown-5m-1788830400",
+            "net": 0.32787,
+            "fees": 0.17213
+          },
+          {
+            "time": 1788830759446,
+            "slug": "btc-updown-5m-1788830700",
+            "net": 0.23459,
+            "fees": 0.16541
+          },
+          {
+            "time": 1788831402566,
+            "slug": "btc-updown-5m-1788831300",
+            "net": -0.023425,
+            "fees": 0.173425
+          },
+          {
+            "time": 1788831934667,
+            "slug": "btc-updown-5m-1788831900",
+            "net": -0.56688,
+            "fees": 0.16688
+          },
+          {
+            "time": 1788832241096,
+            "slug": "btc-updown-5m-1788832200",
+            "net": -0.66982,
+            "fees": 0.16982
+          }
+        ]
+      },
+      "validation": {
+        "frames": 1890,
+        "rounds": 11,
+        "first": 1788881838647,
+        "last": 1788886798730,
+        "net": -0.6101,
+        "fees": 0.3101,
+        "closedTrades": 2,
+        "winningTrades": 0,
+        "realizedDrawdown": 0.6101,
+        "score": -0.3813125,
+        "orders": 7,
+        "makerOrders": 3,
+        "remainingPositions": {},
+        "halted": null,
+        "trades": [
+          {
+            "time": 1788882074484,
+            "slug": "btc-updown-5m-1788882000",
+            "net": -0.27241,
+            "fees": 0.17241
+          },
+          {
+            "time": 1788886230877,
+            "slug": "btc-updown-5m-1788886200",
+            "net": -0.33769,
+            "fees": 0.13769
+          }
+        ]
+      }
+    },
+    {
+      "id": "edge2-hold15-maker10",
+      "development": {
+        "frames": 7650,
+        "rounds": 33,
+        "first": 1788829338764,
+        "last": 1788880203736,
+        "net": -2.194735,
+        "fees": 1.344735,
+        "closedTrades": 8,
+        "winningTrades": 2,
+        "realizedDrawdown": 2.194735,
+        "score": -0.34292734,
+        "orders": 19,
+        "makerOrders": 3,
+        "remainingPositions": {},
+        "halted": null,
+        "trades": [
+          {
+            "time": 1788829580247,
+            "slug": "btc-updown-5m-1788829500",
+            "net": -0.505085,
+            "fees": 0.155085
+          },
+          {
+            "time": 1788829880949,
+            "slug": "btc-updown-5m-1788829800",
+            "net": -0.57136,
+            "fees": 0.17136
+          },
+          {
+            "time": 1788830196284,
+            "slug": "btc-updown-5m-1788830100",
+            "net": -0.420625,
+            "fees": 0.170625
+          },
+          {
+            "time": 1788830462911,
+            "slug": "btc-updown-5m-1788830400",
+            "net": 0.32787,
+            "fees": 0.17213
+          },
+          {
+            "time": 1788830759446,
+            "slug": "btc-updown-5m-1788830700",
+            "net": 0.23459,
+            "fees": 0.16541
+          },
+          {
+            "time": 1788831402566,
+            "slug": "btc-updown-5m-1788831300",
+            "net": -0.023425,
+            "fees": 0.173425
+          },
+          {
+            "time": 1788831934667,
+            "slug": "btc-updown-5m-1788831900",
+            "net": -0.56688,
+            "fees": 0.16688
+          },
+          {
+            "time": 1788832241096,
+            "slug": "btc-updown-5m-1788832200",
+            "net": -0.66982,
+            "fees": 0.16982
+          }
+        ]
+      },
+      "validation": {
+        "frames": 1890,
+        "rounds": 11,
+        "first": 1788881838647,
+        "last": 1788886798730,
+        "net": -0.6101,
+        "fees": 0.3101,
+        "closedTrades": 2,
+        "winningTrades": 0,
+        "realizedDrawdown": 0.6101,
+        "score": -0.3813125,
+        "orders": 7,
+        "makerOrders": 3,
+        "remainingPositions": {},
+        "halted": null,
+        "trades": [
+          {
+            "time": 1788882074484,
+            "slug": "btc-updown-5m-1788882000",
+            "net": -0.27241,
+            "fees": 0.17241
+          },
+          {
+            "time": 1788886230877,
+            "slug": "btc-updown-5m-1788886200",
+            "net": -0.33769,
+            "fees": 0.13769
+          }
+        ]
+      }
+    }
+  ],
+  "selectedId": "edge1-hold10-maker10",
+  "selected": {
+    "id": "edge1-hold10-maker10",
+    "config": {
+      "maxExposure": 10,
+      "maxLoss": 2,
+      "size": 5,
+      "makerMs": 10000,
+      "exitMakerMs": 2000,
+      "holdMs": 10000,
+      "staleMs": 3000
+    },
+    "strategy": {
+      "execution": "paper",
+      "minNetEdge": 0.01,
+      "costBuffer": 0.01,
+      "maxSpread": 0.04,
+      "stopLossUsd": 0.5
+    }
+  },
+  "selectionQualified": true,
+  "finalTest": {
+    "frames": 3139,
+    "rounds": 11,
+    "first": 1788886801199,
+    "last": 1788890066510,
+    "net": -0.960495,
+    "fees": 0.810495,
+    "closedTrades": 5,
+    "winningTrades": 0,
+    "realizedDrawdown": 0.960495,
+    "score": -0.24012375,
+    "orders": 15,
+    "makerOrders": 5,
+    "remainingPositions": {},
+    "halted": null,
+    "trades": [
+      {
+        "time": 1788887139707,
+        "slug": "btc-updown-5m-1788887100",
+        "net": -0.103545,
+        "fees": 0.153545
+      },
+      {
+        "time": 1788887735027,
+        "slug": "btc-updown-5m-1788887700",
+        "net": -0.318525,
+        "fees": 0.168525
+      },
+      {
+        "time": 1788888960030,
+        "slug": "btc-updown-5m-1788888900",
+        "net": -0.147,
+        "fees": 0.147
+      },
+      {
+        "time": 1788889306325,
+        "slug": "btc-updown-5m-1788889200",
+        "net": -0.317125,
+        "fees": 0.167125
+      },
+      {
+        "time": 1788889543920,
+        "slug": "btc-updown-5m-1788889500",
+        "net": -0.0743,
+        "fees": 0.1743
+      }
+    ]
+  },
+  "baselineTest": {
+    "frames": 3139,
+    "rounds": 11,
+    "first": 1788886801199,
+    "last": 1788890066510,
+    "net": -1.155735,
+    "fees": 0.805735,
+    "closedTrades": 5,
+    "winningTrades": 1,
+    "realizedDrawdown": 1.155735,
+    "score": -0.28893375,
+    "orders": 15,
+    "makerOrders": 5,
+    "remainingPositions": {},
+    "halted": null,
+    "trades": [
+      {
+        "time": 1788887142729,
+        "slug": "btc-updown-5m-1788887100",
+        "net": -0.0547,
+        "fees": 0.1547
+      },
+      {
+        "time": 1788887735027,
+        "slug": "btc-updown-5m-1788887700",
+        "net": -0.318525,
+        "fees": 0.168525
+      },
+      {
+        "time": 1788888965061,
+        "slug": "btc-updown-5m-1788888900",
+        "net": -0.198365,
+        "fees": 0.148365
+      },
+      {
+        "time": 1788889311763,
+        "slug": "btc-updown-5m-1788889200",
+        "net": 0.039,
+        "fees": 0.161
+      },
+      {
+        "time": 1788889547513,
+        "slug": "btc-updown-5m-1788889500",
+        "net": -0.623145,
+        "fees": 0.173145
+      }
+    ]
+  },
+  "profitableEvidence": false,
+  "executionDecision": "User-authorized experimental paper trading only; no claim of positive expectancy and no automatic live promotion.",
+  "checkedAt": "2026-09-09T16:25:36.874Z"
+}

@@ -1,0 +1,8 @@
+{
+  "schema": "btc5m-research-archive-v1",
+  "createdAt": 1794023590347,
+  "scope": "Empty fresh installation; no user historical volume or account included.",
+  "groups": [],
+  "files": [],
+  "excluded": []
+}

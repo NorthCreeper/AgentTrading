@@ -1,0 +1,25 @@
+{
+  "schema": "btc5m-standalone-paper-defaults-v1",
+  "capturedAt": 1793940587002,
+  "source": "Current running workflow configuration only; no funds, account, session, orders or history copied.",
+  "config": {
+    "maxExposure": null,
+    "maxLoss": 0,
+    "size": 100,
+    "makerMs": 10000,
+    "exitMakerMs": 2000,
+    "holdMs": 60000,
+    "staleMs": 3000,
+    "buyUnits": 1,
+    "riskPolicy": "equity-per-order-v1"
+  },
+  "strategyConfig": {
+    "execution": "paper",
+    "model": "ray-twap-band",
+    "exitPolicy": "market",
+    "minNetEdge": 0.005,
+    "costBuffer": 0.005,
+    "maxSpread": 0.04,
+    "stopLossUsd": 0
+  }
+}

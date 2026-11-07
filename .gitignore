@@ -1,0 +1,41 @@
+# Local runtime, accounts, observations and builds
+/data/
+/logs/
+/backups/
+/runtime/
+/coverage/
+/dist/
+node_modules/
+*.log
+*.jsonl
+*.zip
+/package-manifest.json
+
+# Local configuration and archive contents
+/config/app.json
+/config/instance.json
+/config/legacy-import-guard.json
+/config/*.local.json
+/archives/*
+!/archives/catalog.example.json
+
+# Wallet and authentication files
+.env
+.env.*
+*.vault.json
+*.pem
+*.key
+*.p12
+*.pfx
+**/service-control.json
+**/service-status.json
+
+**/credentials.json
+**/wallet-credentials.json
+**/secrets.json
+**/control-token.json
+**/id_rsa
+**/id_ed25519
+
+# Upload these files as GitHub Release attachments.
+/release-assets/

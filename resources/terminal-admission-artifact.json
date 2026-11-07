@@ -1,0 +1,1170 @@
+{
+  "schema": "terminal-adverse-quantile-artifact-v1",
+  "modelId": "terminal-adverse-tail-v1-97855e92fc13ee71",
+  "builtAt": 1792975483839,
+  "trainingInformationCutoff": 1792943309688,
+  "validated": false,
+  "adopted": false,
+  "purpose": "prospective shadow-only terminal adverse-tail forecasts; no trading/size effect",
+  "target": {
+    "kind": "signed-terminal-adverse-normalized",
+    "alpha": 0.05,
+    "formula": "-sign(currentTWAP-opening)*(officialFinal-currentTWAP)/(sigma180*sqrt(remainingSeconds))"
+  },
+  "normalization": {
+    "windowSeconds": 180,
+    "sampleSeconds": 5,
+    "minimumCoverage": 0.9,
+    "source": "past-known Chainlink TWAP60, not spot",
+    "gapsOverSeconds": 10,
+    "partialBoundaryIntervals": "discard"
+  },
+  "minimumSupport": {
+    "rounds": 40,
+    "dates": 4
+  },
+  "remainingBucketsSeconds": [
+    [
+      90,
+      120
+    ],
+    [
+      60,
+      90
+    ],
+    [
+      30,
+      60
+    ],
+    [
+      0,
+      30
+    ]
+  ],
+  "training": {
+    "dateTimezone": "America/New_York",
+    "dates": [
+      "2026-10-14",
+      "2026-10-15",
+      "2026-10-16",
+      "2026-10-17",
+      "2026-10-18"
+    ],
+    "rounds": 802,
+    "dateRange": [
+      "2026-10-14",
+      "2026-10-18"
+    ],
+    "maximumTargetLabelObservedAt": 1792383045198,
+    "maximumFeatureAt": 1792382384554,
+    "oneObservationPerRoundAndTimeBucket": true,
+    "sampler": "closest remaining-time bucket midpoint, ties earliest; fixed before seeing targets",
+    "dateWeighting": "equal New York date total mass",
+    "exclusions": {}
+  },
+  "cells": {
+    "0|*|*|*": {
+      "q": 6.284246325021275,
+      "rounds": 802,
+      "dates": [
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "0|midday|*|*": {
+      "q": 5.994884231444966,
+      "rounds": 331,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "0|midday|opposing|*": {
+      "q": 6.947725054966671,
+      "rounds": 132,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "0|midday|opposing|calendar_unknown": {
+      "q": 5.866228701593903,
+      "rounds": 69,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "0|midday|opposing|weekend": {
+      "q": 7.206774341210877,
+      "rounds": 63,
+      "dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "0|midday|supporting|*": {
+      "q": 5.172620485111725,
+      "rounds": 199,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "0|midday|supporting|calendar_unknown": {
+      "q": 4.420132683192762,
+      "rounds": 100,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "0|midday|supporting|weekend": {
+      "q": 6.207406238305178,
+      "rounds": 99,
+      "dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "0|morning|*|*": {
+      "q": 5.932359535192778,
+      "rounds": 226,
+      "dates": [
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "0|morning|opposing|*": {
+      "q": 5.436858040834859,
+      "rounds": 66,
+      "dates": [
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "0|morning|opposing|calendar_unknown": {
+      "q": 5.436858040834859,
+      "rounds": 36,
+      "dates": [
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "0|morning|opposing|weekend": {
+      "q": 5.149959729266224,
+      "rounds": 30,
+      "dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "0|morning|supporting|*": {
+      "q": 5.932359535192778,
+      "rounds": 160,
+      "dates": [
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "0|morning|supporting|calendar_unknown": {
+      "q": 7.785800953063603,
+      "rounds": 93,
+      "dates": [
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "0|morning|supporting|weekend": {
+      "q": 5.841431256572317,
+      "rounds": 67,
+      "dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "0|night|*|*": {
+      "q": 8.158362220953071,
+      "rounds": 245,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "0|night|opposing|*": {
+      "q": 10.798404076667214,
+      "rounds": 105,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "0|night|opposing|calendar_unknown": {
+      "q": 11.086197645844896,
+      "rounds": 50,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "0|night|opposing|weekend": {
+      "q": 9.257868503410231,
+      "rounds": 55,
+      "dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "0|night|supporting|*": {
+      "q": 6.879086937389974,
+      "rounds": 140,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "0|night|supporting|calendar_unknown": {
+      "q": 7.230081874007243,
+      "rounds": 64,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "0|night|supporting|weekend": {
+      "q": 6.147081126613712,
+      "rounds": 76,
+      "dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "1|*|*|*": {
+      "q": 5.877951452574301,
+      "rounds": 801,
+      "dates": [
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "1|midday|*|*": {
+      "q": 5.875059371037072,
+      "rounds": 331,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "1|midday|opposing|*": {
+      "q": 8.632631850872077,
+      "rounds": 116,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "1|midday|opposing|calendar_unknown": {
+      "q": 6.194637652948614,
+      "rounds": 58,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "1|midday|opposing|weekend": {
+      "q": 13.785657546477937,
+      "rounds": 58,
+      "dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "1|midday|supporting|*": {
+      "q": 4.76011788475234,
+      "rounds": 215,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "1|midday|supporting|calendar_unknown": {
+      "q": 3.855415868222488,
+      "rounds": 111,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "1|midday|supporting|weekend": {
+      "q": 5.467072743845853,
+      "rounds": 104,
+      "dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "1|morning|*|*": {
+      "q": 5.806766479188017,
+      "rounds": 225,
+      "dates": [
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "1|morning|opposing|*": {
+      "q": 7.339746852167519,
+      "rounds": 101,
+      "dates": [
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "1|morning|opposing|calendar_unknown": {
+      "q": 7.339746852167519,
+      "rounds": 61,
+      "dates": [
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "1|morning|opposing|weekend": {
+      "q": 5.968978173393552,
+      "rounds": 40,
+      "dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "1|morning|supporting|*": {
+      "q": 3.6461955129399084,
+      "rounds": 124,
+      "dates": [
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "1|morning|supporting|calendar_unknown": {
+      "q": 3.9341700441919474,
+      "rounds": 67,
+      "dates": [
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "1|morning|supporting|weekend": {
+      "q": 3.6461955129399084,
+      "rounds": 57,
+      "dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "1|night|*|*": {
+      "q": 6.498227146159577,
+      "rounds": 245,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "1|night|opposing|*": {
+      "q": 8.96715298860756,
+      "rounds": 105,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "1|night|opposing|calendar_unknown": {
+      "q": 10.016610002226225,
+      "rounds": 49,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "1|night|opposing|weekend": {
+      "q": 8.96715298860756,
+      "rounds": 56,
+      "dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "1|night|supporting|*": {
+      "q": 3.3291556656786945,
+      "rounds": 140,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "1|night|supporting|calendar_unknown": {
+      "q": 2.8544885845133883,
+      "rounds": 65,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "1|night|supporting|weekend": {
+      "q": 4.049131051369806,
+      "rounds": 75,
+      "dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "2|*|*|*": {
+      "q": 5.5705328848599125,
+      "rounds": 802,
+      "dates": [
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "2|midday|*|*": {
+      "q": 5.317275206779171,
+      "rounds": 331,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "2|midday|opposing|*": {
+      "q": 6.606160941764422,
+      "rounds": 120,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "2|midday|opposing|calendar_unknown": {
+      "q": 4.83268170124821,
+      "rounds": 54,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "2|midday|opposing|weekend": {
+      "q": 8.467995969222509,
+      "rounds": 66,
+      "dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "2|midday|supporting|*": {
+      "q": 2.9181551370652445,
+      "rounds": 211,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "2|midday|supporting|calendar_unknown": {
+      "q": 3.3078367963948776,
+      "rounds": 115,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "2|midday|supporting|weekend": {
+      "q": 2.220062722741735,
+      "rounds": 96,
+      "dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "2|morning|*|*": {
+      "q": 5.705644003356963,
+      "rounds": 226,
+      "dates": [
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "2|morning|opposing|*": {
+      "q": 6.430055509675461,
+      "rounds": 104,
+      "dates": [
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "2|morning|opposing|calendar_unknown": {
+      "q": 8.048989942303423,
+      "rounds": 60,
+      "dates": [
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "2|morning|opposing|weekend": {
+      "q": 5.187355261879182,
+      "rounds": 44,
+      "dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "2|morning|supporting|*": {
+      "q": 1.9713705722795085,
+      "rounds": 122,
+      "dates": [
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "2|morning|supporting|calendar_unknown": {
+      "q": 1.5378549122904825,
+      "rounds": 69,
+      "dates": [
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "2|morning|supporting|weekend": {
+      "q": 2.0201087071423225,
+      "rounds": 53,
+      "dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "2|night|*|*": {
+      "q": 4.576618440772895,
+      "rounds": 245,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "2|night|opposing|*": {
+      "q": 7.205479233635332,
+      "rounds": 102,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "2|night|opposing|calendar_unknown": {
+      "q": 4.886214971672724,
+      "rounds": 43,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "2|night|opposing|weekend": {
+      "q": 8.695186562054428,
+      "rounds": 59,
+      "dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "2|night|supporting|*": {
+      "q": 3.0784237379723476,
+      "rounds": 143,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "2|night|supporting|calendar_unknown": {
+      "q": 3.0687213805123132,
+      "rounds": 71,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "2|night|supporting|weekend": {
+      "q": 3.0784237379723476,
+      "rounds": 72,
+      "dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "3|*|*|*": {
+      "q": 3.3000327370872453,
+      "rounds": 802,
+      "dates": [
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "3|midday|*|*": {
+      "q": 3.150434022143413,
+      "rounds": 331,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "3|midday|opposing|*": {
+      "q": 4.224623829294475,
+      "rounds": 118,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "3|midday|opposing|calendar_unknown": {
+      "q": 4.4121116220630805,
+      "rounds": 57,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "3|midday|opposing|weekend": {
+      "q": 3.994822570254713,
+      "rounds": 61,
+      "dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "3|midday|supporting|*": {
+      "q": 0.9698259740817688,
+      "rounds": 213,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "3|midday|supporting|calendar_unknown": {
+      "q": 0.9698259740817688,
+      "rounds": 112,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "3|midday|supporting|weekend": {
+      "q": 0.7692318344338783,
+      "rounds": 101,
+      "dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "3|morning|*|*": {
+      "q": 3.0863603661206724,
+      "rounds": 226,
+      "dates": [
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "3|morning|opposing|*": {
+      "q": 3.7811167154634546,
+      "rounds": 87,
+      "dates": [
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "3|morning|opposing|calendar_unknown": {
+      "q": 3.884960174111599,
+      "rounds": 46,
+      "dates": [
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "3|morning|opposing|weekend": {
+      "q": 3.7681857805339645,
+      "rounds": 41,
+      "dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "3|morning|supporting|*": {
+      "q": 1.3723575572999895,
+      "rounds": 139,
+      "dates": [
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "3|morning|supporting|calendar_unknown": {
+      "q": 1.5093503122868457,
+      "rounds": 83,
+      "dates": [
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "3|morning|supporting|weekend": {
+      "q": 1.3723575572999895,
+      "rounds": 56,
+      "dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "3|night|*|*": {
+      "q": 3.469327540732721,
+      "rounds": 245,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "3|night|opposing|*": {
+      "q": 4.43254186057273,
+      "rounds": 106,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "3|night|opposing|calendar_unknown": {
+      "q": 4.43254186057273,
+      "rounds": 46,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "3|night|opposing|weekend": {
+      "q": 4.1055061240911765,
+      "rounds": 60,
+      "dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "3|night|supporting|*": {
+      "q": 0.35320962390211397,
+      "rounds": 139,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "3|night|supporting|calendar_unknown": {
+      "q": 0.24000319558756245,
+      "rounds": 68,
+      "dates": [
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    },
+    "3|night|supporting|weekend": {
+      "q": 0.5016875177902026,
+      "rounds": 71,
+      "dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "dateWeights": "equal aggregate weight per New York date; one round observation per time bucket"
+    }
+  },
+  "calibration": {
+    "validated": false,
+    "probabilityLowerBound": null,
+    "offlineDateHoldoutOnly": true,
+    "prospectiveValidationRequired": true,
+    "splits": {
+      "train": {
+        "rounds": 940,
+        "validSignalRounds": 802,
+        "eligibleShadowRounds": 83,
+        "wins": 67,
+        "losses": 16,
+        "dates": [
+          "2026-10-14",
+          "2026-10-15",
+          "2026-10-16",
+          "2026-10-17",
+          "2026-10-18"
+        ],
+        "numericResidualChecks": 3207,
+        "tailBreaches": 251,
+        "missingNumericFinal": 0,
+        "probabilityLowerBound": null,
+        "validated": false,
+        "adopted": false,
+        "perDate": {
+          "2026-10-14": {
+            "entries": 3,
+            "wins": 1,
+            "losses": 2
+          },
+          "2026-10-15": {
+            "entries": 12,
+            "wins": 9,
+            "losses": 3
+          },
+          "2026-10-16": {
+            "entries": 22,
+            "wins": 16,
+            "losses": 6
+          },
+          "2026-10-17": {
+            "entries": 28,
+            "wins": 26,
+            "losses": 2
+          },
+          "2026-10-18": {
+            "entries": 18,
+            "wins": 15,
+            "losses": 3
+          }
+        },
+        "winRate": 0.8072289156626506,
+        "probabilityReason": "No independent prospective/date calibration admitted; descriptive offline results only. No automatic promotion."
+      },
+      "validation": {
+        "rounds": 395,
+        "validSignalRounds": 387,
+        "eligibleShadowRounds": 25,
+        "wins": 20,
+        "losses": 5,
+        "dates": [
+          "2026-10-19",
+          "2026-10-20"
+        ],
+        "numericResidualChecks": 1545,
+        "tailBreaches": 108,
+        "missingNumericFinal": 0,
+        "probabilityLowerBound": null,
+        "validated": false,
+        "adopted": false,
+        "perDate": {
+          "2026-10-19": {
+            "entries": 11,
+            "wins": 9,
+            "losses": 2
+          },
+          "2026-10-20": {
+            "entries": 14,
+            "wins": 11,
+            "losses": 3
+          }
+        },
+        "winRate": 0.8,
+        "probabilityReason": "No independent prospective/date calibration admitted; descriptive offline results only. No automatic promotion."
+      },
+      "test": {
+        "rounds": 360,
+        "validSignalRounds": 357,
+        "eligibleShadowRounds": 23,
+        "wins": 22,
+        "losses": 1,
+        "dates": [
+          "2026-10-21",
+          "2026-10-22",
+          "2026-10-23"
+        ],
+        "numericResidualChecks": 1428,
+        "tailBreaches": 105,
+        "missingNumericFinal": 0,
+        "probabilityLowerBound": null,
+        "validated": false,
+        "adopted": false,
+        "perDate": {
+          "2026-10-21": {
+            "entries": 10,
+            "wins": 10,
+            "losses": 0
+          },
+          "2026-10-22": {
+            "entries": 10,
+            "wins": 9,
+            "losses": 1
+          },
+          "2026-10-23": {
+            "entries": 3,
+            "wins": 3,
+            "losses": 0
+          }
+        },
+        "winRate": 0.9565217391304348,
+        "probabilityReason": "No independent prospective/date calibration admitted; descriptive offline results only. No automatic promotion."
+      },
+      "supplement": {
+        "rounds": 105,
+        "validSignalRounds": 104,
+        "eligibleShadowRounds": 8,
+        "wins": 7,
+        "losses": 1,
+        "dates": [
+          "2026-10-23"
+        ],
+        "numericResidualChecks": 272,
+        "tailBreaches": 19,
+        "missingNumericFinal": 144,
+        "probabilityLowerBound": null,
+        "validated": false,
+        "adopted": false,
+        "perDate": {
+          "2026-10-23": {
+            "entries": 8,
+            "wins": 7,
+            "losses": 1
+          }
+        },
+        "winRate": 0.875,
+        "probabilityReason": "No independent prospective/date calibration admitted; descriptive offline results only. No automatic promotion."
+      },
+      "newDates": {
+        "rounds": 276,
+        "validSignalRounds": 276,
+        "eligibleShadowRounds": 24,
+        "wins": 19,
+        "losses": 5,
+        "dates": [
+          "2026-10-24",
+          "2026-10-25"
+        ],
+        "numericResidualChecks": 764,
+        "tailBreaches": 60,
+        "missingNumericFinal": 340,
+        "probabilityLowerBound": null,
+        "validated": false,
+        "adopted": false,
+        "perDate": {
+          "2026-10-24": {
+            "entries": 18,
+            "wins": 14,
+            "losses": 4
+          },
+          "2026-10-25": {
+            "entries": 6,
+            "wins": 5,
+            "losses": 1
+          }
+        },
+        "winRate": 0.7916666666666666,
+        "probabilityReason": "No independent prospective/date calibration admitted; descriptive offline results only. No automatic promotion."
+      }
+    },
+    "notApprovedReason": "Only two independent validation dates; event/price-gated sample sparse. No automatic gate or allocation promotion."
+  },
+  "sources": {
+    "D:\\TradeResearch\\btc5m-threshold-sizing-20261025\\historical\\features-history.jsonl.gz": {
+      "bytes": 20152858,
+      "sha256": "f7eabd2e529eb7820c9d2cbbbc8af374381b4393e21518ac74348ebbd26ab378"
+    },
+    "D:\\TradeResearch\\btc5m-threshold-sizing-20261025\\historical\\features-forward.jsonl.gz": {
+      "bytes": 4669887,
+      "sha256": "61a929db584cef8a60a8ae34d91ce0ebc68c503da19be9df74419a8e1ac5f0ee"
+    },
+    "D:\\TradeResearch\\btc5m-threshold-sizing-20261025\\historical\\protocol.json": {
+      "bytes": 2652,
+      "sha256": "a98df1457e72cd02c07bc7eba81e38452375392dd8bc306454af17dccaa3dfa3"
+    },
+    "D:\\TradeResearch\\btc5m-threshold-sizing-20261025\\method\\independent-feature-scope-audit.json": {
+      "bytes": 12342,
+      "sha256": "f72d325a4143add02e97ec6024726b455202946072f0e56ad6a4ae01a27c9f20"
+    }
+  },
+  "limits": [
+    "All numerical quantiles are descriptive empirical training tails, not certified 95% win probabilities.",
+    "Targets may have been saved after their historical feature dates; trainingInformationCutoff is the real maximum information cut, not a backdated training store.",
+    "New-date inputs precede artifact registration and are offline held-out observations, not a prospective trial.",
+    "Calendar labels lacking independent dates shrink to feature/pooled cells; no invented calendar multipliers.",
+    "Book price gate is a shadow screen only; no exchange fills, account capital path, or simulated profit is credited."
+  ]
+}

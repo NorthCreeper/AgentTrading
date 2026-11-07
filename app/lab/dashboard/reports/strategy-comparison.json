@@ -1,0 +1,94 @@
+{
+  "checkedAt": "2026-09-08T15:25:25.617Z",
+  "version": "reference-reversion-v1",
+  "sourceFiles": 1,
+  "totalFrames": 7650,
+  "totalRounds": 33,
+  "gapsOver5Seconds": 32,
+  "invalidRows": 0,
+  "method": "固定参数；按完整轮次时间顺序前 70% / 后 30% 切分；无随机打散、无训练或参数搜索；段间重置账户。",
+  "assumptions": [
+    "Maker 不计成交；吃单按当时可见深度及盘口费用计算。",
+    "未模拟真实延迟、队列和市场冲击；不合并、不结算到期仓位。",
+    "剩余持仓保留；非空仓时不宣称净盈亏。",
+    "数据存在间断；连续性检查会跳过不足 30 秒的信号。"
+  ],
+  "development": {
+    "frames": 6322,
+    "rounds": 23,
+    "validCandidates": 450,
+    "candidateRounds": 20,
+    "reasons": {
+      "需要连续 30 秒的同轮盘口与 TWAP 数据": 695,
+      "模拟候选：Down · 仅挂单价格有余量；超时须重新检查吃单": 110,
+      "没有满足全部条件的候选": 3060,
+      "模拟候选：Down · 参考价回归假设下，吃单扣费后有余量": 141,
+      "不在策略开仓时段": 2117,
+      "模拟候选：Up · 参考价回归假设下，吃单扣费后有余量": 129,
+      "模拟候选：Up · 仅挂单价格有余量；超时须重新检查吃单": 70
+    },
+    "strategy": {
+      "orders": 24,
+      "filledBuyOrders": 9,
+      "filledSellOrders": 9,
+      "cash": -2.090635,
+      "fees": 1.440635,
+      "remainingPositions": {},
+      "flat": true,
+      "netWhenFlat": -2.090635,
+      "halted": null
+    },
+    "fixedUpBaseline": {
+      "orders": 56,
+      "filledBuyOrders": 7,
+      "filledSellOrders": 7,
+      "cash": -2.328975,
+      "fees": 1.178975,
+      "remainingPositions": {},
+      "flat": true,
+      "netWhenFlat": -2.328975,
+      "halted": null
+    }
+  },
+  "holdout": {
+    "frames": 1328,
+    "rounds": 10,
+    "validCandidates": 101,
+    "candidateRounds": 5,
+    "reasons": {
+      "不在策略开仓时段": 476,
+      "需要连续 30 秒的同轮盘口与 TWAP 数据": 153,
+      "没有满足全部条件的候选": 598,
+      "模拟候选：Down · 仅挂单价格有余量；超时须重新检查吃单": 13,
+      "模拟候选：Up · 仅挂单价格有余量；超时须重新检查吃单": 24,
+      "模拟候选：Down · 参考价回归假设下，吃单扣费后有余量": 20,
+      "模拟候选：Up · 参考价回归假设下，吃单扣费后有余量": 44
+    },
+    "strategy": {
+      "orders": 8,
+      "filledBuyOrders": 3,
+      "filledSellOrders": 3,
+      "cash": -0.1914,
+      "fees": 0.4914,
+      "remainingPositions": {},
+      "flat": true,
+      "netWhenFlat": -0.1914,
+      "halted": null
+    },
+    "fixedUpBaseline": {
+      "orders": 24,
+      "filledBuyOrders": 4,
+      "filledSellOrders": 4,
+      "cash": -0.246995,
+      "fees": 0.596995,
+      "remainingPositions": {},
+      "flat": true,
+      "netWhenFlat": -0.246995,
+      "halted": null
+    }
+  },
+  "promotion": {
+    "enabled": false,
+    "reason": "仅完成工程对照；样本及成交真实性不足以确认正期望。继续影子观察，不自动提升为实盘或已验证策略。"
+  }
+}

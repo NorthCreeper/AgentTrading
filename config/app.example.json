@@ -1,0 +1,22 @@
+{
+  "version": "btc5m-standalone-config-v1",
+  "server": {
+    "port": 18890
+  },
+  "paths": {
+    "data": "data/paper",
+    "liveData": "data/live",
+    "logs": "logs",
+    "backups": "backups",
+    "resources": "resources"
+  },
+  "startup": {
+    "resumePaper": false
+  },
+  "live": {
+    "enabled": false
+  },
+  "runtime": {
+    "nodeSha256": "3602f2bb1a10f2cbab4c36886218a33c1ab3db87290e73b033c46c77147d0237"
+  }
+}

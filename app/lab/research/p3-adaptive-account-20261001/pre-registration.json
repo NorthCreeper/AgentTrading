@@ -1,0 +1,57 @@
+{
+  "version": "p3-adaptive-account-v1",
+  "registeredAt": 1790829560033,
+  "models": [
+    "market",
+    "fixed",
+    "adaptive"
+  ],
+  "initialCapitals": [
+    10,
+    100
+  ],
+  "amountUsd": 1,
+  "amountExecution": "amount-market-v2",
+  "fees": "observed per-market; on top of requested notional",
+  "anchorMs": 120000,
+  "forecastWindowMs": 5000,
+  "sourceFreshMs": 3000,
+  "latencyMs": 1000,
+  "executionWindowMs": 3000,
+  "slippageCents": 2,
+  "selection": "max positive round(size*stored-chance-total-cost) among complete original $1 quotes; lexical outcome tie",
+  "singlePosition": true,
+  "oneAttemptPerAccountPerRound": true,
+  "executionRecheck": "first valid fresh newer source after dueAt; original protected FAK; require positive actual-fill expected profit and cash>=actual cost",
+  "partialFillAllowed": true,
+  "minimumAvailableCashAtDecision": 1,
+  "retrySameRound": false,
+  "exitPolicy": "hold-to-verified-settlement",
+  "labelIdentity": "slug+condition+both-tokens+start/end+opening+unique-winner+complementary-payouts+end<=observedAt<=now",
+  "backfill": false,
+  "sourceBinding": "learnerInstanceId+protocolHash+implementationHash+sourceModelId",
+  "sourceImplementation": {
+    "protocolHash": "1720d1c6cedfcfde59e59e0002ef90df22392ca231a38016f9bb9eb98683bdd6",
+    "implementationCodeHashes": {
+      "adaptive-calibration.mjs": "29102c2984a1c2158aee9de0a9a83920dc29ec1e800e057ecd2ed0150c539b5a",
+      "adaptive-research.mjs": "c162d950534f2289e86d964aefd0b7e7047445d756d83ef29d16a3fe6580e9e3"
+    },
+    "implementationHash": "1b9f921f4227b941c76d9652c369f6828c34bae9228dbfb28e42eaba7eb8c23b"
+  },
+  "onResolutionWithoutFrame": true,
+  "unknownValuation": "cash bound to cash+remaining shares when complete net liquidation is unavailable",
+  "settlementGasModeled": false,
+  "realNetworkCompetitionModeled": false,
+  "accountIsolated": true,
+  "autoSimulationEnabled": true,
+  "changesMainRules": false,
+  "realTrading": false,
+  "automaticPromotion": false,
+  "confirmation": {
+    "predictionStartHkt": "2026-10-02T00:00:00+08:00",
+    "predictionEndExclusiveHkt": "2026-10-09T00:00:00+08:00",
+    "labelCutoffHkt": "2026-10-10T00:00:00+08:00",
+    "dateBlockEvaluation": true,
+    "startupDaySeparate": true
+  }
+}

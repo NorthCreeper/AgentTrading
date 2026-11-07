@@ -1,0 +1,327 @@
+{
+  "version": "p3-settlement-calibration-v2",
+  "cutoff": 1790783001347,
+  "protocol": {
+    "version": "p3-settlement-calibration-v2",
+    "anchorMs": 120000,
+    "windowMs": 5000,
+    "baseline": "raw-up-midpoint",
+    "features": "existing-verified-twap-distance-trend-variation",
+    "ridge": 20,
+    "maxLogitCorrection": 0.75,
+    "minimumRounds": 300,
+    "minimumTrainingDates": 7,
+    "minimumValidationDates": 3,
+    "minimumTestDates": 3,
+    "trainFraction": 0.6,
+    "validationFraction": 0.2,
+    "labelPurgeMs": 60000,
+    "diagnosticOnly": true,
+    "changesTradingRules": false
+  },
+  "totalObservations": 3930,
+  "usable": 3926,
+  "dates": 19,
+  "dateList": [
+    "2026-09-10",
+    "2026-09-11",
+    "2026-09-12",
+    "2026-09-13",
+    "2026-09-14",
+    "2026-09-15",
+    "2026-09-16",
+    "2026-09-17",
+    "2026-09-18",
+    "2026-09-19",
+    "2026-09-20",
+    "2026-09-21",
+    "2026-09-22",
+    "2026-09-23",
+    "2026-09-24",
+    "2026-09-25",
+    "2026-09-26",
+    "2026-09-27",
+    "2026-09-30"
+  ],
+  "splits": {
+    "trainDates": [
+      "2026-09-10",
+      "2026-09-11",
+      "2026-09-12",
+      "2026-09-13",
+      "2026-09-14",
+      "2026-09-15",
+      "2026-09-16",
+      "2026-09-17",
+      "2026-09-18",
+      "2026-09-19",
+      "2026-09-20"
+    ],
+    "validationDates": [
+      "2026-09-21",
+      "2026-09-22",
+      "2026-09-23"
+    ],
+    "testDates": [
+      "2026-09-24",
+      "2026-09-25",
+      "2026-09-26",
+      "2026-09-27",
+      "2026-09-30"
+    ]
+  },
+  "training": {
+    "rounds": 2231,
+    "hkDates": 11,
+    "purgedLabels": 3,
+    "missingLabels": 4,
+    "fitBefore": 1789920060955,
+    "lastKnownAt": 1789919889287
+  },
+  "promotionsChangeOrders": false,
+  "promotion": {
+    "eligible": false,
+    "historicalCalibrationPassed": false,
+    "reason": "历史留出概率增量或不确定性检验未通过；不能作为交易优势"
+  },
+  "status": "evaluated",
+  "validation": {
+    "rounds": 795,
+    "hkDates": 3,
+    "modelBrier": 0.1648222529666702,
+    "marketBrier": 0.16370452830188673,
+    "improvement": -0.0011177246647834649,
+    "modelLogLoss": 0.49926339579977785,
+    "marketLogLoss": 0.4966622087701464,
+    "calibration": [
+      {
+        "from": 0,
+        "to": 0.1,
+        "n": 56,
+        "predicted": 0.061927057178781435,
+        "observed": 0.03571428571428571
+      },
+      {
+        "from": 0.1,
+        "to": 0.2,
+        "n": 81,
+        "predicted": 0.1546568782348788,
+        "observed": 0.12345679012345678
+      },
+      {
+        "from": 0.2,
+        "to": 0.3,
+        "n": 86,
+        "predicted": 0.2478858707231127,
+        "observed": 0.12790697674418605
+      },
+      {
+        "from": 0.3,
+        "to": 0.4,
+        "n": 66,
+        "predicted": 0.3471838168881836,
+        "observed": 0.42424242424242425
+      },
+      {
+        "from": 0.4,
+        "to": 0.5,
+        "n": 74,
+        "predicted": 0.4478455456900633,
+        "observed": 0.4189189189189189
+      },
+      {
+        "from": 0.5,
+        "to": 0.6,
+        "n": 72,
+        "predicted": 0.5538169019963468,
+        "observed": 0.4166666666666667
+      },
+      {
+        "from": 0.6,
+        "to": 0.7,
+        "n": 83,
+        "predicted": 0.6470947877946995,
+        "observed": 0.6506024096385542
+      },
+      {
+        "from": 0.7,
+        "to": 0.8,
+        "n": 84,
+        "predicted": 0.7477652094284888,
+        "observed": 0.7023809523809523
+      },
+      {
+        "from": 0.8,
+        "to": 0.9,
+        "n": 106,
+        "predicted": 0.8536886751431885,
+        "observed": 0.8962264150943396
+      },
+      {
+        "from": 0.9,
+        "to": 1,
+        "n": 87,
+        "predicted": 0.9445088388013076,
+        "observed": 0.8850574712643678
+      }
+    ],
+    "expectedCalibrationError": 0.05685439276349052,
+    "dateBlockInterval": [
+      -0.004273543875283309,
+      0.0008044775805273185
+    ],
+    "byDay": {
+      "2026-09-21": {
+        "n": 264,
+        "modelBrier": 0.17264239741947282,
+        "marketBrier": 0.17344687500000014
+      },
+      "2026-09-22": {
+        "n": 263,
+        "modelBrier": 0.13739938566990886,
+        "marketBrier": 0.13756796577946767
+      },
+      "2026-09-23": {
+        "n": 268,
+        "modelBrier": 0.18403007372602964,
+        "marketBrier": 0.17975652985074633
+      }
+    },
+    "allLabeled": 800,
+    "predicted": 795,
+    "coverage": 0.99375,
+    "unknownPredictions": 5
+  },
+  "test": {
+    "rounds": 892,
+    "hkDates": 5,
+    "modelBrier": 0.16149204472765452,
+    "marketBrier": 0.16078068946188323,
+    "improvement": -0.0007113552657712907,
+    "modelLogLoss": 0.48965068405098905,
+    "marketLogLoss": 0.48783416292000886,
+    "calibration": [
+      {
+        "from": 0,
+        "to": 0.1,
+        "n": 75,
+        "predicted": 0.057728657078640944,
+        "observed": 0.04
+      },
+      {
+        "from": 0.1,
+        "to": 0.2,
+        "n": 93,
+        "predicted": 0.1520914659758088,
+        "observed": 0.13978494623655913
+      },
+      {
+        "from": 0.2,
+        "to": 0.3,
+        "n": 79,
+        "predicted": 0.24859608754099605,
+        "observed": 0.26582278481012656
+      },
+      {
+        "from": 0.3,
+        "to": 0.4,
+        "n": 90,
+        "predicted": 0.3468862497753121,
+        "observed": 0.4
+      },
+      {
+        "from": 0.4,
+        "to": 0.5,
+        "n": 104,
+        "predicted": 0.4538854799045111,
+        "observed": 0.34615384615384615
+      },
+      {
+        "from": 0.5,
+        "to": 0.6,
+        "n": 66,
+        "predicted": 0.5553244208643721,
+        "observed": 0.5151515151515151
+      },
+      {
+        "from": 0.6,
+        "to": 0.7,
+        "n": 81,
+        "predicted": 0.648132052458996,
+        "observed": 0.654320987654321
+      },
+      {
+        "from": 0.7,
+        "to": 0.8,
+        "n": 75,
+        "predicted": 0.7496235111283353,
+        "observed": 0.8133333333333334
+      },
+      {
+        "from": 0.8,
+        "to": 0.9,
+        "n": 120,
+        "predicted": 0.8544316000119816,
+        "observed": 0.825
+      },
+      {
+        "from": 0.9,
+        "to": 1,
+        "n": 109,
+        "predicted": 0.9464568055293996,
+        "observed": 0.944954128440367
+      }
+    ],
+    "expectedCalibrationError": 0.035253282655367445,
+    "dateBlockInterval": [
+      -0.0014896181068564576,
+      0.00033920191919409667
+    ],
+    "byDay": {
+      "2026-09-24": {
+        "n": 265,
+        "modelBrier": 0.17027178862904263,
+        "marketBrier": 0.16839150943396222
+      },
+      "2026-09-25": {
+        "n": 272,
+        "modelBrier": 0.14696324173140168,
+        "marketBrier": 0.14663115808823535
+      },
+      "2026-09-26": {
+        "n": 276,
+        "modelBrier": 0.16960701630543176,
+        "marketBrier": 0.16916195652173927
+      },
+      "2026-09-27": {
+        "n": 21,
+        "modelBrier": 0.16618711963329513,
+        "marketBrier": 0.16575833333333334
+      },
+      "2026-09-30": {
+        "n": 58,
+        "modelBrier": 0.1491967611522754,
+        "marketBrier": 0.15067801724137933
+      }
+    },
+    "allLabeled": 892,
+    "predicted": 892,
+    "coverage": 1,
+    "unknownPredictions": 0
+  },
+  "modelId": "p3-settlement-calibration-v2-c6d4481e1d",
+  "duplicateRows": 0,
+  "rejected": [],
+  "finalModelTraining": 3926,
+  "main": {
+    "completed": 1195,
+    "net": -32.57064178
+  },
+  "limitations": [
+    "Fixed 120–125 second checkpoint only; does not forecast other holding times.",
+    "No prediction of executable resale prices, occupancy penalty, gas or buy/sell execution delay.",
+    "No historical orders or profits are created. Model correction and probability haircuts are not confidence bounds.",
+    "TWAP remaining-time normalization is an input feature, not an unverified stochastic price model.",
+    "Validation and test are chronological whole dates; training labels were received before the validation boundary."
+  ]
+}

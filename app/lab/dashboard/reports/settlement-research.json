@@ -1,0 +1,309 @@
+{
+  "createdAt": "2026-09-10T13:54:21.842Z",
+  "modelId": "settlement-probability-v1-6ac7a949",
+  "protocol": "Fixed entry at 120–125 seconds, one observation per round, chronological whole-round 60/20/20 split BEFORE fetching labels. No grid search. Official historical priceToBeat is quality control only; only the exact opening RTDS value received before entry enters features.",
+  "config": {
+    "version": "settlement-probability-v1",
+    "size": 5,
+    "entryAgeMs": 120000,
+    "entryWindowMs": 5000,
+    "staleMs": 3000,
+    "maxSpread": 0.04,
+    "minEdge": 0.03,
+    "buffer": 0.01,
+    "probabilityHaircut": 0.03,
+    "ridge": 20,
+    "maxLogitCorrection": 0.75,
+    "minTrainingRounds": 30,
+    "minValidationRounds": 15,
+    "minDiagnosticRounds": 15,
+    "minTrades": 10
+  },
+  "frozenRounds": 76,
+  "officialLabels": 74,
+  "usableRounds": 23,
+  "parts": {
+    "train": 6,
+    "validation": 12,
+    "diagnostic": 5
+  },
+  "failures": [
+    {
+      "slug": "btc-updown-5m-1789047600",
+      "reason": "Still unresolved"
+    },
+    {
+      "slug": "btc-updown-5m-1789047900",
+      "reason": "Still unresolved"
+    }
+  ],
+  "excluded": [
+    {
+      "slug": "btc-updown-5m-1788829200",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788829500",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788829800",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788830100",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788830400",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788830700",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788831000",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788831300",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788831600",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788831900",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788832200",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788832500",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788832800",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788833100",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788833400",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788833700",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788834000",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788834300",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788834600",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788834900",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788835200",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788835500",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788835800",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788836100",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788840300",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788840600",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788840900",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788841500",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788841800",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788842100",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788879600",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788880200",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788881700",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788882300",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788882900",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788883500",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788885300",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788885600",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788886200",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788971100",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788971700",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788972000",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788972300",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788972600",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788973200",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788973800",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788974100",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788974400",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1788975300",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1789046700",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1789047300",
+      "reason": "No eligible 120s frame, exact opening, fresh book or continuous TWAP"
+    },
+    {
+      "slug": "btc-updown-5m-1789047600",
+      "reason": "No verified final label"
+    },
+    {
+      "slug": "btc-updown-5m-1789047900",
+      "reason": "No verified final label"
+    }
+  ],
+  "validation": {
+    "rounds": 12,
+    "predictions": 0,
+    "brier": null,
+    "marketBrier": null,
+    "entries": 0,
+    "settled": 0,
+    "pending": 0,
+    "cash": 0,
+    "net": 0,
+    "fees": 0,
+    "capitalAtRisk": 0,
+    "last": null,
+    "mean": null,
+    "lowerMeanHeuristic": null,
+    "stressNet": 0,
+    "independentCandidateCount": 0,
+    "independentCandidateNet": 0,
+    "decisions": [],
+    "trades": []
+  },
+  "diagnostic": {
+    "rounds": 5,
+    "predictions": 0,
+    "brier": null,
+    "marketBrier": null,
+    "entries": 0,
+    "settled": 0,
+    "pending": 0,
+    "cash": 0,
+    "net": 0,
+    "fees": 0,
+    "capitalAtRisk": 0,
+    "last": null,
+    "mean": null,
+    "lowerMeanHeuristic": null,
+    "stressNet": 0,
+    "independentCandidateCount": 0,
+    "independentCandidateNet": 0,
+    "decisions": [],
+    "trades": []
+  },
+  "promotion": {
+    "eligible": false,
+    "historicalPassed": false,
+    "reason": "训练段完整标注轮次不足 30，或缺少两种结果；继续采集"
+  },
+  "limitations": [
+    "Historical labels were fetched after trading: they are targets/QC only, never features.",
+    "One fixed model; no claim of calibrated probability until it beats market Brier score on new data.",
+    "Historical cash release assumes max(end+10min, published closedTime), not actual finality or redemption latency.",
+    "Independent candidate totals ignore shared capital and are diagnostics only; ledger respects one pending position, $10 risk and $2 realized loss limit.",
+    "No on-chain redemption or gas/relayer costs modeled; one-tick stress and buffers do not guarantee coverage.",
+    "Historical segments overlap previously inspected markets; a fresh prospective period is required."
+  ]
+}

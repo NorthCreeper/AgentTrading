@@ -1,0 +1,47 @@
+{
+  "createdAt": "2026-09-10T13:22:39.307Z",
+  "inputSha256": "65811c3e58b6b2feca5fb30fe42ea8398cd6dfc994c2187859e6979bd7c7c971",
+  "totalFrames": 16885,
+  "parts": {
+    "train": {
+      "frames": 7650,
+      "rounds": 33,
+      "first": 1788829338764,
+      "last": 1788880203736
+    },
+    "validation": {
+      "frames": 5029,
+      "rounds": 22,
+      "first": 1788881838647,
+      "last": 1788890066510
+    },
+    "diagnostic": {
+      "frames": 3943,
+      "rounds": 15,
+      "first": 1788890101158,
+      "last": 1788975298916
+    }
+  },
+  "specs": [
+    {
+      "horizonMs": 10000,
+      "threshold": 0.01
+    },
+    {
+      "horizonMs": 10000,
+      "threshold": 0.02
+    },
+    {
+      "horizonMs": 30000,
+      "threshold": 0.01
+    },
+    {
+      "horizonMs": 30000,
+      "threshold": 0.02
+    }
+  ],
+  "training": "Shared Up/Down ridge regression, lambda 10, standardized on training only; labels are future full-size sell proceeds minus current buy cost, both fees included. Samples every five seconds. Same-round continuous future paths only; no settlement guesses.",
+  "selection": "Validation only: minimum 3 completed trades; maximize net minus 0.25 realized drawdown. Diagnostic segment is not used for selection. Compare with no-trade zero.",
+  "promotion": "Both validation and diagnostic require >=10 completed trades, positive net, positive net after one extra tick per side, and positive mean-net minus 1.96 standard errors. This is an experimental screen, not statistical proof.",
+  "caveat": "Diagnostic forward data was collected after prior parameter study, but aggregate old-strategy outcomes have already been inspected. It is NOT a pristine unseen confirmation. A fresh prospective period remains required."
+}

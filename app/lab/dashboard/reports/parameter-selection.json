@@ -1,0 +1,24 @@
+{
+  "selectedId": "edge1-hold10-maker10",
+  "selected": {
+    "id": "edge1-hold10-maker10",
+    "config": {
+      "maxExposure": 10,
+      "maxLoss": 2,
+      "size": 5,
+      "makerMs": 10000,
+      "exitMakerMs": 2000,
+      "holdMs": 10000,
+      "staleMs": 3000
+    },
+    "strategy": {
+      "execution": "paper",
+      "minNetEdge": 0.01,
+      "costBuffer": 0.01,
+      "maxSpread": 0.04,
+      "stopLossUsd": 0.5
+    }
+  },
+  "reason": "best guarded development/validation score",
+  "testUsedForSelection": false
+}

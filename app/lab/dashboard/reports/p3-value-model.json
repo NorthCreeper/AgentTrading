@@ -1,0 +1,50 @@
+{
+  "version": "p3-settlement-calibration-v2",
+  "id": "p3-settlement-calibration-v2-c6d4481e1d",
+  "fittedAt": 1790783001347,
+  "trainingRounds": 3926,
+  "trainingDates": 19,
+  "lastLabelKnownAt": 1790781926453,
+  "model": {
+    "mean": [
+      0.030581066349291877,
+      0.0401125590470038,
+      0.07172502876854531
+    ],
+    "scale": [
+      3.851724805526205,
+      2.179769324352293,
+      0.06900428153880071
+    ],
+    "weights": [
+      0.0432893630158395,
+      0.10831103411903212,
+      -0.008539401967434633,
+      0.05648949532874842
+    ]
+  },
+  "protocol": {
+    "version": "p3-settlement-calibration-v2",
+    "anchorMs": 120000,
+    "windowMs": 5000,
+    "baseline": "raw-up-midpoint",
+    "features": "existing-verified-twap-distance-trend-variation",
+    "ridge": 20,
+    "maxLogitCorrection": 0.75,
+    "minimumRounds": 300,
+    "minimumTrainingDates": 7,
+    "minimumValidationDates": 3,
+    "minimumTestDates": 3,
+    "trainFraction": 0.6,
+    "validationFraction": 0.2,
+    "labelPurgeMs": 60000,
+    "diagnosticOnly": true,
+    "changesTradingRules": false
+  },
+  "diagnosticOnly": true,
+  "promotion": {
+    "eligible": false,
+    "historicalCalibrationPassed": false,
+    "reason": "历史留出概率增量或不确定性检验未通过；不能作为交易优势"
+  }
+}

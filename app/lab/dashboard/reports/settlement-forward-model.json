@@ -1,0 +1,52 @@
+{
+  "id": "settlement-forward-v1-278566a1",
+  "createdAt": "2026-09-11T00:42:30.964Z",
+  "inputHash": "278566a1875acea7e7811634b7c3e80aaf5df5b808929b078b3aacc4e62e2e25",
+  "protocol": {
+    "version": "settlement-probability-v1",
+    "size": 5,
+    "entryAgeMs": 120000,
+    "entryWindowMs": 5000,
+    "staleMs": 3000,
+    "maxSpread": 0.04,
+    "minEdge": 0.03,
+    "buffer": 0.01,
+    "probabilityHaircut": 0.03,
+    "ridge": 20,
+    "maxLogitCorrection": 0.75,
+    "minTrainingRounds": 30,
+    "minValidationRounds": 15,
+    "minDiagnosticRounds": 15,
+    "minTrades": 10
+  },
+  "model": {
+    "mean": [
+      -0.008000056411398837,
+      0.1432787161556363,
+      0.08233566023268547
+    ],
+    "scale": [
+      4.415097960626257,
+      2.022140762677867,
+      0.046181325716839576
+    ],
+    "weights": [
+      0.007918874898639593,
+      0.15058705694567298,
+      0.06761022181148202,
+      0.0580291470571909
+    ]
+  },
+  "fee": {
+    "rate": 0.07,
+    "exponent": 1
+  },
+  "trainingRounds": 67,
+  "virtualFitAt": 1789072320948,
+  "prospectiveAfter": 1789087350964,
+  "promotion": {
+    "eligible": false,
+    "historicalPassed": false,
+    "reason": "新采集数据的收益或校准检验未通过；仅独立影子记账"
+  }
+}

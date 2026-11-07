@@ -1,0 +1,70 @@
+{
+  "createdAt": "2026-09-10T14:00:25.469Z",
+  "experimentId": "4b319f2f-c974-4336-bc5e-31c5bd3a0009",
+  "count": 6,
+  "actualNet": -0.42876,
+  "holdToSettlementNet": 3.73457,
+  "rows": [
+    {
+      "slug": "btc-updown-5m-1788971700",
+      "outcome": "Up",
+      "winner": "Down",
+      "size": 5,
+      "entryCost": 1.7,
+      "entryFee": 0.07854,
+      "actualNet": -0.205925,
+      "holdToSettlementNet": -1.77854
+    },
+    {
+      "slug": "btc-updown-5m-1788973500",
+      "outcome": "Down",
+      "winner": "Up",
+      "size": 5,
+      "entryCost": 3,
+      "entryFee": 0.084,
+      "actualNet": -0.57136,
+      "holdToSettlementNet": -3.084
+    },
+    {
+      "slug": "btc-updown-5m-1788973800",
+      "outcome": "Up",
+      "winner": "Up",
+      "size": 5,
+      "entryCost": 2.05,
+      "entryFee": 0.084665,
+      "actualNet": 0.177975,
+      "holdToSettlementNet": 2.865335
+    },
+    {
+      "slug": "btc-updown-5m-1788974100",
+      "outcome": "Down",
+      "winner": "Down",
+      "size": 5,
+      "entryCost": 2.6,
+      "entryFee": 0.08736,
+      "actualNet": 0.33018,
+      "holdToSettlementNet": 2.31264
+    },
+    {
+      "slug": "btc-updown-5m-1788974700",
+      "outcome": "Up",
+      "winner": "Up",
+      "size": 5,
+      "entryCost": 4.25,
+      "entryFee": 0.044625,
+      "actualNet": -0.036765,
+      "holdToSettlementNet": 0.705375
+    },
+    {
+      "slug": "btc-updown-5m-1788975300",
+      "outcome": "Down",
+      "winner": "Down",
+      "size": 5,
+      "entryCost": 2.2,
+      "entryFee": 0.08624,
+      "actualNet": -0.122865,
+      "holdToSettlementNet": 2.71376
+    }
+  ],
+  "limitation": "Post-hoc counterfactual for every completed trade in one existing six-trade experiment. Keeps observed entry fills but replaces exits; not a strategy backtest. Ignores changed future entries, capital lock, loss-limit path and redemption costs. Cannot establish positive expectancy."
+}

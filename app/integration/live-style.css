@@ -1,0 +1,21 @@
+.live-panel{border-color:#6b4b32;background:linear-gradient(140deg,#221e18,#111a26 65%);scroll-margin-top:20px}.live-panel .section-title{flex-wrap:wrap;gap:12px}.live-actions{display:flex;gap:8px;flex-wrap:wrap}.live-armed{background:#4b2825!important;color:#ffb0a0!important;border-color:#ad5546!important}.live-metrics{display:grid;grid-template-columns:minmax(0,2fr) repeat(3,minmax(0,1fr));gap:12px;margin:16px 0}.live-metrics article{min-width:0;background:var(--inset);border:1px solid var(--line);border-radius:9px;padding:14px}.live-metrics span,.live-metrics small{display:block;color:var(--muted);font-size:.74rem}.live-metrics strong{display:block;font-size:1rem;margin:8px 0;overflow-wrap:anywhere}.live-ledger table{min-width:1040px}.live-ledger td{vertical-align:top}.live-ledger small{display:block;color:var(--muted);font-size:.7rem;overflow-wrap:anywhere;max-width:240px;margin-top:5px}.live-sign-box{border:1px solid #8d693c;border-radius:8px;padding:15px;margin:12px 0;background:#30271c}.live-check{display:flex;flex-direction:row;align-items:flex-start;gap:9px}.live-check input{width:16px;min-height:16px;height:16px;flex:0 0 auto;margin:2px 0 0;padding:0;accent-color:var(--green)}.live-secret-note{font-size:.76rem;line-height:1.8;color:var(--muted)}#live-sign-details{max-height:240px;overflow:auto;white-space:pre-wrap;overflow-wrap:anywhere}#live-account{font-size:.77rem;line-height:1.8}#live-enable-wallet{overflow-wrap:anywhere}.live-panel .table-wrap{margin-top:16px}@media(max-width:1000px){.live-metrics{grid-template-columns:repeat(3,minmax(0,1fr))}.live-metrics article:first-child{grid-column:1/-1}}@media(max-width:650px){.live-metrics{grid-template-columns:1fr}.live-actions button{flex:1}.live-actions{width:100%}}
+.execution-account {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px 20px;
+  margin-bottom: 12px;
+  padding: 12px 16px;
+  border: 1px solid var(--line);
+  border-radius: 9px;
+  background: var(--inset);
+}
+.execution-account-heading,
+.execution-account-actions {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.execution-account .footnote { margin: 6px 0 0; }

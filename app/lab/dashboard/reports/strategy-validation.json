@@ -1,0 +1,32 @@
+{
+  "checkedAt": "2026-09-08T15:36:29.8741769Z",
+  "automatedTests": 60,
+  "failedTests": 0,
+  "http": [
+    {
+      "resource": "/",
+      "status": 200
+    },
+    {
+      "resource": "/app.mjs",
+      "status": 200
+    },
+    {
+      "resource": "/style.css",
+      "status": 200
+    },
+    {
+      "resource": "/charts.mjs",
+      "status": 200
+    },
+    {
+      "resource": "/strategy-comparison.json",
+      "status": 200
+    }
+  ],
+  "running": false,
+  "strategyExecution": "shadow",
+  "cash": -0.450205,
+  "orders": 6,
+  "browserClickOrScreenshotTest": false
+}

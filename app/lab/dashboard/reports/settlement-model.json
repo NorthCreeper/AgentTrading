@@ -1,0 +1,33 @@
+{
+  "id": "settlement-probability-v1-6ac7a949",
+  "createdAt": "2026-09-10T13:54:21.841Z",
+  "inputHash": "6ac7a94935a3312054b5ae5f701ea88ffb60f5921646e4f4fd2d01f699398ce2",
+  "protocol": {
+    "version": "settlement-probability-v1",
+    "size": 5,
+    "entryAgeMs": 120000,
+    "entryWindowMs": 5000,
+    "staleMs": 3000,
+    "maxSpread": 0.04,
+    "minEdge": 0.03,
+    "buffer": 0.01,
+    "probabilityHaircut": 0.03,
+    "ridge": 20,
+    "maxLogitCorrection": 0.75,
+    "minTrainingRounds": 30,
+    "minValidationRounds": 15,
+    "minDiagnosticRounds": 15,
+    "minTrades": 10
+  },
+  "model": null,
+  "fee": {
+    "rate": 0.07,
+    "exponent": 1
+  },
+  "prospectiveAfter": 1789048461841,
+  "promotion": {
+    "eligible": false,
+    "historicalPassed": false,
+    "reason": "训练段完整标注轮次不足 30，或缺少两种结果；继续采集"
+  }
+}
