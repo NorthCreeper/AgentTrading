@@ -1,0 +1,13 @@
+case_id,seconds_left,feed_status,twap_delta_usd,threshold_usd,up_ask_cents,down_ask_cents,filled_shares,fee_cents,winner
+S01,75,fresh,61,60,83,17,10,10,UP
+S02,110,fresh,-84,80,18,84,10,10,DOWN
+S03,22,fresh,44,40,85,17,10,10,UP
+S04,54,fresh,-65,60,19,84,10,10,UP
+S05,130,fresh,70,60,83,17,,,
+S06,80,fresh,-39,40,17,83,,,
+S07,75,fresh,82,80,86,14,,,
+S08,45,missing,,60,,,,,
+S09,90,stale,81,80,82,18,,,
+S10,90,fresh,-65,60,17,83,0,0,
+S11,50,fresh,63,60,84,18,10,10,
+S12,65,fresh,-69,60,21,83,,,

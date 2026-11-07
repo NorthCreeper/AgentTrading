@@ -1,0 +1,5 @@
+cohort,strategy,cutoff_hkt,parent_cohort,completed_trades,profitable_trades,fees_usd,net_usd
+momentum_audit,forward-momentum-v1,2026-10-16,,2929,,110.77,-98.33
+ray_v8_interim,ray-v8,2026-11-05,ray_v8_final,70,58,18.01,-40.83
+ray_all_final,ray-all-versions,2026-11-08,,136,113,39.00,-78.78
+ray_v8_final,ray-v8,2026-11-08,ray_all_final,94,79,24.05,-6.73
